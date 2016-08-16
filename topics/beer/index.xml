@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Beer on Refresh Annapolis Valley</title>
-    <link>http://refreshav.github.io/topics/beer/</link>
+    <link>https://refreshav.github.io/topics/beer/</link>
     <description>Recent content in Beer on Refresh Annapolis Valley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
     <lastBuildDate>Wed, 10 Aug 2016 19:00:00 +0000</lastBuildDate>
-    <atom:link href="http://refreshav.github.io/topics/beer/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://refreshav.github.io/topics/beer/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</title>
-      <link>http://refreshav.github.io/event/test/</link>
+      <link>https://refreshav.github.io/event/test/</link>
       <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
       
-      <guid>http://refreshav.github.io/event/test/</guid>
+      <guid>https://refreshav.github.io/event/test/</guid>
       <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great.&lt;/p&gt;
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec vehicula odio, vitae interdum ligula. Nam pharetra, enim non blandit lobortis, quam nulla lacinia justo, vitae pulvinar ante ipsum vitae ligula. Vivamus tempus nisl a quam rhoncus, tincidunt gravida velit aliquet. Mauris vel pharetra metus. Mauris euismod magna vitae mi cursus, ut vestibulum massa pharetra. Pellentesque convallis pretium nisi. Duis non lectus pretium, aliquet eros quis, luctus eros. Ut rutrum tortor in pharetra semper. Mauris in quam felis. Nunc et libero ante. Praesent iaculis dui at condimentum pretium. Nam molestie turpis nulla, vitae dapibus felis ultricies non.&lt;/p&gt;
@@ -31,10 +31,10 @@
     
     <item>
       <title>Refresh Annapolis Valley</title>
-      <link>http://refreshav.github.io/organization/refresh-annapolis-valley/</link>
+      <link>https://refreshav.github.io/organization/refresh-annapolis-valley/</link>
       <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
       
-      <guid>http://refreshav.github.io/organization/refresh-annapolis-valley/</guid>
+      <guid>https://refreshav.github.io/organization/refresh-annapolis-valley/</guid>
       <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great.&lt;/p&gt;
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec vehicula odio, vitae interdum ligula. Nam pharetra, enim non blandit lobortis, quam nulla lacinia justo, vitae pulvinar ante ipsum vitae ligula. Vivamus tempus nisl a quam rhoncus, tincidunt gravida velit aliquet. Mauris vel pharetra metus. Mauris euismod magna vitae mi cursus, ut vestibulum massa pharetra. Pellentesque convallis pretium nisi. Duis non lectus pretium, aliquet eros quis, luctus eros. Ut rutrum tortor in pharetra semper. Mauris in quam felis. Nunc et libero ante. Praesent iaculis dui at condimentum pretium. Nam molestie turpis nulla, vitae dapibus felis ultricies non.&lt;/p&gt;

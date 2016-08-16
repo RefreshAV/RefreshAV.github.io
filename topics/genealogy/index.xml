@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Genealogy on Refresh Annapolis Valley</title>
-    <link>http://refreshav.github.io/topics/genealogy/</link>
+    <link>https://refreshav.github.io/topics/genealogy/</link>
     <description>Recent content in Genealogy on Refresh Annapolis Valley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
     <lastBuildDate>Wed, 10 Aug 2016 19:00:00 +0000</lastBuildDate>
-    <atom:link href="http://refreshav.github.io/topics/genealogy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://refreshav.github.io/topics/genealogy/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Pierre Clouthier</title>
-      <link>http://refreshav.github.io/person/pierre-clouthier/</link>
+      <link>https://refreshav.github.io/person/pierre-clouthier/</link>
       <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
       
-      <guid>http://refreshav.github.io/person/pierre-clouthier/</guid>
+      <guid>https://refreshav.github.io/person/pierre-clouthier/</guid>
       <description>&lt;p&gt;Co-founder, CTO Progeny Software, specialising in computer graphics software for genealogy.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Progeny Genealogy</title>
-      <link>http://refreshav.github.io/organization/progeny-genealogy/</link>
+      <link>https://refreshav.github.io/organization/progeny-genealogy/</link>
       <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
       
-      <guid>http://refreshav.github.io/organization/progeny-genealogy/</guid>
+      <guid>https://refreshav.github.io/organization/progeny-genealogy/</guid>
       <description>&lt;p&gt;Progeny Genealogy is the leading developer of family tree software and other useful, easy-to-use genealogy research resources, including &lt;a href=&#34;http://progenygenealogy.com/Products/FamilyTreeCharts.aspx&#34;&gt;Charting Companion&lt;/a&gt;™, &lt;a href=&#34;http://progenygenealogy.com/Products/TimelineCharts.aspx&#34;&gt;Genelines&lt;/a&gt;™ and &lt;a href=&#34;http://progenygenealogy.com/Products/FamilyMaps.aspx&#34;&gt;Map My Family Tree&lt;/a&gt;™. More than pretty charts, our genealogy software programs are also powerful research tools.&lt;/p&gt;
 </description>
     </item>
