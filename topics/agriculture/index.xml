@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agriculture on Refresh Annapolis Valley</title>
+    <link>http://refreshav.github.io/topics/agriculture/</link>
+    <description>Recent content in Agriculture on Refresh Annapolis Valley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Wed, 10 Aug 2016 19:00:00 +0000</lastBuildDate>
+    <atom:link href="http://refreshav.github.io/topics/agriculture/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>HarvestHand</title>
+      <link>http://refreshav.github.io/organization/harvesthand/</link>
+      <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
+      
+      <guid>http://refreshav.github.io/organization/harvesthand/</guid>
+      <description>&lt;p&gt;HarvestHand is a community platform dedicated to strengthening regional food systems. We&amp;rsquo;re passionate about supporting farms with CSA&amp;rsquo;s to become more profitable using HarvestHand CSA Software, helping communities eat better through the HarvestHand Community, creating good jobs in rural communities, and building new media solutions that make sharing the harvest easier.&lt;/p&gt;
+
+&lt;p&gt;Our vision is to create new media solutions that strengthen regional food systems&amp;rsquo; ability to succeed in value oriented approaches to production, distribution, consumption and community.&lt;/p&gt;
+
+&lt;p&gt;Our Mandate is to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Improve the profitability of Community Shared Agriculture (CSA) farms through the ease and functionality of HarvestHand CSA Software Platform&lt;/li&gt;
+&lt;li&gt;Create localized and fairly paid employment opportunities in rural communities&lt;/li&gt;
+&lt;li&gt;Make it easy for citizens to locate, join and remain a member of a CSA farm&lt;/li&gt;
+&lt;li&gt;Create a space for exploration of ideas, identification of problems and creation of solutions related to local food systems&lt;/li&gt;
+&lt;li&gt;Build out best of regional food tooling&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&#34;flex-video&#34;&gt;
+    &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/qNxWThFGa5M&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
