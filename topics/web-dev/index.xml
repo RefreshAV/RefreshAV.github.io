@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Dev on Refresh Annapolis Valley</title>
+    <link>https://refreshav.github.io/topics/web-dev/</link>
+    <description>Recent content in Web Dev on Refresh Annapolis Valley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Wed, 10 Aug 2016 19:00:00 +0000</lastBuildDate>
+    <atom:link href="https://refreshav.github.io/topics/web-dev/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Charlie Greene</title>
+      <link>https://refreshav.github.io/person/charlie-greene/</link>
+      <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
+      
+      <guid>https://refreshav.github.io/person/charlie-greene/</guid>
+      <description>&lt;p&gt;Charlie is a software developer and system administrator at The REDspace. He is alumni from &lt;a href=&#34;https://refreshav.github.io/organization/colibri-software&#34;&gt;
+    
+        Colibri Software
+    
+&lt;/a&gt;
+ where he worked for two years, ever since graduating from Acadia University with a Honors degree in Computer Science with Co-Op option.&lt;/p&gt;
+
+&lt;p&gt;Charlie&amp;rsquo;s profile picture was created by a robot inspired by the work of Ruby the painting elephant.  True story.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Justin Bezanson</title>
+      <link>https://refreshav.github.io/person/justin-bezanson/</link>
+      <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
+      
+      <guid>https://refreshav.github.io/person/justin-bezanson/</guid>
+      <description>&lt;p&gt;Since 2000 I have continued to expand my knowledge and skills and worked hard to be the best developer I can be.&lt;/p&gt;
+
+&lt;p&gt;I enjoy meeting challenges and working hard to find creative and user friendly solutions.&lt;/p&gt;
+
+&lt;p&gt;My goal is to continually improve my development process, delivering higher quality and efficiency.&lt;/p&gt;
+
+&lt;p&gt;Specialties: PHP, ASP.NET MVC, HTML, CSS, JavaScript, jQuery, CodeIgniter, Zend Framework, AJAX, Windows, Linux, MySQL, SQL Server, WordPress, ASP.NET&lt;/p&gt;
+
+&lt;p&gt;Justin, pictured here, &lt;em&gt;is&lt;/em&gt; The Thing from the Fantastic Four.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Keith Diehl</title>
+      <link>https://refreshav.github.io/person/keith-diehl/</link>
+      <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
+      
+      <guid>https://refreshav.github.io/person/keith-diehl/</guid>
+      <description>&lt;p&gt;Keith is a webmaster for CED Solutions.  An expert in all things Coldfusion.&lt;/p&gt;
+
+&lt;p&gt;Keith&amp;rsquo;s profile picture was created by a robot inspired by Vincent van Gogh&amp;rsquo;s Portrait of Camille Roulin.  Header image swiped from &lt;em&gt;The Walt Disney Story of Our Friend the Atom&lt;/em&gt; (1956) by Heinz Haber.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Michael Caplan</title>
+      <link>https://refreshav.github.io/person/michael-caplan/</link>
+      <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
+      
+      <guid>https://refreshav.github.io/person/michael-caplan/</guid>
+      <description>&lt;p&gt;Mike has been active as a web application developer and web designer for 16 years, working in the non-profit, university, retail, agricultural, and dental industries. He is a founding partner of &lt;a href=&#34;https://refreshav.github.io/organization/harvesthand&#34;&gt;
+    
+        HarvestHand
+    
+&lt;/a&gt;
+, a platform that services Community Shared Agriculture farms. More recently, Mike founded &lt;a href=&#34;https://refreshav.github.io/organization/refresh-annapolis-valley&#34;&gt;
+    
+        Refresh Annapolis Valley
+    
+&lt;/a&gt;
+, a new media professional association to help grow the Valley&amp;rsquo;s technology industry.&lt;/p&gt;
+
+&lt;p&gt;Mike is the Software Development Manager for the &lt;a href=&#34;https://refreshav.github.io/organization/labnet-dental-lab-systems&#34;&gt;
+    
+        Labnet Dental Lab Systems
+    
+&lt;/a&gt;
+ division of Henry Schein - a Fortune 300 company with a small footprint here in Wolfville.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

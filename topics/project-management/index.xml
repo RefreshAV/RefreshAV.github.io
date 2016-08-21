@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project Management on Refresh Annapolis Valley</title>
+    <link>https://refreshav.github.io/topics/project-management/</link>
+    <description>Recent content in Project Management on Refresh Annapolis Valley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Wed, 10 Aug 2016 19:00:00 +0000</lastBuildDate>
+    <atom:link href="https://refreshav.github.io/topics/project-management/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Geoff Crouse</title>
+      <link>https://refreshav.github.io/person/geoff-crouse/</link>
+      <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
+      
+      <guid>https://refreshav.github.io/person/geoff-crouse/</guid>
+      <description>&lt;p&gt;Geoff has more than 17 years of combined Software Engineering and Information Technology Consulting experience.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Technical Sales Engineer, specializing in medium to large scale Drupal CMS projects including new development, site audits and analysis, and expert support services.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Account Management, coordinating customer projects with engineering and support teams from initial conception to final delivery, and continued support.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Geoff&amp;rsquo;s profile picture was created by a robot inspired by Peggy&amp;rsquo;s Cove.  Peggy&amp;rsquo;s Cove pic care of Wikipedia.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

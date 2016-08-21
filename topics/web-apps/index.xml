@@ -10,18 +10,14 @@
     <atom:link href="https://refreshav.github.io/topics/web-apps/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Justin Bezanson</title>
-      <link>https://refreshav.github.io/person/justin-bezanson/</link>
+      <title>Colibri Software</title>
+      <link>https://refreshav.github.io/organization/colibri-software/</link>
       <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
       
-      <guid>https://refreshav.github.io/person/justin-bezanson/</guid>
-      <description>&lt;p&gt;Since 2000 I have continued to expand my knowledge and skills and worked hard to be the best developer I can be.&lt;/p&gt;
+      <guid>https://refreshav.github.io/organization/colibri-software/</guid>
+      <description>&lt;p&gt;Colibri Software builds awesome software. We work with our clients to understand their needs and then produce a simple and effective solution to their problems. Our focus is on making a product easy to use, from websites to mobile apps, we like it when we hear “this is easy”.&lt;/p&gt;
 
-&lt;p&gt;I enjoy meeting challenges and working hard to find creative and user friendly solutions.&lt;/p&gt;
-
-&lt;p&gt;My goal is to continually improve my development process, delivering higher quality and efficiency.&lt;/p&gt;
-
-&lt;p&gt;Specialties: PHP, ASP.NET MVC, HTML, CSS, JavaScript, jQuery, CodeIgniter, Zend Framework, AJAX, Windows, Linux, MySQL, SQL Server, WordPress, ASP.NET&lt;/p&gt;
+&lt;p&gt;We have a special affinity for mapping projects and have send rugged phone apps as far as Nunavut to help collect data for the hunting community.&lt;/p&gt;
 </description>
     </item>
     
@@ -50,33 +46,6 @@
     </item>
     
     <item>
-      <title>Michael Caplan</title>
-      <link>https://refreshav.github.io/person/michael-caplan/</link>
-      <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
-      
-      <guid>https://refreshav.github.io/person/michael-caplan/</guid>
-      <description>&lt;p&gt;Mike has been active as a web application developer and web designer for 16 years, working in the non-profit, university, retail, agricultural, and dental industries. He is a founding partner of &lt;a href=&#34;https://refreshav.github.io/organization/harvesthand&#34;&gt;
-    
-        HarvestHand
-    
-&lt;/a&gt;
-, a platform that services Community Shared Agriculture farms. More recently, Mike founded &lt;a href=&#34;https://refreshav.github.io/organization/refresh-annapolis-valley&#34;&gt;
-    
-        Refresh Annapolis Valley
-    
-&lt;/a&gt;
-, a new media professional association to help grow the Valley&amp;rsquo;s technology industry.&lt;/p&gt;
-
-&lt;p&gt;Mike is the Software Development Manager for the &lt;a href=&#34;https://refreshav.github.io/organization/labnet-dental-lab-systems&#34;&gt;
-    
-        Labnet Dental Lab Systems
-    
-&lt;/a&gt;
- division of Henry Schein - a Fortune 300 company with a small footprint here in Wolfville.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Pierre Clouthier</title>
       <link>https://refreshav.github.io/person/pierre-clouthier/</link>
       <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
@@ -97,9 +66,94 @@
     </item>
     
     <item>
+      <title>Local Projects Roundup: Round Two</title>
+      <link>https://refreshav.github.io/event/local-projects-roundup-round-two/</link>
+      <pubDate>Mon, 10 Dec 2012 19:30:00 -0300</pubDate>
+      
+      <guid>https://refreshav.github.io/event/local-projects-roundup-round-two/</guid>
+      <description>&lt;p&gt;Come join us for &amp;ldquo;&lt;strong&gt;Local Projects Roundup - Round Two&lt;/strong&gt;,&amp;rdquo; a discussion about interesting local web projects, platforms, business, and techies.&lt;/p&gt;
+
+&lt;div class=&#34;media-object&#34;&gt;
+    &lt;div class=&#34;media-object-section&#34;&gt;
+        &lt;div class=&#34;thumbnail&#34;&gt;
+            &lt;img style=&#34;max-width: 100px&#34; src= &#34;https://refreshav.github.io/images/organization/valley-family-fun/icon.jpg&#34;&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;media-object-section&#34;&gt;
+        &lt;h4&gt;&lt;strong&gt;Online Community Engagement&lt;/strong&gt; with Laura Churchill Duke&lt;/h4&gt;
+        &lt;p&gt;
+    Laura is the owner and operator of &lt;a href=&#34;https://refreshav.github.io/organization/valley-family-fun&#34;&gt;
+    
+        Valley Family Fun
+    
+&lt;/a&gt;
+ which is a website for families living in the Annapolis Valley. It includes resources, ideas, information and a calendar of family-friendly events. Started in January 2012, it has grown to include a Facebook and Twitter site to form a web-based network of over 2000 followers.
+&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;&lt;div class=&#34;media-object&#34;&gt;
+    &lt;div class=&#34;media-object-section&#34;&gt;
+        &lt;div class=&#34;thumbnail&#34;&gt;
+            &lt;img style=&#34;max-width: 100px&#34; src= &#34;https://refreshav.github.io/images/organization/scotiacom/icon.jpg&#34;&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;media-object-section&#34;&gt;
+        &lt;h4&gt;&lt;strong&gt;Let&amp;rsquo;s Build a Drupal Site in 8 Minutes, 32 Seconds!&lt;/strong&gt; with Geoff Crouse&lt;/h4&gt;
+        &lt;p&gt;
+    Geoff of &lt;a href=&#34;https://refreshav.github.io/organization/scotiacom&#34;&gt;
+    
+        ScotiaCom
+    
+&lt;/a&gt;
+ will walk us through the build out of web sites using the popular open source Content Management System Drupal.
+&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;media-object&#34;&gt;
+    &lt;div class=&#34;media-object-section&#34;&gt;
+        &lt;div class=&#34;thumbnail&#34;&gt;
+            &lt;img style=&#34;max-width: 100px&#34; src= &#34;https://refreshav.github.io/images/organization/colibri-software/icon.png&#34;&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;media-object-section&#34;&gt;
+        &lt;h4&gt;&lt;strong&gt;Locomotive CMS&lt;/strong&gt; with Charlie&lt;/h4&gt;
+        &lt;p&gt;
+    Charlie from &lt;a href=&#34;https://refreshav.github.io/organization/colibri-software&#34;&gt;
+    
+        Colibri Software
+    
+&lt;/a&gt;
+ will present a description of the architecture of Locomotive CMS (a data driven system which uses Ruby on Rails, MongoDB and liquid markup) in contrast to a traditional PHP (page driven, PHP, SQL) content management system. We will look at the strengths and weaknesses of Locomotive in this context.
+&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;media-object&#34;&gt;
+    &lt;div class=&#34;media-object-section&#34;&gt;
+        &lt;div class=&#34;thumbnail&#34;&gt;
+            &lt;img style=&#34;max-width: 100px&#34; src= &#34;https://refreshav.github.io/images/event/local-projects-roundup-round-two/coldfusion.png&#34;&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;media-object-section&#34;&gt;
+        &lt;h4&gt;&lt;strong&gt;Coldfusion&lt;/strong&gt; with Keith Diehl&lt;/h4&gt;
+        &lt;p&gt;
+    How Coldfusion saved me from a week of grunt work - Using SQL Server and Coldfusion to generate 600 Word Documents.
+&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Local Projects Roundup: Round One</title>
       <link>https://refreshav.github.io/event/local-projects-roundup-round-one/</link>
-      <pubDate>Fri, 12 Oct 2012 19:30:00 -0300</pubDate>
+      <pubDate>Mon, 12 Nov 2012 19:30:00 -0300</pubDate>
       
       <guid>https://refreshav.github.io/event/local-projects-roundup-round-one/</guid>
       <description>&lt;p&gt;Come join us for &lt;strong&gt;Local Projects Roundup - Round One&lt;/strong&gt;, a discussion about interesting local web projects, and initiatives supporting startups.&lt;/p&gt;
