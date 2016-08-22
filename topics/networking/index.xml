@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Networking on Refresh Annapolis Valley</title>
+    <link>https://refreshav.github.io/topics/networking/</link>
+    <description>Recent content in Networking on Refresh Annapolis Valley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Wed, 10 Aug 2016 19:00:00 +0000</lastBuildDate>
+    <atom:link href="https://refreshav.github.io/topics/networking/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Digital Nova Scotia</title>
+      <link>https://refreshav.github.io/organization/digital-nova-scotia/</link>
+      <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
+      
+      <guid>https://refreshav.github.io/organization/digital-nova-scotia/</guid>
+      <description>
+
+&lt;p&gt;Engaging both members and stakeholders in the region, Digital Nova Scotia provides advocacy, multi-sectoral industry intelligence, facilitates connections between industry and talent, and delivers high-level programming to ensure Nova Scotia’s $1.5 billion digital industry (which boasts an additional $1 billion in spin-offs) continues to flourish.&lt;/p&gt;
+
+&lt;h3 id=&#34;it-starts-here-it-stays-here-it-grows-here&#34;&gt;IT starts here. IT stays here. IT grows here.&lt;/h3&gt;
+
+&lt;p&gt;As the industry association for the fastest growing sector in the province with the highest number of ICT graduates per capita in Canada, Digital Nova Scotia encourages our tech talent and growing ecosystem of digital businesses to start here, stay here, and grow here! We believe that Nova Scotia’s digital technologies sector has the potential to be what the oil and gas sector is for Alberta. Nova Scotia has the “IT” factor: globally competitive talent, an ecosystem of support, advanced digital infrastructure, and a drive to push our economic boundaries. We are going for growth on a global scale!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>innovacorp</title>
+      <link>https://refreshav.github.io/organization/innovacorp/</link>
+      <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
+      
+      <guid>https://refreshav.github.io/organization/innovacorp/</guid>
+      <description>&lt;p&gt;Innovacorp is Nova Scotia’s early stage venture capital organization. We work to find, fund and foster innovative Nova Scotia start-ups that strive to change the world. Early stage investment is at the core of our business model. We also give entrepreneurs access to world-class incubation facilities, expert advice and other support to help them accelerate their companies.&lt;/p&gt;
+
+&lt;p&gt;Target industries include clean technology, information technology, life sciences and ocean technology.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
