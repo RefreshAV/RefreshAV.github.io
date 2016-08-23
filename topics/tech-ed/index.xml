@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech Ed on Refresh Annapolis Valley</title>
+    <link>https://refreshav.github.io/topics/tech-ed/</link>
+    <description>Recent content in Tech Ed on Refresh Annapolis Valley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Wed, 10 Aug 2016 19:00:00 +0000</lastBuildDate>
+    <atom:link href="https://refreshav.github.io/topics/tech-ed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Acadia Robotics Program</title>
+      <link>https://refreshav.github.io/organization/acadia-robotics-program/</link>
+      <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
+      
+      <guid>https://refreshav.github.io/organization/acadia-robotics-program/</guid>
+      <description>&lt;p&gt;The Robot Programming Competition mission is to increase interest in building digital technology and computer science by engaging Nova Scotia students in annual robotics programming competitions and related activities that feature problem solving and teamwork.&lt;/p&gt;
+
+&lt;p&gt;The Acadia Robotics Program, through the Jodrey School of Computer Science, depends heavily on financial support from external organizations and the committed volunteers who annually contribute to the season from late August through to mid-June.  We have a junior program, FIRST® LEGO® League, and a senior program, Robofest. All the outreach throughout the season culminates in a Provincial Robot Programming Championship here at Acadia Unversity each February, involving over 400 participants, 100 volunteers, media and many organizations.&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/qA3L8_KJB4c&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
