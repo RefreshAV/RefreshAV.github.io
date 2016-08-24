@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web Design on Refresh Annapolis Valley</title>
-    <link>https://refreshav.github.io/topics/web-design/</link>
+    <link>https://refreshannapilsvalley.org/topics/web-design/</link>
     <description>Recent content in Web Design on Refresh Annapolis Valley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
     <lastBuildDate>Wed, 10 Aug 2016 19:00:00 +0000</lastBuildDate>
-    <atom:link href="https://refreshav.github.io/topics/web-design/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://refreshannapilsvalley.org/topics/web-design/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Colibri Software</title>
-      <link>https://refreshav.github.io/organization/colibri-software/</link>
+      <link>https://refreshannapilsvalley.org/organization/colibri-software/</link>
       <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
       
-      <guid>https://refreshav.github.io/organization/colibri-software/</guid>
+      <guid>https://refreshannapilsvalley.org/organization/colibri-software/</guid>
       <description>&lt;p&gt;Colibri Software builds awesome software. We work with our clients to understand their needs and then produce a simple and effective solution to their problems. Our focus is on making a product easy to use, from websites to mobile apps, we like it when we hear “this is easy”.&lt;/p&gt;
 
 &lt;p&gt;We have a special affinity for mapping projects and have send rugged phone apps as far as Nunavut to help collect data for the hunting community.&lt;/p&gt;
@@ -23,10 +23,10 @@
     
     <item>
       <title>Geoff Crouse</title>
-      <link>https://refreshav.github.io/person/geoff-crouse/</link>
+      <link>https://refreshannapilsvalley.org/person/geoff-crouse/</link>
       <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
       
-      <guid>https://refreshav.github.io/person/geoff-crouse/</guid>
+      <guid>https://refreshannapilsvalley.org/person/geoff-crouse/</guid>
       <description>&lt;p&gt;Geoff has more than 17 years of combined Software Engineering and Information Technology Consulting experience.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -41,10 +41,10 @@
     
     <item>
       <title>ScotiaCom</title>
-      <link>https://refreshav.github.io/organization/scotiacom/</link>
+      <link>https://refreshannapilsvalley.org/organization/scotiacom/</link>
       <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
       
-      <guid>https://refreshav.github.io/organization/scotiacom/</guid>
+      <guid>https://refreshannapilsvalley.org/organization/scotiacom/</guid>
       <description>&lt;p&gt;ScotiaCom (aka Scotia Computer Resources Inc.) is a small, independent business located in the Annapolis Valley, Nova Scotia. What started as an educational software development company has become a leader in the development and deployment of services that allow organizations, groups, individuals and small businesses to take full advantage of the Internet.&lt;/p&gt;
 </description>
     </item>

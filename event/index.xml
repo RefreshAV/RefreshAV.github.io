@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events on Refresh Annapolis Valley</title>
-    <link>https://refreshav.github.io/event/</link>
+    <link>https://refreshannapilsvalley.org/event/</link>
     <description>Recent content in Events on Refresh Annapolis Valley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
     <lastBuildDate>Tue, 20 Sep 2016 18:30:00 -0300</lastBuildDate>
-    <atom:link href="https://refreshav.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://refreshannapilsvalley.org/event/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>CODE: Debugging the Gender Gap</title>
-      <link>https://refreshav.github.io/event/code-debugging-the-gender-gap/</link>
+      <link>https://refreshannapilsvalley.org/event/code-debugging-the-gender-gap/</link>
       <pubDate>Tue, 20 Sep 2016 18:30:00 -0300</pubDate>
       
-      <guid>https://refreshav.github.io/event/code-debugging-the-gender-gap/</guid>
+      <guid>https://refreshannapilsvalley.org/event/code-debugging-the-gender-gap/</guid>
       <description>
 &lt;figure class=&#34;float-right&#34;&gt;
     
-        &lt;img src=&#34;https://refreshav.github.io/images/event/code-debugging-the-gender-gap/poster.jpg&#34; alt=&#34;CODE: Debugging the Gender Gap&#34; /&gt;
+        &lt;img src=&#34;https://refreshannapilsvalley.org/images/event/code-debugging-the-gender-gap/poster.jpg&#34; alt=&#34;CODE: Debugging the Gender Gap&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -40,9 +40,9 @@ who are engaged in the fight to challenge complacency in the tech industry and h
 voices heard. &lt;em&gt;CODE&lt;/em&gt; aims to inspire change in mindsets, in the educational system, in startup
 culture and in the way women see themselves in the field of coding.&lt;/p&gt;
 
-&lt;p&gt;This screening will feature an introductory keynote address by &lt;a href=&#34;https://refreshav.github.io/person/ulrike-bahr-gedalia&#34;&gt;Ulrike Bahr-Gedalia&lt;/a&gt;
+&lt;p&gt;This screening will feature an introductory keynote address by &lt;a href=&#34;https://refreshannapilsvalley.org/person/ulrike-bahr-gedalia&#34;&gt;Ulrike Bahr-Gedalia&lt;/a&gt;
 ,
-President and CEO of &lt;a href=&#34;https://refreshav.github.io/organization/digital-nova-scotia&#34;&gt;
+President and CEO of &lt;a href=&#34;https://refreshannapilsvalley.org/organization/digital-nova-scotia&#34;&gt;
     
         Digital Nova Scotia
     
@@ -86,10 +86,10 @@ made possible by the inclusion of more women in code.&lt;/p&gt;
     
     <item>
       <title>Ballmer Peak</title>
-      <link>https://refreshav.github.io/event/ballmer-peak/</link>
+      <link>https://refreshannapilsvalley.org/event/ballmer-peak/</link>
       <pubDate>Tue, 12 Jul 2016 19:00:00 -0300</pubDate>
       
-      <guid>https://refreshav.github.io/event/ballmer-peak/</guid>
+      <guid>https://refreshannapilsvalley.org/event/ballmer-peak/</guid>
       <description>&lt;p&gt;When surveying a bunch of #Refreshers what we should do for July:&lt;/p&gt;
 
 &lt;p&gt;A) Take off and enjoy the sun (47.1%)&lt;/p&gt;
@@ -108,43 +108,43 @@ made possible by the inclusion of more women in code.&lt;/p&gt;
     
     <item>
       <title>Inspiration. Imitation. Innovation: Transforming The Physical World With Open Source Hardware</title>
-      <link>https://refreshav.github.io/event/inspiration-imitation-innovation-transforming-the-physical-world-with-open-source-hardware/</link>
+      <link>https://refreshannapilsvalley.org/event/inspiration-imitation-innovation-transforming-the-physical-world-with-open-source-hardware/</link>
       <pubDate>Tue, 14 Jun 2016 19:00:00 -0300</pubDate>
       
-      <guid>https://refreshav.github.io/event/inspiration-imitation-innovation-transforming-the-physical-world-with-open-source-hardware/</guid>
-      <description>&lt;p&gt;Powered by open source hardware and software, students, engineers, and garage tinkerers alike are hacking the physical world. Using inexpensive “mini computers” like the Arduino, these makers are building interactive devices that can sense and control other physical objects. In this presentation, we will look at opportunity the Open Source Hardware Movement has created for everyday people to hack our technological world. &lt;a href=&#34;https://refreshav.github.io/person/ian-mckay&#34;&gt;Ian McKay&lt;/a&gt;
+      <guid>https://refreshannapilsvalley.org/event/inspiration-imitation-innovation-transforming-the-physical-world-with-open-source-hardware/</guid>
+      <description>&lt;p&gt;Powered by open source hardware and software, students, engineers, and garage tinkerers alike are hacking the physical world. Using inexpensive “mini computers” like the Arduino, these makers are building interactive devices that can sense and control other physical objects. In this presentation, we will look at opportunity the Open Source Hardware Movement has created for everyday people to hack our technological world. &lt;a href=&#34;https://refreshannapilsvalley.org/person/ian-mckay&#34;&gt;Ian McKay&lt;/a&gt;
  will introduce us to hacking the Arduino with a newbie how-to. We will do a live build of a project, playing with sensors, controlling devices and mad scientist programming.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>IP Matters</title>
-      <link>https://refreshav.github.io/event/ip-matters/</link>
+      <link>https://refreshannapilsvalley.org/event/ip-matters/</link>
       <pubDate>Tue, 10 May 2016 19:00:00 -0300</pubDate>
       
-      <guid>https://refreshav.github.io/event/ip-matters/</guid>
+      <guid>https://refreshannapilsvalley.org/event/ip-matters/</guid>
       <description>&lt;p&gt;Take an engaging journey into the world of intellectual property (IP) and software. What IP do you have and how can you protect it? Is it better to use a trademark, copyright or a patent? How long does it take and what does it cost? This presentation will introduce you to the types of IP and why they matter.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Local Projects Roundup: Round Two</title>
-      <link>https://refreshav.github.io/event/local-projects-roundup-round-two/</link>
+      <link>https://refreshannapilsvalley.org/event/local-projects-roundup-round-two/</link>
       <pubDate>Mon, 10 Dec 2012 19:30:00 -0300</pubDate>
       
-      <guid>https://refreshav.github.io/event/local-projects-roundup-round-two/</guid>
+      <guid>https://refreshannapilsvalley.org/event/local-projects-roundup-round-two/</guid>
       <description>&lt;p&gt;Come join us for &amp;ldquo;&lt;strong&gt;Local Projects Roundup - Round Two&lt;/strong&gt;,&amp;rdquo; a discussion about interesting local web projects, platforms, business, and techies.&lt;/p&gt;
 
 &lt;div class=&#34;media-object&#34;&gt;
     &lt;div class=&#34;media-object-section&#34;&gt;
         &lt;div class=&#34;thumbnail&#34;&gt;
-            &lt;img style=&#34;max-width: 100px&#34; src= &#34;https://refreshav.github.io/images/organization/valley-family-fun/icon.jpg&#34;&gt;
+            &lt;img style=&#34;max-width: 100px&#34; src= &#34;https://refreshannapilsvalley.org/images/organization/valley-family-fun/icon.jpg&#34;&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&#34;media-object-section&#34;&gt;
         &lt;h4&gt;&lt;strong&gt;Online Community Engagement&lt;/strong&gt; with Laura Churchill Duke&lt;/h4&gt;
         &lt;p&gt;
-    Laura is the owner and operator of &lt;a href=&#34;https://refreshav.github.io/organization/valley-family-fun&#34;&gt;
+    Laura is the owner and operator of &lt;a href=&#34;https://refreshannapilsvalley.org/organization/valley-family-fun&#34;&gt;
     
         Valley Family Fun
     
@@ -158,13 +158,13 @@ made possible by the inclusion of more women in code.&lt;/p&gt;
 &lt;p&gt;&lt;div class=&#34;media-object&#34;&gt;
     &lt;div class=&#34;media-object-section&#34;&gt;
         &lt;div class=&#34;thumbnail&#34;&gt;
-            &lt;img style=&#34;max-width: 100px&#34; src= &#34;https://refreshav.github.io/images/organization/scotiacom/icon.jpg&#34;&gt;
+            &lt;img style=&#34;max-width: 100px&#34; src= &#34;https://refreshannapilsvalley.org/images/organization/scotiacom/icon.jpg&#34;&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&#34;media-object-section&#34;&gt;
         &lt;h4&gt;&lt;strong&gt;Let&amp;rsquo;s Build a Drupal Site in 8 Minutes, 32 Seconds!&lt;/strong&gt; with Geoff Crouse&lt;/h4&gt;
         &lt;p&gt;
-    Geoff of &lt;a href=&#34;https://refreshav.github.io/organization/scotiacom&#34;&gt;
+    Geoff of &lt;a href=&#34;https://refreshannapilsvalley.org/organization/scotiacom&#34;&gt;
     
         ScotiaCom
     
@@ -178,13 +178,13 @@ made possible by the inclusion of more women in code.&lt;/p&gt;
 &lt;p&gt;&lt;div class=&#34;media-object&#34;&gt;
     &lt;div class=&#34;media-object-section&#34;&gt;
         &lt;div class=&#34;thumbnail&#34;&gt;
-            &lt;img style=&#34;max-width: 100px&#34; src= &#34;https://refreshav.github.io/images/organization/colibri-software/icon.png&#34;&gt;
+            &lt;img style=&#34;max-width: 100px&#34; src= &#34;https://refreshannapilsvalley.org/images/organization/colibri-software/icon.png&#34;&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&#34;media-object-section&#34;&gt;
         &lt;h4&gt;&lt;strong&gt;Locomotive CMS&lt;/strong&gt; with Charlie&lt;/h4&gt;
         &lt;p&gt;
-    Charlie from &lt;a href=&#34;https://refreshav.github.io/organization/colibri-software&#34;&gt;
+    Charlie from &lt;a href=&#34;https://refreshannapilsvalley.org/organization/colibri-software&#34;&gt;
     
         Colibri Software
     
@@ -198,7 +198,7 @@ made possible by the inclusion of more women in code.&lt;/p&gt;
 &lt;p&gt;&lt;div class=&#34;media-object&#34;&gt;
     &lt;div class=&#34;media-object-section&#34;&gt;
         &lt;div class=&#34;thumbnail&#34;&gt;
-            &lt;img style=&#34;max-width: 100px&#34; src= &#34;https://refreshav.github.io/images/event/local-projects-roundup-round-two/coldfusion.png&#34;&gt;
+            &lt;img style=&#34;max-width: 100px&#34; src= &#34;https://refreshannapilsvalley.org/images/event/local-projects-roundup-round-two/coldfusion.png&#34;&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&#34;media-object-section&#34;&gt;
@@ -214,22 +214,22 @@ made possible by the inclusion of more women in code.&lt;/p&gt;
     
     <item>
       <title>Local Projects Roundup: Round One</title>
-      <link>https://refreshav.github.io/event/local-projects-roundup-round-one/</link>
+      <link>https://refreshannapilsvalley.org/event/local-projects-roundup-round-one/</link>
       <pubDate>Mon, 12 Nov 2012 19:30:00 -0300</pubDate>
       
-      <guid>https://refreshav.github.io/event/local-projects-roundup-round-one/</guid>
+      <guid>https://refreshannapilsvalley.org/event/local-projects-roundup-round-one/</guid>
       <description>&lt;p&gt;Come join us for &lt;strong&gt;Local Projects Roundup - Round One&lt;/strong&gt;, a discussion about interesting local web projects, and initiatives supporting startups.&lt;/p&gt;
 
 &lt;div class=&#34;media-object&#34;&gt;
     &lt;div class=&#34;media-object-section&#34;&gt;
         &lt;div class=&#34;thumbnail&#34;&gt;
-            &lt;img style=&#34;max-width: 100px&#34; src= &#34;https://refreshav.github.io/images/organization/hub-kentville/icon.jpg&#34;&gt;
+            &lt;img style=&#34;max-width: 100px&#34; src= &#34;https://refreshannapilsvalley.org/images/organization/hub-kentville/icon.jpg&#34;&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&#34;media-object-section&#34;&gt;
         &lt;h4&gt;&lt;strong&gt;HUB Kentville&lt;/strong&gt; with Frances Schagen&lt;/h4&gt;
         &lt;p&gt;
-    Calling all forward-thinking entrepreneurs, start ups, creatives, artists, freelancers, coders and non-profits. &lt;a href=&#34;https://refreshav.github.io/organization/hub-kentville&#34;&gt;
+    Calling all forward-thinking entrepreneurs, start ups, creatives, artists, freelancers, coders and non-profits. &lt;a href=&#34;https://refreshannapilsvalley.org/organization/hub-kentville&#34;&gt;
     
         HUB Kentville
     
@@ -243,13 +243,13 @@ made possible by the inclusion of more women in code.&lt;/p&gt;
 &lt;p&gt;&lt;div class=&#34;media-object&#34;&gt;
     &lt;div class=&#34;media-object-section&#34;&gt;
         &lt;div class=&#34;thumbnail&#34;&gt;
-            &lt;img style=&#34;max-width: 100px&#34; src= &#34;https://refreshav.github.io/images/organization/harvesthand/icon.png&#34;&gt;
+            &lt;img style=&#34;max-width: 100px&#34; src= &#34;https://refreshannapilsvalley.org/images/organization/harvesthand/icon.png&#34;&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&#34;media-object-section&#34;&gt;
         &lt;h4&gt;&lt;strong&gt;HarvestHand&lt;/strong&gt; with Michael Caplan&lt;/h4&gt;
         &lt;p&gt;
-    Community Supported Agriculture (CSA) is a member based model for food production and distribution that unites local communities with local farms. &lt;a href=&#34;https://refreshav.github.io/organization/harvesthand&#34;&gt;
+    Community Supported Agriculture (CSA) is a member based model for food production and distribution that unites local communities with local farms. &lt;a href=&#34;https://refreshannapilsvalley.org/organization/harvesthand&#34;&gt;
     
         HarvestHand
     
@@ -263,13 +263,13 @@ made possible by the inclusion of more women in code.&lt;/p&gt;
 &lt;p&gt;&lt;div class=&#34;media-object&#34;&gt;
     &lt;div class=&#34;media-object-section&#34;&gt;
         &lt;div class=&#34;thumbnail&#34;&gt;
-            &lt;img style=&#34;max-width: 100px&#34; src= &#34;https://refreshav.github.io/images/organization/labnet-dental-lab-systems/icon.png&#34;&gt;
+            &lt;img style=&#34;max-width: 100px&#34; src= &#34;https://refreshannapilsvalley.org/images/organization/labnet-dental-lab-systems/icon.png&#34;&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&#34;media-object-section&#34;&gt;
         &lt;h4&gt;&lt;strong&gt;Digital Dental Exchange&lt;/strong&gt; with Chris Jordan and Justin Bezanson&lt;/h4&gt;
         &lt;p&gt;
-    The &lt;a href=&#34;https://refreshav.github.io/organization/labnet-dental-lab-systems&#34;&gt;
+    The &lt;a href=&#34;https://refreshannapilsvalley.org/organization/labnet-dental-lab-systems&#34;&gt;
     
         Digital Dental Exchange
     
@@ -283,13 +283,13 @@ made possible by the inclusion of more women in code.&lt;/p&gt;
 &lt;p&gt;&lt;div class=&#34;media-object&#34;&gt;
     &lt;div class=&#34;media-object-section&#34;&gt;
         &lt;div class=&#34;thumbnail&#34;&gt;
-            &lt;img style=&#34;max-width: 100px&#34; src= &#34;https://refreshav.github.io/images/organization/progeny-genealogy/icon.png&#34;&gt;
+            &lt;img style=&#34;max-width: 100px&#34; src= &#34;https://refreshannapilsvalley.org/images/organization/progeny-genealogy/icon.png&#34;&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&#34;media-object-section&#34;&gt;
         &lt;h4&gt;&lt;strong&gt;Wallcharts.com&lt;/strong&gt; with Pierre Clouthier&lt;/h4&gt;
         &lt;p&gt;
-    Build your family tree or create a family chart, &lt;a href=&#34;https://refreshav.github.io/organization/progeny-genealogy&#34;&gt;
+    Build your family tree or create a family chart, &lt;a href=&#34;https://refreshannapilsvalley.org/organization/progeny-genealogy&#34;&gt;
     
         wallcharts.com
     
@@ -303,13 +303,13 @@ made possible by the inclusion of more women in code.&lt;/p&gt;
 &lt;p&gt;&lt;div class=&#34;media-object&#34;&gt;
     &lt;div class=&#34;media-object-section&#34;&gt;
         &lt;div class=&#34;thumbnail&#34;&gt;
-            &lt;img style=&#34;max-width: 100px&#34; src= &#34;https://refreshav.github.io/images/organization/innovacorp/icon.jpg&#34;&gt;
+            &lt;img style=&#34;max-width: 100px&#34; src= &#34;https://refreshannapilsvalley.org/images/organization/innovacorp/icon.jpg&#34;&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&#34;media-object-section&#34;&gt;
         &lt;h4&gt;&lt;strong&gt;innovacorp&lt;/strong&gt; with Paul Richards&lt;/h4&gt;
         &lt;p&gt;
-    &lt;a href=&#34;https://refreshav.github.io/organization/innovacorp&#34;&gt;
+    &lt;a href=&#34;https://refreshannapilsvalley.org/organization/innovacorp&#34;&gt;
     
         innovacorp
     
