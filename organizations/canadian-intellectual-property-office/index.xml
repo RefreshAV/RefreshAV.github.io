@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Canadian Intellectual Property Office on Refresh Annapolis Valley</title>
+    <link>https://refreshav.github.io/organizations/canadian-intellectual-property-office/</link>
+    <description>Recent content in Canadian Intellectual Property Office on Refresh Annapolis Valley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Tue, 12 Jul 2016 19:00:00 -0300</lastBuildDate>
+    <atom:link href="https://refreshav.github.io/organizations/canadian-intellectual-property-office/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>IP Matters</title>
+      <link>https://refreshav.github.io/event/ip-matters/</link>
+      <pubDate>Tue, 12 Jul 2016 19:00:00 -0300</pubDate>
+      
+      <guid>https://refreshav.github.io/event/ip-matters/</guid>
+      <description>&lt;p&gt;Take an engaging journey into the world of intellectual property (IP) and software. What IP do you have and how can you protect it? Is it better to use a trademark, copyright or a patent? How long does it take and what does it cost? This presentation will introduce you to the types of IP and why they matter.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
