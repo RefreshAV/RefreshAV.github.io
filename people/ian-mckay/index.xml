@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ian Mckay on Refresh Annapolis Valley</title>
-    <link>https://refreshannapilsvalley.org/people/ian-mckay/</link>
+    <link>https://refreshannapolisvalley.org/people/ian-mckay/</link>
     <description>Recent content in Ian Mckay on Refresh Annapolis Valley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
     <lastBuildDate>Tue, 14 Jun 2016 19:00:00 -0300</lastBuildDate>
-    <atom:link href="https://refreshannapilsvalley.org/people/ian-mckay/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://refreshannapolisvalley.org/people/ian-mckay/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Inspiration. Imitation. Innovation: Transforming The Physical World With Open Source Hardware</title>
-      <link>https://refreshannapilsvalley.org/event/inspiration-imitation-innovation-transforming-the-physical-world-with-open-source-hardware/</link>
+      <link>https://refreshannapolisvalley.org/event/inspiration-imitation-innovation-transforming-the-physical-world-with-open-source-hardware/</link>
       <pubDate>Tue, 14 Jun 2016 19:00:00 -0300</pubDate>
       
-      <guid>https://refreshannapilsvalley.org/event/inspiration-imitation-innovation-transforming-the-physical-world-with-open-source-hardware/</guid>
-      <description>&lt;p&gt;Powered by open source hardware and software, students, engineers, and garage tinkerers alike are hacking the physical world. Using inexpensive “mini computers” like the Arduino, these makers are building interactive devices that can sense and control other physical objects. In this presentation, we will look at opportunity the Open Source Hardware Movement has created for everyday people to hack our technological world. &lt;a href=&#34;https://refreshannapilsvalley.org/person/ian-mckay&#34;&gt;Ian McKay&lt;/a&gt;
+      <guid>https://refreshannapolisvalley.org/event/inspiration-imitation-innovation-transforming-the-physical-world-with-open-source-hardware/</guid>
+      <description>&lt;p&gt;Powered by open source hardware and software, students, engineers, and garage tinkerers alike are hacking the physical world. Using inexpensive “mini computers” like the Arduino, these makers are building interactive devices that can sense and control other physical objects. In this presentation, we will look at opportunity the Open Source Hardware Movement has created for everyday people to hack our technological world. &lt;a href=&#34;https://refreshannapolisvalley.org/person/ian-mckay&#34;&gt;Ian McKay&lt;/a&gt;
  will introduce us to hacking the Arduino with a newbie how-to. We will do a live build of a project, playing with sensors, controlling devices and mad scientist programming.&lt;/p&gt;
 </description>
     </item>
