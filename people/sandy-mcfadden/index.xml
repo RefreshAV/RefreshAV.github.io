@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sandy Mcfadden on Refresh Annapolis Valley</title>
+    <link>https://refreshannapolisvalley.org/people/sandy-mcfadden/</link>
+    <description>Recent content in Sandy Mcfadden on Refresh Annapolis Valley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Wed, 10 Aug 2016 19:00:00 +0000</lastBuildDate>
+    <atom:link href="https://refreshannapolisvalley.org/people/sandy-mcfadden/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Refresh Annapolis Valley</title>
+      <link>https://refreshannapolisvalley.org/organization/refresh-annapolis-valley/</link>
+      <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/organization/refresh-annapolis-valley/</guid>
+      <description>
+
+&lt;h3 id=&#34;terminal-error&#34;&gt;Terminal Error&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Recursive meta loop&lt;/strong&gt;.  Stack overflow.  Core now being dumped&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
