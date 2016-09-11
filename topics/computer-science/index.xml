@@ -6,8 +6,22 @@
     <description>Recent content in Computer Science on Refresh Annapolis Valley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 10 Aug 2016 19:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Sep 2016 19:00:00 +0000</lastBuildDate>
     <atom:link href="https://refreshannapolisvalley.org/topics/computer-science/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Creative Computing</title>
+      <link>https://refreshannapolisvalley.org/project/creative-computing/</link>
+      <pubDate>Sun, 11 Sep 2016 19:00:00 +0000</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/project/creative-computing/</guid>
+      <description>&lt;p&gt;Creative Computing is a course developed by an international network of educators passionate about exposing kids to the computer sciences.  Broken up into 7 units, this course uses the popular Scratch programming environment to teach kids the basics of coding.  Scratch is used over the world by students to easily create animations and games while acting as a stepping stone to the more advanced world of computer programming.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;re considering offering such a course in the Annapolis Valley.  Tell us what you think!&lt;/p&gt;
+
+&lt;iframe src=&#34;https://docs.google.com/forms/d/e/1FAIpQLSf9eMiMSuUiRhSK5PAjODApLaCfF5JiiYZiTayZ6xdBwbhD9Q/viewform?embedded=true&#34; width=&#34;100%&#34; height=&#34;100%&#34; style=&#34;height: 95vh&#34; frameborder=&#34;0&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34;&gt;Loading...&lt;/iframe&gt;
+</description>
+    </item>
     
     <item>
       <title>Acadia Computer Science Society</title>
@@ -16,6 +30,18 @@
       
       <guid>https://refreshannapolisvalley.org/organization/acadia-computer-science-society/</guid>
       <description>&lt;p&gt;Need some info&amp;hellip;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jodrey School of Computer Science</title>
+      <link>https://refreshannapolisvalley.org/organization/jodrey-school-of-computer-science-at-acadia-university/</link>
+      <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/organization/jodrey-school-of-computer-science-at-acadia-university/</guid>
+      <description>&lt;p&gt;The Jodrey School of Computer Science prepares students for today&amp;rsquo;s ever changing world of technology in a unique, fully mobile computing environment. Students develop a thorough understanding of computer systems software, modern software design methods and computer systems software.&lt;/p&gt;
+
+&lt;p&gt;Students in all degree programs complete a self-directed project during the course of their studies. This provides students with the opportunity to work closely with professors and to apply knowledge acquired through experiment and real-life application. Many students work on projects that end up in the public domain as open-source applications, free for everyone to download. Some students complete research work that becomes an integral part of their supervisor&amp;rsquo;s research, leading to publications in conferences and journals.&lt;/p&gt;
 </description>
     </item>
     
