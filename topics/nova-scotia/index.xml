@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nova Scotia on Refresh Annapolis Valley</title>
+    <link>https://refreshannapolisvalley.org/topics/nova-scotia/</link>
+    <description>Recent content in Nova Scotia on Refresh Annapolis Valley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Wed, 10 Aug 2016 19:00:00 +0000</lastBuildDate>
+    <atom:link href="https://refreshannapolisvalley.org/topics/nova-scotia/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>We Are NS</title>
+      <link>https://refreshannapolisvalley.org/organization/we-are-ns/</link>
+      <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/organization/we-are-ns/</guid>
+      <description>
+
+&lt;h3 id=&#34;nova-scotia-s-portfolio-of-the-very-best-people-products-and-places&#34;&gt;Nova Scotia’s portfolio of the very best people, products, and places.&lt;/h3&gt;
+
+&lt;p&gt;We Are NS&amp;rsquo; mission is to celebrate the very best brands and creative talent Nova Scotia has to offer one story at a time. Our vision is to create a vibrant community of people who build confidence among Nova Scotians by challenging themselves and supporting others to be better every day.&lt;/p&gt;
+
+&lt;p&gt;Join us and use the hashtag #WeAreNS to help us share our story to the world!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
