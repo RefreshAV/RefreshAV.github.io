@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Automattic on Refresh Annapolis Valley</title>
+    <link>https://refreshannapolisvalley.org/organizations/automattic/</link>
+    <description>Recent content in Automattic on Refresh Annapolis Valley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Wed, 10 Aug 2016 19:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://refreshannapolisvalley.org/organizations/automattic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sandy McFadden</title>
+      <link>https://refreshannapolisvalley.org/person/sandy-mcfadden/</link>
+      <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/person/sandy-mcfadden/</guid>
+      <description>Sandy started playing with and building things for the web in 1999. At some point along the way he started trying out different content management systems to help make things easier. After trying to write his own very basic one he settled on WordPress and has been using it to build web sites for years.
+Now he works for Automattic helping people everyday to use their sites on WordPress.com</description>
+    </item>
+    
+  </channel>
+</rss>

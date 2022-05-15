@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emily Konrath on Refresh Annapolis Valley</title>
+    <link>https://refreshannapolisvalley.org/people/emily-konrath/</link>
+    <description>Recent content in Emily Konrath on Refresh Annapolis Valley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Tue, 13 Dec 2016 19:00:00 -0300</lastBuildDate>
+    
+	<atom:link href="https://refreshannapolisvalley.org/people/emily-konrath/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Startup Life: Feel The Frost Byte</title>
+      <link>https://refreshannapolisvalley.org/event/the-startup-life-feel-the-frost-byte/</link>
+      <pubDate>Tue, 13 Dec 2016 19:00:00 -0300</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/event/the-startup-life-feel-the-frost-byte/</guid>
+      <description>Business-hypothesis-driven experimentation. Iterative product releases. Validated learning. Pivot. Pivot. Pivot. Welcome to the tech startup world of John Frost .
+From the early days of Frostbyte Interactive, Aerhyve Aerial Technologies, and now PrecisionHawk, John&amp;rsquo;s pursuit of innovative products and services in the digital tech space runs years long. Join us for a fireside chat with John where we will explore the inner working of a person committed to the startup life.</description>
+    </item>
+    
+  </channel>
+</rss>

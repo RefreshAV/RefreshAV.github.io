@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Valley Regional Enterprise Network on Refresh Annapolis Valley</title>
+    <link>https://refreshannapolisvalley.org/organizations/valley-regional-enterprise-network/</link>
+    <description>Recent content in Valley Regional Enterprise Network on Refresh Annapolis Valley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Sat, 10 Aug 2019 19:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://refreshannapolisvalley.org/organizations/valley-regional-enterprise-network/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Richelle Brown Redden</title>
+      <link>https://refreshannapolisvalley.org/person/richelle-brown-redden/</link>
+      <pubDate>Sat, 10 Aug 2019 19:00:00 +0000</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/person/richelle-brown-redden/</guid>
+      <description>The Valley Regional Enterprise Network is the only publicly funded organization dedicated to supporting the local economic development of five municipalities and one First Nation in the Annapolis Valley region. Through the Valley Regional Enterprise Network’s BusinessNOW program Richelle helps businesses assess their needs, plan for success and fight the right resources. As a publicly funded resource, the BusinessNOW services are offered at not cost to local businesses. A combination of experience and passion to see the region grow, bring insight and dedication to her work with the BusinessNOW program.</description>
+    </item>
+    
+    <item>
+      <title>Seed: Hacking Entrepreneurship in the Annapolis Valley</title>
+      <link>https://refreshannapolisvalley.org/event/seed-hacking-entrepreneurship-in-the-annapolis-valley/</link>
+      <pubDate>Tue, 21 Nov 2017 18:00:00 -0300</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/event/seed-hacking-entrepreneurship-in-the-annapolis-valley/</guid>
+      <description>Seed is a documentary that follows an international group of programmer entrepreneurs at AngelHack: one of the most competitive global hackathons and digital business ideation competitions. Three minutes to pitch. One shot to fund their proposals.
+Seed is also a gathering of our Annapolis Valley startup community. The event will feature the diversity of associations, businesses, and individuals who comprise our digital tech startup community. An assembly of our entrepreneurial family.</description>
+    </item>
+    
+  </channel>
+</rss>

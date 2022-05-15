@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HTML5 on Refresh Annapolis Valley</title>
+    <link>https://refreshannapolisvalley.org/topics/html5/</link>
+    <description>Recent content in HTML5 on Refresh Annapolis Valley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Sat, 08 Dec 2018 12:30:00 -0300</lastBuildDate>
+    
+	<atom:link href="https://refreshannapolisvalley.org/topics/html5/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>App Developer Bootcamp: Part 3 of 3</title>
+      <link>https://refreshannapolisvalley.org/event/app-developer-bootcamp-part-3-of-3/</link>
+      <pubDate>Sat, 08 Dec 2018 12:30:00 -0300</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/event/app-developer-bootcamp-part-3-of-3/</guid>
+      <description>In this teen Hoist mini series, you will learn about how to build your own web application. Web applications are unlike traditional websites. Traditional websites are largely informational (like the Refresh Annapolis Valley website) where web applications solve particular problems (think Gmail for email).
+ In part 1, you will learn the ins-and-outs of building app interfaces In part 2, you will learn how to add interactivity to your web app In part 3, you will learn how to manage app data  If you haven&amp;rsquo;t attended part 1 or 2, you can jump right into part 3.</description>
+    </item>
+    
+    <item>
+      <title>App Developer Bootcamp: Part 2 of 3</title>
+      <link>https://refreshannapolisvalley.org/event/app-developer-bootcamp-part-2-of-3/</link>
+      <pubDate>Sat, 01 Dec 2018 12:30:00 -0300</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/event/app-developer-bootcamp-part-2-of-3/</guid>
+      <description>In this teen Hoist mini series, you will learn about how to build your own web application. Web applications are unlike traditional websites. Traditional websites are largely informational (like the Refresh Annapolis Valley website) where web applications solve particular problems (think Gmail for email).
+ In part 1, you will learn the ins-and-outs of building app interfaces In part 2, you will learn how to add interactivity to your web app In part 3, you will learn how to manage app data  If you haven&amp;rsquo;t attended part 1, you can jump right into part 2.</description>
+    </item>
+    
+    <item>
+      <title>App Developer Bootcamp: Part 1 of 3</title>
+      <link>https://refreshannapolisvalley.org/event/app-developer-bootcamp-part-1-of-3/</link>
+      <pubDate>Sat, 27 Oct 2018 12:30:00 -0300</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/event/app-developer-bootcamp-part-1-of-3/</guid>
+      <description>In this teen Hoist mini series, you will learn about how to build your own web application. Web applications are unlike traditional websites. Traditional websites are largely informational (like the Refresh Annapolis Valley website) where web applications solve particular problems (think Gmail for email).
+ In part 1, you will learn the ins-and-outs of building app interfaces In part 2, you will learn how to add interactivity to your web app In part 3, you will learn how to manage app data  Pizza + workshop + building</description>
+    </item>
+    
+    <item>
+      <title>Bootstrapping The Web</title>
+      <link>https://refreshannapolisvalley.org/event/bootstrapping-the-web/</link>
+      <pubDate>Sat, 13 May 2017 12:30:00 -0300</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/event/bootstrapping-the-web/</guid>
+      <description>For our first Hoist meetup, we&amp;rsquo;ll be learning how to use the Twitter Bootstrap code library to create beautiful front-end websites. Bootstrap is a combination of HTML, CSS, and JavaScript that allow you to write very little but get a whole lot. We&amp;rsquo;ll start with the basics of HTML and CSS and then dive into using Bootstrap to jump-start your web project.
+Pizza + workshop + building
+Bring your own laptop.</description>
+    </item>
+    
+    <item>
+      <title>The Realtime Web: Intro To Node.js</title>
+      <link>https://refreshannapolisvalley.org/event/the-realtime-web-intro-to-node-js/</link>
+      <pubDate>Tue, 11 Oct 2016 19:00:00 -0300</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/event/the-realtime-web-intro-to-node-js/</guid>
+      <description>Node.js is a rapidly growing technology that has been making big waves in the world of web development. Node lets you easily build fast and scalable network applications perfect for the realtime web. In this workshop you’ll learn how to get started using Node, its background and history, and the problems it seeks to address. We’ll get our hands dirty building a realtime chat server to get a feel for the amazing power of Node.</description>
+    </item>
+    
+    <item>
+      <title>Josh Smith</title>
+      <link>https://refreshannapolisvalley.org/person/josh-smith/</link>
+      <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/person/josh-smith/</guid>
+      <description>Front End Engineer at Chalk</description>
+    </item>
+    
+    <item>
+      <title>HTML5 and Semantic Markup</title>
+      <link>https://refreshannapolisvalley.org/event/html5-and-semantic-markup/</link>
+      <pubDate>Mon, 14 Jan 2013 19:00:00 -0300</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/event/html5-and-semantic-markup/</guid>
+      <description>Come join us for &amp;ldquo;HTML5 and Semantic Markup,&amp;rdquo; a discussion about HTML5, markup, and HTML5 websites that rock.
+Open Web Platform: HTML5 and Semantic Markup Mike Caplan will give a talk about HTML5&amp;rsquo;s new elements and attributes that allow us to define semantically meaningful HTML. Semantics you say? What is the meaning of this? Come find out.
+HTML5 Websites Show and Tell Dust off your favorite website that uses anything under the HTML5 sun – offline storage, connectivity, file access, semantics, audio/video, 3D/graphics, presentation, performance, big features, or small.</description>
+    </item>
+    
+  </channel>
+</rss>

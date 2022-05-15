@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Progeny Genealogy on Refresh Annapolis Valley</title>
+    <link>https://refreshannapolisvalley.org/organizations/progeny-genealogy/</link>
+    <description>Recent content in Progeny Genealogy on Refresh Annapolis Valley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Tue, 12 Jun 2018 19:00:00 -0300</lastBuildDate>
+    
+	<atom:link href="https://refreshannapolisvalley.org/organizations/progeny-genealogy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Using DNA to Reverse-Engineer Your Family Tree</title>
+      <link>https://refreshannapolisvalley.org/event/using-dna-to-reverse-enginee-your-family-tree/</link>
+      <pubDate>Tue, 12 Jun 2018 19:00:00 -0300</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/event/using-dna-to-reverse-enginee-your-family-tree/</guid>
+      <description>Recent advances in consumer genetics have enabled genealogists to solve mysteries in their family tree. Adoptees are finding their biological families by sharing the results of DNA tests with Websites that match millions of individuals.
+Progeny Genealogy&amp;rsquo;s Charting Companion software displays the relationship distance of family members, as a number in an easy to understand chart. CC can also empirically find an adoptee&amp;rsquo;s family with an algorithm that simulates placement and compares theoretical to laboratory DNA results.</description>
+    </item>
+    
+    <item>
+      <title>Pierre Clouthier</title>
+      <link>https://refreshannapolisvalley.org/person/pierre-clouthier/</link>
+      <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/person/pierre-clouthier/</guid>
+      <description>Co-founder, President, Progeny Genealogy Inc., specialising in computer graphics software for genealogy.</description>
+    </item>
+    
+    <item>
+      <title>Local Projects Roundup: Round One</title>
+      <link>https://refreshannapolisvalley.org/event/local-projects-roundup-round-one/</link>
+      <pubDate>Mon, 12 Nov 2012 19:30:00 -0300</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/event/local-projects-roundup-round-one/</guid>
+      <description>Come join us for Local Projects Roundup - Round One, a discussion about interesting local web projects, and initiatives supporting startups.
+  HUB Kentville with Frances Schagen  Calling all forward-thinking entrepreneurs, start ups, creatives, artists, freelancers, coders and non-profits. HUB Kentville  is a membership-based coworking spaces where people share an address, resources, equipment and community.     HarvestHand with Michael Caplan  Community Supported Agriculture (CSA) is a member based model for food production and distribution that unites local communities with local farms.</description>
+    </item>
+    
+  </channel>
+</rss>

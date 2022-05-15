@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on Refresh Annapolis Valley</title>
+    <link>https://refreshannapolisvalley.org/topics/events/</link>
+    <description>Recent content in Events on Refresh Annapolis Valley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Wed, 10 Aug 2016 19:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://refreshannapolisvalley.org/topics/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Valley Family Fun</title>
+      <link>https://refreshannapolisvalley.org/organization/valley-family-fun/</link>
+      <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/organization/valley-family-fun/</guid>
+      <description>People who are new to the area (and some who are not) often ask Laura Churchill Duke what they can do with their families in the Valley.
+This made her realize that there isn’t one central place to look for information. Valley Family Fun is a compilation of what she&amp;rsquo;s discovered! Follow VFF on their Facebook group too.</description>
+    </item>
+    
+  </channel>
+</rss>

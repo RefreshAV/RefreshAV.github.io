@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wordpress on Refresh Annapolis Valley</title>
+    <link>https://refreshannapolisvalley.org/topics/wordpress/</link>
+    <description>Recent content in Wordpress on Refresh Annapolis Valley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Wed, 10 Aug 2016 19:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://refreshannapolisvalley.org/topics/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Alex Sanford</title>
+      <link>https://refreshannapolisvalley.org/person/alex-sanford/</link>
+      <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/person/alex-sanford/</guid>
+      <description>Alex is a software developer, musician, coffee enthusiast, and space geek. He was born and raised here in the Valley, and has a long time passion for science, technology, and lifelong learning.
+Currently, Alex is a Code Wrangler for Automattic, the creators of WordPress.com. Automattic has close ties with the WordPress open source project, which powers 33% of the websites on the internet. Automattic’s mission is to make the web a better place by advocating openness, freedom, diversity, and inclusivity.</description>
+    </item>
+    
+    <item>
+      <title>Anita Kirkbride</title>
+      <link>https://refreshannapolisvalley.org/person/anita-kirkbride/</link>
+      <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/person/anita-kirkbride/</guid>
+      <description>She&amp;rsquo;s on a mission to help small businesses understand how to use social media to serve their clients and grow sales.
+Trying to keep up with ever-changing social media trends is exhausting, even for the most caffeinated among us. But Twirp Communications founder Anita Kirkbride is here to help you save all that coffee money.
+Anita’s social media experience extends all the way back to the 90s, when she joined the first generation of bloggers, launching a crafting blog in a flurry of cardstock, buttons, and fabric swatches.</description>
+    </item>
+    
+    <item>
+      <title>Sandy McFadden</title>
+      <link>https://refreshannapolisvalley.org/person/sandy-mcfadden/</link>
+      <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/person/sandy-mcfadden/</guid>
+      <description>Sandy started playing with and building things for the web in 1999. At some point along the way he started trying out different content management systems to help make things easier. After trying to write his own very basic one he settled on WordPress and has been using it to build web sites for years.
+Now he works for Automattic helping people everyday to use their sites on WordPress.com</description>
+    </item>
+    
+    <item>
+      <title>Introduction to WordPress</title>
+      <link>https://refreshannapolisvalley.org/event/introduction-to-wordpress/</link>
+      <pubDate>Tue, 08 Mar 2016 19:00:00 -0300</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/event/introduction-to-wordpress/</guid>
+      <description>WordPress is a free content management system used by more than 23.3% of the top 10 million websites. In this talk, Sandy McFadden and Raina Noel will show us what is it, what it can do for you, and how you can start using it to get your message online.
+You&amp;rsquo;ll learn how to install WordPress and get it setup using Posts, Pages, Widgets, and Menus. Raina and Sandy will also show us how you can extend Wordpress functionality and change the way your site looks with Plugins and Themes.</description>
+    </item>
+    
+  </channel>
+</rss>

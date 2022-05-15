@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hardware Hacking on Refresh Annapolis Valley</title>
+    <link>https://refreshannapolisvalley.org/topics/hardware-hacking/</link>
+    <description>Recent content in Hardware Hacking on Refresh Annapolis Valley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Mon, 09 Dec 2019 17:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://refreshannapolisvalley.org/topics/hardware-hacking/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Comp Sci Education Week - Build a micro:bit Mini Crane</title>
+      <link>https://refreshannapolisvalley.org/event/creating-mini-crane-with-the-microbit/</link>
+      <pubDate>Mon, 09 Dec 2019 17:00:00 -0400</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/event/creating-mini-crane-with-the-microbit/</guid>
+      <description>Are you interested in robotics or do you enjoy messing around with electronics? In this workshop, you&amp;rsquo;ll assemble both the hardware and software needed to create a miniature crane controlled by the micro:bit microcontroller.
+Join us as we kick off Computer Science Education Week with this hands on workshop. We are limited to 10 spots, so act fast!
+What is a micro:bit? The micro:bit is a small, compact computer based on a 43 mm × 52 mm circuit board.</description>
+    </item>
+    
+    <item>
+      <title>Programming Hardware with Python</title>
+      <link>https://refreshannapolisvalley.org/event/programming-hardware-with-python/</link>
+      <pubDate>Sat, 04 May 2019 12:30:00 -0400</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/event/programming-hardware-with-python/</guid>
+      <description>Have you ever wanted to know how to make code interact with the real world? In this introductory workshop to Python programming, you’ll learn the vital stepping stones to controlling hardware using the Circuit Playground microcontroller (microcomputer) with one of the most robust, versatile, and popular programming languages.
+What is a Circuit Playground? The Circuit Playground is a microcontroller, or a tiny computer. This computer can easily be programmed to interact with hardware that you connect to it.</description>
+    </item>
+    
+    <item>
+      <title>Alexander Petkov</title>
+      <link>https://refreshannapolisvalley.org/person/alexander-petkov/</link>
+      <pubDate>Sun, 21 Apr 2019 19:00:00 +0000</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/person/alexander-petkov/</guid>
+      <description>Alexander Petkov is a high school student who attends Horton High School and is one of the co-founders of Spark West Network, a non-profit organization that aims to pull together the diverse organizations, events, and opportunities present in the Annapolis Valley. He is also the Chief Marketing Officer for Refresh Annapolis Valley.</description>
+    </item>
+    
+    <item>
+      <title>Teaching a Computer To See</title>
+      <link>https://refreshannapolisvalley.org/event/teaching-a-computer-to-see/</link>
+      <pubDate>Sat, 16 Jun 2018 12:30:00 -0300</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/event/teaching-a-computer-to-see/</guid>
+      <description>Machine&amp;rsquo;s can learning amazing things when we train them. In this Hoist workshop, teens will will explore Artificial Intelligence by learning how to build a program that can guess what it sees in a picture. No coding experience? No worries. This fun introductory workshop is meant for the beginner. Using cutting edge machine learning tools, participants will learn how software is being used to create amazing programs that learn along the way.</description>
+    </item>
+    
+    <item>
+      <title>Hacking Hardware - Programming The Physical World </title>
+      <link>https://refreshannapolisvalley.org/event/hacking-hardware-programming-the-physical-world/</link>
+      <pubDate>Sat, 19 May 2018 12:30:00 -0300</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/event/hacking-hardware-programming-the-physical-world/</guid>
+      <description>Interactive jewelry, DIY laser tag, robots you design and build. In this Hoist workshop, teens will explore electronics by learning how to build and program robots . No coding or electronics experience? No worries. This fun introductory workshop is meant for the beginner. Using the Circuit Playground, participants will learn how coding and circuits are being used to create amazing creations. This workshop is for teens with no prior experience with programming required.</description>
+    </item>
+    
+    <item>
+      <title>f5://imagination</title>
+      <link>https://refreshannapolisvalley.org/event/f5/imagination/</link>
+      <pubDate>Sun, 17 Dec 2017 10:00:00 -0300</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/event/f5/imagination/</guid>
+      <description>f5://imagination is a pop up exhibit focused on digital creativity. This one day temporary exhibit features work from digital artists, makers, scratchers, computer scientists, engineers and pretendgineer, hardware hackers, lego robotics warriors, indy game developers, new media innovators, VR and AR pioneers&amp;hellip; digital builders of all shapes, sizes, and credentials.
+Schedule  10 AM to 12:30 PM Screening &amp; discussion of Hidden Figures: The story of a team of female African-American mathematicians who served a vital role in NASA during the early years of the U.</description>
+    </item>
+    
+    <item>
+      <title>Maker Meetup</title>
+      <link>https://refreshannapolisvalley.org/event/maker-meetup/</link>
+      <pubDate>Tue, 21 Feb 2017 19:00:00 -0300</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/event/maker-meetup/</guid>
+      <description>Calling all makers, inventors, artists, entrepreneurs, tinkerers, and the like. Join Refresh Annapolis Valley and Annapolis Valley STEAMspace for what we hope will be a regular meetup for the Valley maker community to gather, share ideas, and build community.
+Projects galore to explore!
+ Ian McKay will be demoing a magic cauldron, CNC stuff and a possible new product. Max Caplan will show off a homebrew handheld gaming console.  And you&amp;hellip;?</description>
+    </item>
+    
+    <item>
+      <title>Ian McKay</title>
+      <link>https://refreshannapolisvalley.org/person/ian-mckay/</link>
+      <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/person/ian-mckay/</guid>
+      <description>“Creative Technician”&amp;hellip;what the heck is that?
+I see my role, primarily, as that of a possibilitist. I listen closely to your ideas, what you hope to create, the problem you are working and then share with you the possibilities technology may offer. My years of immersion in Maker culture, joyfully exploring new and unusual uses for the wonders of emerging and age-old tech, provide me with a deep pool of possible solutions to your creative problems.</description>
+    </item>
+    
+    <item>
+      <title>Max Caplan</title>
+      <link>https://refreshannapolisvalley.org/person/max-caplan/</link>
+      <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/person/max-caplan/</guid>
+      <description>Once upon a time, he was born. What happened after this is the interesting part. Relatively speaking. After his long and tedious early childhood, Max found himself being introduced to the fascinating world of technology. One of his earliest experiences was with the beginner programming environment known as Scratch. After a couple of years of making awesome scratch projects, Max moved on to explore more that tech had to offer. Through his School he found himself on a Lego Robotics team for a couple years.</description>
+    </item>
+    
+  </channel>
+</rss>

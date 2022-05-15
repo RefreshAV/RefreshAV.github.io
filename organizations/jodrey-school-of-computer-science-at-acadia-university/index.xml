@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jodrey School of Computer Science at Acadia University on Refresh Annapolis Valley</title>
+    <link>https://refreshannapolisvalley.org/organizations/jodrey-school-of-computer-science-at-acadia-university/</link>
+    <description>Recent content in Jodrey School of Computer Science at Acadia University on Refresh Annapolis Valley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Wed, 10 Aug 2016 19:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://refreshannapolisvalley.org/organizations/jodrey-school-of-computer-science-at-acadia-university/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dr Daniel Silver</title>
+      <link>https://refreshannapolisvalley.org/person/dr-daniel-silver/</link>
+      <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/person/dr-daniel-silver/</guid>
+      <description>Dr. Daniel L. Silver is the Director of the Acadia Institute for Data Analytics  . He is also a Professor in and currently the Acting-Director of the Jodrey School of Computer Science  at Acadia University. His areas of research and application are machine learning, data mining, and data analytics. His expertise is in Lifelong Machine Learning and Transfer Learning. He has published over 65 scientific papers and has co-chaired or been part of program committees for a number of national and international conferences, seminars and workshops on data mining and machine learning.</description>
+    </item>
+    
+    <item>
+      <title>Dr Darcy Benoit</title>
+      <link>https://refreshannapolisvalley.org/person/dr-darcy-benoit/</link>
+      <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/person/dr-darcy-benoit/</guid>
+      <description>Dr. Darcy Benoit is a Professor in and the Director of the Jodrey School of Computer Science at Acadia University. His areas of research include mobile application development, database management systems, and computer science education. An avid supporter educational outreach, Darcy oversees the Acadia Robotics program, a province-wide outreach program that sees approximately 400 students from grades 9-18 compete in two international robot programming competitions. His outreach work resulted in him collaborating with the Nova Scotia Department of Education and Early Childhood Development on the implementation of computer programming in the public school system from grades 7-12.</description>
+    </item>
+    
+  </channel>
+</rss>

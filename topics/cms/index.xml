@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CMS on Refresh Annapolis Valley</title>
+    <link>https://refreshannapolisvalley.org/topics/cms/</link>
+    <description>Recent content in CMS on Refresh Annapolis Valley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Wed, 10 Aug 2016 19:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://refreshannapolisvalley.org/topics/cms/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Colibri Software</title>
+      <link>https://refreshannapolisvalley.org/organization/colibri-software/</link>
+      <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/organization/colibri-software/</guid>
+      <description>Colibri Software builds awesome software. We work with our clients to understand their needs and then produce a simple and effective solution to their problems. Our focus is on making a product easy to use, from websites to mobile apps, we like it when we hear “this is easy”.
+We have a special affinity for mapping projects and have send rugged phone apps as far as Nunavut to help collect data for the hunting community.</description>
+    </item>
+    
+    <item>
+      <title>Geoff Crouse</title>
+      <link>https://refreshannapolisvalley.org/person/geoff-crouse/</link>
+      <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/person/geoff-crouse/</guid>
+      <description>Geoff has more than 17 years of combined Software Engineering and Information Technology Consulting experience.
+ Technical Sales Engineer, specializing in medium to large scale Drupal CMS projects including new development, site audits and analysis, and expert support services.
+ Account Management, coordinating customer projects with engineering and support teams from initial conception to final delivery, and continued support.
+  Geoff&amp;rsquo;s profile picture was created by a robot inspired by Peggy&amp;rsquo;s Cove.</description>
+    </item>
+    
+    <item>
+      <title>ScotiaCom</title>
+      <link>https://refreshannapolisvalley.org/organization/scotiacom/</link>
+      <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/organization/scotiacom/</guid>
+      <description>ScotiaCom (aka Scotia Computer Resources Inc.) is a small, independent business located in the Annapolis Valley, Nova Scotia. What started as an educational software development company has become a leader in the development and deployment of services that allow organizations, groups, individuals and small businesses to take full advantage of the Internet.</description>
+    </item>
+    
+    <item>
+      <title>Local Projects Roundup: Round Two</title>
+      <link>https://refreshannapolisvalley.org/event/local-projects-roundup-round-two/</link>
+      <pubDate>Mon, 10 Dec 2012 19:30:00 -0300</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/event/local-projects-roundup-round-two/</guid>
+      <description>Come join us for &amp;ldquo;Local Projects Roundup - Round Two,&amp;rdquo; a discussion about interesting local web projects, platforms, business, and techies.
+  Online Community Engagement with Laura Churchill Duke  Laura is the owner and operator of Valley Family Fun  which is a website for families living in the Annapolis Valley. It includes resources, ideas, information and a calendar of family-friendly events. Started in January 2012, it has grown to include a Facebook and Twitter site to form a web-based network of over 6000 followers.</description>
+    </item>
+    
+  </channel>
+</rss>

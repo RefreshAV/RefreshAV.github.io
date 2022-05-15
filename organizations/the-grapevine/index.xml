@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Grapevine on Refresh Annapolis Valley</title>
+    <link>https://refreshannapolisvalley.org/organizations/the-grapevine/</link>
+    <description>Recent content in The Grapevine on Refresh Annapolis Valley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Tue, 13 Feb 2018 19:00:00 -0300</lastBuildDate>
+    
+	<atom:link href="https://refreshannapolisvalley.org/organizations/the-grapevine/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>State of Computer Science Education</title>
+      <link>https://refreshannapolisvalley.org/event/state-of-computer-science-education/</link>
+      <pubDate>Tue, 13 Feb 2018 19:00:00 -0300</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/event/state-of-computer-science-education/</guid>
+      <description>With an estimated 218,000 new skilled ICT workers needed in Canada by 2020 to meet the short term demands of our digital economy, focus on our educational system to address this challenge is paramount. The profound lack of diversity within the digital tech economy further complicates the response required. With changes in our provincial educational pipeline well under way, we are still early on in deploying a comprehensive response.
+Join our panel discussion focused on defining challenges and solutions for Computer Science education today.</description>
+    </item>
+    
+  </channel>
+</rss>

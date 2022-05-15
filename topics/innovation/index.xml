@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Innovation on Refresh Annapolis Valley</title>
+    <link>https://refreshannapolisvalley.org/topics/innovation/</link>
+    <description>Recent content in Innovation on Refresh Annapolis Valley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Tue, 14 May 2019 19:00:00 -0300</lastBuildDate>
+    
+	<atom:link href="https://refreshannapolisvalley.org/topics/innovation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Innovating on The Internet</title>
+      <link>https://refreshannapolisvalley.org/event/innovating-on-the-internet/</link>
+      <pubDate>Tue, 14 May 2019 19:00:00 -0300</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/event/innovating-on-the-internet/</guid>
+      <description>Have the next (big or small) idea, no budget, or development skills? No problem &amp;ndash; you shouldn&amp;rsquo;t start with building anyway.
+In this hands on workshop we will explore pre-product design tools that anyone can pick up to express their app idea. With these tools you will walk away with a means to engage your user base to test concepts, gather feedback quickly, very inexpensively, and early on in the product cycle.</description>
+    </item>
+    
+  </channel>
+</rss>

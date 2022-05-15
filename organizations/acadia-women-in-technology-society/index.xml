@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Acadia Women in Technology Society on Refresh Annapolis Valley</title>
+    <link>https://refreshannapolisvalley.org/organizations/acadia-women-in-technology-society/</link>
+    <description>Recent content in Acadia Women in Technology Society on Refresh Annapolis Valley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Tue, 26 Mar 2019 19:00:00 -0300</lastBuildDate>
+    
+	<atom:link href="https://refreshannapolisvalley.org/organizations/acadia-women-in-technology-society/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Women in Technology: Uncensored</title>
+      <link>https://refreshannapolisvalley.org/event/women-in-technology-uncensored/</link>
+      <pubDate>Tue, 26 Mar 2019 19:00:00 -0300</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/event/women-in-technology-uncensored/</guid>
+      <description>Join Acadia Women in Technology Society  and Refresh Annapolis Valley for an evening of networking, refreshments, and discussion. Guest speakers Lori Shepherd , Chief Creative Officer Cold Furnace Studios, and Cindy Trudel , Instructor in Acadia University’s Jodrey School of Computer Science, will lead a discussion about hacking the male dominated computer science academy and industry to work for women.</description>
+    </item>
+    
+  </channel>
+</rss>

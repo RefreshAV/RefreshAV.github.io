@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Usability on Refresh Annapolis Valley</title>
+    <link>https://refreshannapolisvalley.org/topics/usability/</link>
+    <description>Recent content in Usability on Refresh Annapolis Valley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Tue, 12 Sep 2017 19:00:00 -0300</lastBuildDate>
+    
+	<atom:link href="https://refreshannapolisvalley.org/topics/usability/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DIY Usability Lab: Testing With Little Or No Budget</title>
+      <link>https://refreshannapolisvalley.org/event/diy-usability/</link>
+      <pubDate>Tue, 12 Sep 2017 19:00:00 -0300</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/event/diy-usability/</guid>
+      <description>Usability testing uncovers problem areas with your website. But not many do it, or do too little because of perceived complexity and cost. When you have limited time and budget, build your own usability lab and get results. A low-cost usability lab will be demonstrated using readily available hardware and software and results from testing our Acadia University library website will be shared.</description>
+    </item>
+    
+    <item>
+      <title>Maggie Neilson</title>
+      <link>https://refreshannapolisvalley.org/person/maggie-neilson/</link>
+      <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/person/maggie-neilson/</guid>
+      <description>Maggie Neilson is an Academic Librarian at Acadia University’s Vaughan Memorial Library. Her role primarily revolves around liaison responsibilities with the Jodrey School of Computer Science, the Ivan Curry School of Engineering, the Earth and Environmental Science Department, the Environmental and Sustainability Studies Programme, and the School of Kinesiology. In addition to the collection development services, instructional sessions and research assistance she provides to these disciplines, Maggie also has coordinating responsibilities in government documents, the library’s discovery layer, and geospatial and numeric data.</description>
+    </item>
+    
+    <item>
+      <title>Scott Olszowiec</title>
+      <link>https://refreshannapolisvalley.org/person/scott-olszowiec/</link>
+      <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/person/scott-olszowiec/</guid>
+      <description>Scott Olszowiec is creative partner that has been building solutions to communicate ideas and inspiration for over 17 years.
+From digital content creation to educational technology, he is somewhere between what you might call &amp;ldquo;artsy&amp;rdquo; and &amp;ldquo;techie.&amp;rdquo;
+He has worked in a variety of ways with expedition travellers, universities, NSCC and private career colleges, global finance, non-profits, indigenous economic development and education organizations in Canada.
+Most recently, Scott has partnered with Ulnooweg to assist in the implementation of a bold new project that aims to transform science and digital education for Mi’kmaw children and youth living on reserves.</description>
+    </item>
+    
+  </channel>
+</rss>

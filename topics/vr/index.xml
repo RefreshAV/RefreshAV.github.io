@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VR on Refresh Annapolis Valley</title>
+    <link>https://refreshannapolisvalley.org/topics/vr/</link>
+    <description>Recent content in VR on Refresh Annapolis Valley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Sat, 16 Dec 2017 12:30:00 -0300</lastBuildDate>
+    
+	<atom:link href="https://refreshannapolisvalley.org/topics/vr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Digitized Reality</title>
+      <link>https://refreshannapolisvalley.org/event/digitized-reality/</link>
+      <pubDate>Sat, 16 Dec 2017 12:30:00 -0300</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/event/digitized-reality/</guid>
+      <description>Come slap on a headset and enter the world of virtual reality. In this workshop, we will explore virtual reality by both examining the capabilities of commercial headsets, as well as learn how to build our own VR environments. If you can, bring a smart phone to test your uniquely constructed VR world. We can only accommodate a limited number of people for this event, so get your free ticket fast.</description>
+    </item>
+    
+    <item>
+      <title>Keegan Francis</title>
+      <link>https://refreshannapolisvalley.org/person/keegan-francis/</link>
+      <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/person/keegan-francis/</guid>
+      <description>My name is Keegan Francis, i have been working with, interested in, and invested in cryptocurrencies and blockchain since 2014.
+ Invested in bitcoin and dogecoin in 2014 Graduated with a degree in computer science in 2015 Built my first mining rig in 2017 Have given several lectures and presentations to Nova Scotia universities in 2017 and 2018 Attended an international blockchain conference in Shanghai, China, 2018 Co-founded Atlantic Blockchain Company Inc.</description>
+    </item>
+    
+  </channel>
+</rss>

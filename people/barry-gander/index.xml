@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Barry Gander on Refresh Annapolis Valley</title>
+    <link>https://refreshannapolisvalley.org/people/barry-gander/</link>
+    <description>Recent content in Barry Gander on Refresh Annapolis Valley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Tue, 10 Oct 2017 19:00:00 -0300</lastBuildDate>
+    
+	<atom:link href="https://refreshannapolisvalley.org/people/barry-gander/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Smart Annapolis Valley</title>
+      <link>https://refreshannapolisvalley.org/event/smart-annapolis-valley/</link>
+      <pubDate>Tue, 10 Oct 2017 19:00:00 -0300</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/event/smart-annapolis-valley/</guid>
+      <description>The Smart Communities movement involves villages, towns and cities getting ubiquitously connected to the Internet, and using the connection to involve citizens in networked activities. This movement argues that all the economic wealth created since WW2 has come from innovation - a networking activity that Smart Communities excel at. Smart Communities have better economic growth, more sustainable life-styles, and better health care.
+i-Valley, a non-for-profit group working to put fast broadband networks into our communities, is bringing the Smart Community movement to our rural and remote regions.</description>
+    </item>
+    
+    <item>
+      <title>i-Valley</title>
+      <link>https://refreshannapolisvalley.org/organization/i-valley/</link>
+      <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/organization/i-valley/</guid>
+      <description>i-Valley is a not-for-profit collaboration of Mayors, Wardens, business leaders, civic planners and academia, dedicated to facilitating the transformation of the Annapolis Valley to a Smart Region. The goal of “Smart Annapolis Valley” is to drive efficiencies is such vital areas as energy, healthcare, business, and social engagement. Smart Communities are those which use digital tools and services to achieve the higher employment, better income, more sustainable environment and better education that are universal traits of such communities.</description>
+    </item>
+    
+  </channel>
+</rss>

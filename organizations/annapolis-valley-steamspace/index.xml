@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Annapolis Valley STEAMspace on Refresh Annapolis Valley</title>
+    <link>https://refreshannapolisvalley.org/organizations/annapolis-valley-steamspace/</link>
+    <description>Recent content in Annapolis Valley STEAMspace on Refresh Annapolis Valley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Tue, 21 Feb 2017 19:00:00 -0300</lastBuildDate>
+    
+	<atom:link href="https://refreshannapolisvalley.org/organizations/annapolis-valley-steamspace/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Maker Meetup</title>
+      <link>https://refreshannapolisvalley.org/event/maker-meetup/</link>
+      <pubDate>Tue, 21 Feb 2017 19:00:00 -0300</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/event/maker-meetup/</guid>
+      <description>Calling all makers, inventors, artists, entrepreneurs, tinkerers, and the like. Join Refresh Annapolis Valley and Annapolis Valley STEAMspace for what we hope will be a regular meetup for the Valley maker community to gather, share ideas, and build community.
+Projects galore to explore!
+ Ian McKay will be demoing a magic cauldron, CNC stuff and a possible new product. Max Caplan will show off a homebrew handheld gaming console.  And you&amp;hellip;?</description>
+    </item>
+    
+  </channel>
+</rss>

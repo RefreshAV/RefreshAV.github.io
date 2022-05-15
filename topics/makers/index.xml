@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Makers on Refresh Annapolis Valley</title>
+    <link>https://refreshannapolisvalley.org/topics/makers/</link>
+    <description>Recent content in Makers on Refresh Annapolis Valley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Sun, 17 Dec 2017 10:00:00 -0300</lastBuildDate>
+    
+	<atom:link href="https://refreshannapolisvalley.org/topics/makers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>f5://imagination</title>
+      <link>https://refreshannapolisvalley.org/event/f5/imagination/</link>
+      <pubDate>Sun, 17 Dec 2017 10:00:00 -0300</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/event/f5/imagination/</guid>
+      <description>f5://imagination is a pop up exhibit focused on digital creativity. This one day temporary exhibit features work from digital artists, makers, scratchers, computer scientists, engineers and pretendgineer, hardware hackers, lego robotics warriors, indy game developers, new media innovators, VR and AR pioneers&amp;hellip; digital builders of all shapes, sizes, and credentials.
+Schedule  10 AM to 12:30 PM Screening &amp; discussion of Hidden Figures: The story of a team of female African-American mathematicians who served a vital role in NASA during the early years of the U.</description>
+    </item>
+    
+    <item>
+      <title>Maker Meetup</title>
+      <link>https://refreshannapolisvalley.org/event/maker-meetup/</link>
+      <pubDate>Tue, 21 Feb 2017 19:00:00 -0300</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/event/maker-meetup/</guid>
+      <description>Calling all makers, inventors, artists, entrepreneurs, tinkerers, and the like. Join Refresh Annapolis Valley and Annapolis Valley STEAMspace for what we hope will be a regular meetup for the Valley maker community to gather, share ideas, and build community.
+Projects galore to explore!
+ Ian McKay will be demoing a magic cauldron, CNC stuff and a possible new product. Max Caplan will show off a homebrew handheld gaming console.  And you&amp;hellip;?</description>
+    </item>
+    
+    <item>
+      <title>Annapolis Valley STEAMspace</title>
+      <link>https://refreshannapolisvalley.org/organization/annapolis-valley-steamspace/</link>
+      <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/organization/annapolis-valley-steamspace/</guid>
+      <description>A place for Annapolis Valley Makers, inventors, artists, entrepreneurs, tinkerers and the like to meet, share ideas and work towards establishing the proposed Acadia University STEAMspace.</description>
+    </item>
+    
+    <item>
+      <title>Ian McKay</title>
+      <link>https://refreshannapolisvalley.org/person/ian-mckay/</link>
+      <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/person/ian-mckay/</guid>
+      <description>“Creative Technician”&amp;hellip;what the heck is that?
+I see my role, primarily, as that of a possibilitist. I listen closely to your ideas, what you hope to create, the problem you are working and then share with you the possibilities technology may offer. My years of immersion in Maker culture, joyfully exploring new and unusual uses for the wonders of emerging and age-old tech, provide me with a deep pool of possible solutions to your creative problems.</description>
+    </item>
+    
+    <item>
+      <title>Max Caplan</title>
+      <link>https://refreshannapolisvalley.org/person/max-caplan/</link>
+      <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/person/max-caplan/</guid>
+      <description>Once upon a time, he was born. What happened after this is the interesting part. Relatively speaking. After his long and tedious early childhood, Max found himself being introduced to the fascinating world of technology. One of his earliest experiences was with the beginner programming environment known as Scratch. After a couple of years of making awesome scratch projects, Max moved on to explore more that tech had to offer. Through his School he found himself on a Lego Robotics team for a couple years.</description>
+    </item>
+    
+  </channel>
+</rss>

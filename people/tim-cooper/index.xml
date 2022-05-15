@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tim Cooper on Refresh Annapolis Valley</title>
+    <link>https://refreshannapolisvalley.org/people/tim-cooper/</link>
+    <description>Recent content in Tim Cooper on Refresh Annapolis Valley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Tue, 16 Jan 2018 18:30:00 -0300</lastBuildDate>
+    
+	<atom:link href="https://refreshannapolisvalley.org/people/tim-cooper/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting Started with Go</title>
+      <link>https://refreshannapolisvalley.org/event/getting-started-with-go/</link>
+      <pubDate>Tue, 16 Jan 2018 18:30:00 -0300</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/event/getting-started-with-go/</guid>
+      <description>Computer programming is the art, craft and science of writing programs which define how computers operate. This workshop, lead by Jodrey School of Computer Science alumn Tim Cooper , will teach you how to write computer programs using a programming language designed by Google named Go. Learn the basics as we design an AI to interact in a multiplayer game with the other participants in the workshop.
+Go is a general purpose programming language with advanced features and a clean syntax.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Smart Communities on Refresh Annapolis Valley</title>
+    <link>https://refreshannapolisvalley.org/topics/smart-communities/</link>
+    <description>Recent content in Smart Communities on Refresh Annapolis Valley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Tue, 10 Oct 2017 19:00:00 -0300</lastBuildDate>
+    
+	<atom:link href="https://refreshannapolisvalley.org/topics/smart-communities/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Smart Annapolis Valley</title>
+      <link>https://refreshannapolisvalley.org/event/smart-annapolis-valley/</link>
+      <pubDate>Tue, 10 Oct 2017 19:00:00 -0300</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/event/smart-annapolis-valley/</guid>
+      <description>The Smart Communities movement involves villages, towns and cities getting ubiquitously connected to the Internet, and using the connection to involve citizens in networked activities. This movement argues that all the economic wealth created since WW2 has come from innovation - a networking activity that Smart Communities excel at. Smart Communities have better economic growth, more sustainable life-styles, and better health care.
+i-Valley, a non-for-profit group working to put fast broadband networks into our communities, is bringing the Smart Community movement to our rural and remote regions.</description>
+    </item>
+    
+    <item>
+      <title>Barry Gander</title>
+      <link>https://refreshannapolisvalley.org/person/barry-gander/</link>
+      <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/person/barry-gander/</guid>
+      <description>For 25 years Barry Gander has helped jump-start the development of advanced technology organizations in Canada and abroad. Working with companies, associations, the public sector and academia, Barry has established a network of leaders who thrive on leading-edge initiatives. As EVP of Canada’s largest high-tech association, the Canadian Advanced Technology Alliance (CATA) Barry has helped showcase the best of Canadian innovation to global markets. The i-CANADA program, which he co-founded, aims to create an “Intelligent Nation” by establishing a grass-roots movement of communities that network at ultra-fast speed.</description>
+    </item>
+    
+  </channel>
+</rss>

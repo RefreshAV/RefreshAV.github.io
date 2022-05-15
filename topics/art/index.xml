@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Art on Refresh Annapolis Valley</title>
+    <link>https://refreshannapolisvalley.org/topics/art/</link>
+    <description>Recent content in Art on Refresh Annapolis Valley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Sun, 17 Dec 2017 10:00:00 -0300</lastBuildDate>
+    
+	<atom:link href="https://refreshannapolisvalley.org/topics/art/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>f5://imagination</title>
+      <link>https://refreshannapolisvalley.org/event/f5/imagination/</link>
+      <pubDate>Sun, 17 Dec 2017 10:00:00 -0300</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/event/f5/imagination/</guid>
+      <description>f5://imagination is a pop up exhibit focused on digital creativity. This one day temporary exhibit features work from digital artists, makers, scratchers, computer scientists, engineers and pretendgineer, hardware hackers, lego robotics warriors, indy game developers, new media innovators, VR and AR pioneers&amp;hellip; digital builders of all shapes, sizes, and credentials.
+Schedule  10 AM to 12:30 PM Screening &amp; discussion of Hidden Figures: The story of a team of female African-American mathematicians who served a vital role in NASA during the early years of the U.</description>
+    </item>
+    
+  </channel>
+</rss>

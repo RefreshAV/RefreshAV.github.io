@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trevor Avery on Refresh Annapolis Valley</title>
+    <link>https://refreshannapolisvalley.org/people/trevor-avery/</link>
+    <description>Recent content in Trevor Avery on Refresh Annapolis Valley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Tue, 08 Nov 2016 19:00:00 -0300</lastBuildDate>
+    
+	<atom:link href="https://refreshannapolisvalley.org/people/trevor-avery/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Understanding The World Through R</title>
+      <link>https://refreshannapolisvalley.org/event/understanding-the-world-through-r/</link>
+      <pubDate>Tue, 08 Nov 2016 19:00:00 -0300</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/event/understanding-the-world-through-r/</guid>
+      <description>The world is bubbling over with data. When analyzed, data can provide the inquiring mind with useful information that can suggest outcomes and support decision-making. Be it the data generated about business practices, human behaviours, the biological world; being able to understand what your data is telling you is incredibly empowering. &amp;ldquo;R&amp;rdquo; is a free, accessible, and powerful programming language that offers a suite of tools for data analysis.
+Our tour guide, Trevor Avery &amp;mdash; biostatistician, faculty member at Acadia University, and coordinator of R-bar  &amp;mdash; will provide us a primer on R.</description>
+    </item>
+    
+    <item>
+      <title>R-bar</title>
+      <link>https://refreshannapolisvalley.org/organization/r-bar/</link>
+      <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/organization/r-bar/</guid>
+      <description>R-bar is Acadia University&amp;rsquo;s scientific programming study group. They cover everything R: a programming language and software environment for statistical computing and graphics.
+WHAT WE DO  Skill Sharing: Share your favorite coding skills and tools with your friends and colleagues in friendly, no-pressure work-alongs.
+ Co-Working: Get together to work on your coding projects, help each other out and share your work.
+ Community Building: Meet new people in your field, organization or community - and find out what we can do when we work together.</description>
+    </item>
+    
+  </channel>
+</rss>

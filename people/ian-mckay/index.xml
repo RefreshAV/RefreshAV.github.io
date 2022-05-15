@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ian McKay on Refresh Annapolis Valley</title>
+    <link>https://refreshannapolisvalley.org/people/ian-mckay/</link>
+    <description>Recent content in Ian McKay on Refresh Annapolis Valley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Tue, 06 Nov 2018 18:30:00 -0300</lastBuildDate>
+    
+	<atom:link href="https://refreshannapolisvalley.org/people/ian-mckay/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The School in the Cloud</title>
+      <link>https://refreshannapolisvalley.org/event/the-school-in-the-cloud/</link>
+      <pubDate>Tue, 06 Nov 2018 18:30:00 -0300</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/event/the-school-in-the-cloud/</guid>
+      <description>What is the future of education in a networked world?
+In this documentary screening and discussion, we will discuss Indian professor Sugata Mitra&amp;rsquo;s calls for a revolution in how and what we learn. With a global network of information a few clicks away, Mitra argues that the Victorian model on which our school systems are based is obsolete.
+School In The Cloud follows a three-year experiment as Mitra installs unmanned internet kiosks in locations ranging from remote villages in West Bengal to a school in northeast England, to enable children to self-organize their learning.</description>
+    </item>
+    
+    <item>
+      <title>f5://imagination</title>
+      <link>https://refreshannapolisvalley.org/event/f5/imagination/</link>
+      <pubDate>Sun, 17 Dec 2017 10:00:00 -0300</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/event/f5/imagination/</guid>
+      <description>f5://imagination is a pop up exhibit focused on digital creativity. This one day temporary exhibit features work from digital artists, makers, scratchers, computer scientists, engineers and pretendgineer, hardware hackers, lego robotics warriors, indy game developers, new media innovators, VR and AR pioneers&amp;hellip; digital builders of all shapes, sizes, and credentials.
+Schedule  10 AM to 12:30 PM Screening &amp; discussion of Hidden Figures: The story of a team of female African-American mathematicians who served a vital role in NASA during the early years of the U.</description>
+    </item>
+    
+    <item>
+      <title>Maker Meetup</title>
+      <link>https://refreshannapolisvalley.org/event/maker-meetup/</link>
+      <pubDate>Tue, 21 Feb 2017 19:00:00 -0300</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/event/maker-meetup/</guid>
+      <description>Calling all makers, inventors, artists, entrepreneurs, tinkerers, and the like. Join Refresh Annapolis Valley and Annapolis Valley STEAMspace for what we hope will be a regular meetup for the Valley maker community to gather, share ideas, and build community.
+Projects galore to explore!
+ Ian McKay will be demoing a magic cauldron, CNC stuff and a possible new product. Max Caplan will show off a homebrew handheld gaming console.  And you&amp;hellip;?</description>
+    </item>
+    
+    <item>
+      <title>Annapolis Valley STEAMspace</title>
+      <link>https://refreshannapolisvalley.org/organization/annapolis-valley-steamspace/</link>
+      <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/organization/annapolis-valley-steamspace/</guid>
+      <description>A place for Annapolis Valley Makers, inventors, artists, entrepreneurs, tinkerers and the like to meet, share ideas and work towards establishing the proposed Acadia University STEAMspace.</description>
+    </item>
+    
+    <item>
+      <title>Inspiration. Imitation. Innovation: Transforming The Physical World With Open Source Hardware</title>
+      <link>https://refreshannapolisvalley.org/event/inspiration-imitation-innovation-transforming-the-physical-world-with-open-source-hardware/</link>
+      <pubDate>Tue, 14 Jun 2016 19:00:00 -0300</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/event/inspiration-imitation-innovation-transforming-the-physical-world-with-open-source-hardware/</guid>
+      <description>Powered by open source hardware and software, students, engineers, and garage tinkerers alike are hacking the physical world. Using inexpensive “mini computers” like the Arduino, these makers are building interactive devices that can sense and control other physical objects. In this presentation, we will look at opportunity the Open Source Hardware Movement has created for everyday people to hack our technological world. Ian McKay will introduce us to hacking the Arduino with a newbie how-to.</description>
+    </item>
+    
+  </channel>
+</rss>

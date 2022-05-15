@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adam Conner on Refresh Annapolis Valley</title>
+    <link>https://refreshannapolisvalley.org/people/adam-conner/</link>
+    <description>Recent content in Adam Conner on Refresh Annapolis Valley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Sat, 16 Sep 2017 12:30:00 -0300</lastBuildDate>
+    
+	<atom:link href="https://refreshannapolisvalley.org/people/adam-conner/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>3D Printing: From Concept to the Palm of Your Hand</title>
+      <link>https://refreshannapolisvalley.org/event/3d-printing/</link>
+      <pubDate>Sat, 16 Sep 2017 12:30:00 -0300</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/event/3d-printing/</guid>
+      <description>Welcome to the new world of of 3D printing, where you can produce 3D objects almost as easily as you can dream of them. Emoji figurines, jewellery, nick nacks, to the more practical, in this hands on workshop you will learn how to design a 3D project. We will cap off the event by printing your original work.
+Pizza + workshop + building
+Bring your own laptop. A small number of laptops will be available to borrow.</description>
+    </item>
+    
+  </channel>
+</rss>

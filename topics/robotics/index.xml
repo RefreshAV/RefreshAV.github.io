@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robotics on Refresh Annapolis Valley</title>
+    <link>https://refreshannapolisvalley.org/topics/robotics/</link>
+    <description>Recent content in Robotics on Refresh Annapolis Valley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Wed, 10 Aug 2016 19:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://refreshannapolisvalley.org/topics/robotics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Margaret Hopkins</title>
+      <link>https://refreshannapolisvalley.org/person/margaret-hopkins/</link>
+      <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/person/margaret-hopkins/</guid>
+      <description>Margaret Hopkins is a third year math and music major at Acadia University with an interest in promoting mathematics and technology education for youth in the Annapolis Valley. She is a founding member and now coach of the Horton High Robats, an all-girls&amp;rsquo; robotics team; coaches Wolfville School&amp;rsquo;s First Lego League team, Robo Lobo Wired; and volunteers with WISE Acadia and other organizations in the region to promote STEM education for all students.</description>
+    </item>
+    
+  </channel>
+</rss>

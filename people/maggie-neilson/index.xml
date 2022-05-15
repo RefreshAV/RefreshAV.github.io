@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maggie Neilson on Refresh Annapolis Valley</title>
+    <link>https://refreshannapolisvalley.org/people/maggie-neilson/</link>
+    <description>Recent content in Maggie Neilson on Refresh Annapolis Valley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Tue, 12 Sep 2017 19:00:00 -0300</lastBuildDate>
+    
+	<atom:link href="https://refreshannapolisvalley.org/people/maggie-neilson/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DIY Usability Lab: Testing With Little Or No Budget</title>
+      <link>https://refreshannapolisvalley.org/event/diy-usability/</link>
+      <pubDate>Tue, 12 Sep 2017 19:00:00 -0300</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/event/diy-usability/</guid>
+      <description>Usability testing uncovers problem areas with your website. But not many do it, or do too little because of perceived complexity and cost. When you have limited time and budget, build your own usability lab and get results. A low-cost usability lab will be demonstrated using readily available hardware and software and results from testing our Acadia University library website will be shared.</description>
+    </item>
+    
+  </channel>
+</rss>
