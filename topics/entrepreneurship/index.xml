@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Entrepreneurship on Refresh Annapolis Valley</title>
+    <title>entrepreneurship on Refresh Annapolis Valley</title>
     <link>https://refreshannapolisvalley.org/topics/entrepreneurship/</link>
-    <description>Recent content in Entrepreneurship on Refresh Annapolis Valley</description>
+    <description>Recent content in entrepreneurship on Refresh Annapolis Valley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 19 Nov 2019 18:00:00 -0300</lastBuildDate>
-    
-	<atom:link href="https://refreshannapolisvalley.org/topics/entrepreneurship/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 19 Nov 2019 18:00:00 -0300</lastBuildDate><atom:link href="https://refreshannapolisvalley.org/topics/entrepreneurship/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Startup Life: Enter the Side Door</title>
       <link>https://refreshannapolisvalley.org/event/the-startup-life-enter-the-side-door/</link>
@@ -137,7 +133,6 @@ Services supporting the business startup space in Rural Nova Scotia are diverse 
       
       <guid>https://refreshannapolisvalley.org/project/hoist/</guid>
       <description>&lt;p&gt;Hoist Annapolis Valley is a tech club for teens interested in coding, design and entrepreneurship. If you’re age 12 to 19 and have an interest in startups or coding, then come check it out! Everyone is welcome, and it’s free!&lt;/p&gt;
-
 &lt;p&gt;Meet up with Hoist members once per month at Acadia University&amp;rsquo;s Rural Innovation Centre &amp;ndash; like attending an tech + entrepreneurship class at university.&lt;/p&gt;</description>
     </item>
     

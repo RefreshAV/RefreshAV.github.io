@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Organizations on Refresh Annapolis Valley</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Organizations on Refresh Annapolis Valley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 19 Nov 2019 18:00:00 -0300</lastBuildDate>
-    
-	<atom:link href="https://refreshannapolisvalley.org/organizations/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 19 Nov 2019 18:00:00 -0300</lastBuildDate><atom:link href="https://refreshannapolisvalley.org/organizations/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Side Door</title>
       <link>https://refreshannapolisvalley.org/organizations/side-door/</link>

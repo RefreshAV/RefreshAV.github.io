@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Organizations on Refresh Annapolis Valley</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Organizations on Refresh Annapolis Valley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 10 Aug 2016 19:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://refreshannapolisvalley.org/organization/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 10 Aug 2016 19:00:00 +0000</lastBuildDate><atom:link href="https://refreshannapolisvalley.org/organization/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Acadia Computer Science Society</title>
       <link>https://refreshannapolisvalley.org/organization/acadia-computer-science-society/</link>
@@ -65,19 +61,9 @@ The Acadia Robotics Program, through the Jodrey School of Computer Science, depe
       <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
       
       <guid>https://refreshannapolisvalley.org/organization/acadia-university/</guid>
-      <description>Far above the dykes of Fundy
-And its basin blue
-Stands our noble alma mater
-Glorious to view
-Lift the chorus
-Speed it onward
-Sing it loud and free
-Hail to thee our alma mater
-Acadia, hail to thee
-Far above the busy highway
-And the sleepy town
-Raised against the arch of heaven
-Looks she proudly down</description>
+      <description>Far above the dykes of FundyAnd its basin blueStands our noble alma materGlorious to view
+Lift the chorusSpeed it onwardSing it loud and freeHail to thee our alma materAcadia, hail to thee
+Far above the busy highwayAnd the sleepy townRaised against the arch of heavenLooks she proudly down</description>
     </item>
     
     <item>
@@ -156,8 +142,8 @@ We deliver educational seminars to universities and private venues to give the c
       
       <guid>https://refreshannapolisvalley.org/organization/canadian-intellectual-property-office/</guid>
       <description>The Canadian Intellectual Property Office (CIPO), a Special Operating Agency (SOA) associated with Innovation, Science and Economic Development Canada, is responsible for the administration and processing of the greater part of intellectual property in Canada. CIPO&amp;rsquo;s areas of activity include:
- Patents cover new inventions (process, machine, manufacture, composition of matter), or any new and useful improvement of an existing invention;
- A trademark is a word (or words), a design, or a combination of these, used to identify the goods or services of one person or organization and to distinguish these goods or services from those of others in the marketplace.</description>
+  Patents cover new inventions (process, machine, manufacture, composition of matter), or any new and useful improvement of an existing invention;
+  A trademark is a word (or words), a design, or a combination of these, used to identify the goods or services of one person or organization and to distinguish these goods or services from those of others in the marketplace.</description>
     </item>
     
     <item>
@@ -235,7 +221,7 @@ IT starts here. IT stays here. IT grows here. As the industry association for th
       
       <guid>https://refreshannapolisvalley.org/organization/harvesthand/</guid>
       <description>HarvestHand is a community platform dedicated to strengthening regional food systems. We&amp;rsquo;re passionate about supporting farms with CSA&amp;rsquo;s to become more profitable using HarvestHand CSA Software, helping communities eat better through the HarvestHand Community, creating good jobs in rural communities, and building new media solutions that make sharing the harvest easier.
-Our vision is to create new media solutions that strengthen regional food systems&amp;rsquo; ability to succeed in value oriented approaches to production, distribution, consumption and community.</description>
+Our vision is to create new media solutions that strengthen regional food systems&#39; ability to succeed in value oriented approaches to production, distribution, consumption and community.</description>
     </item>
     
     <item>
@@ -386,9 +372,9 @@ Our instructors are professionals who remain current in their fields of expertis
       
       <guid>https://refreshannapolisvalley.org/organization/r-bar/</guid>
       <description>R-bar is Acadia University&amp;rsquo;s scientific programming study group. They cover everything R: a programming language and software environment for statistical computing and graphics.
-WHAT WE DO  Skill Sharing: Share your favorite coding skills and tools with your friends and colleagues in friendly, no-pressure work-alongs.
- Co-Working: Get together to work on your coding projects, help each other out and share your work.
- Community Building: Meet new people in your field, organization or community - and find out what we can do when we work together.</description>
+WHAT WE DO   Skill Sharing: Share your favorite coding skills and tools with your friends and colleagues in friendly, no-pressure work-alongs.
+  Co-Working: Get together to work on your coding projects, help each other out and share your work.
+  Community Building: Meet new people in your field, organization or community - and find out what we can do when we work together.</description>
     </item>
     
     <item>
@@ -487,7 +473,7 @@ This made her realize that there isn’t one central place to look for informati
       <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
       
       <guid>https://refreshannapolisvalley.org/organization/we-are-ns/</guid>
-      <description>Nova Scotia’s portfolio of the very best people, products, and places. We Are NS&amp;rsquo; mission is to celebrate the very best brands and creative talent Nova Scotia has to offer one story at a time. Our vision is to create a vibrant community of people who build confidence among Nova Scotians by challenging themselves and supporting others to be better every day.
+      <description>Nova Scotia’s portfolio of the very best people, products, and places. We Are NS&#39; mission is to celebrate the very best brands and creative talent Nova Scotia has to offer one story at a time. Our vision is to create a vibrant community of people who build confidence among Nova Scotians by challenging themselves and supporting others to be better every day.
 Join us and use the hashtag #WeAreNS to help us share our story to the world!</description>
     </item>
     

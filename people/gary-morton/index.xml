@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gary Morton on Refresh Annapolis Valley</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Gary Morton on Refresh Annapolis Valley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 12 Feb 2019 19:00:00 -0300</lastBuildDate>
-    
-	<atom:link href="https://refreshannapolisvalley.org/people/gary-morton/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 12 Feb 2019 19:00:00 -0300</lastBuildDate><atom:link href="https://refreshannapolisvalley.org/people/gary-morton/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ag &#43; Tech = Innovation</title>
       <link>https://refreshannapolisvalley.org/event/ag-tech-innovation/</link>
@@ -39,15 +35,15 @@ Gary Morton (Morton Horticultural Associates, Annapolis Valley Chamber of Commer
       <description>Measure and mix together:
 1 cup of farmers
 ½ pound regional food distributors
-2 tbsp chefs
-1 cup food policy experts
-1 dash of deep concern about making our regional bounty more accessible
-Stir in:
-2 tbsp software developers
-½ cup interactive designers
-4 tbsp marketers
-1 pound new media entrepreneurs
-Stir new media ingredients into agricultural mixture. Mix thoroughly with a group of mentors. Broil for 48 hours. Serve hot to a group of judges.</description>
+  2 tbsp chefs
+  1 cup food policy experts
+  1 dash of deep concern about making our regional bounty more accessible
+  Stir in:
+  2 tbsp software developers
+  ½ cup interactive designers
+  4 tbsp marketers
+  1 pound new media entrepreneurs
+  Stir new media ingredients into agricultural mixture.</description>
     </item>
     
   </channel>

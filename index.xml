@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Refresh Annapolis Valley</title>
@@ -6,11 +6,7 @@
     <description>Recent content on Refresh Annapolis Valley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 09 Dec 2019 17:00:00 -0400</lastBuildDate>
-    
-	<atom:link href="https://refreshannapolisvalley.org/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 09 Dec 2019 17:00:00 -0400</lastBuildDate><atom:link href="https://refreshannapolisvalley.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Comp Sci Education Week - Build a micro:bit Mini Crane</title>
       <link>https://refreshannapolisvalley.org/event/creating-mini-crane-with-the-microbit/</link>
@@ -283,8 +279,8 @@ You’ve taken the first step, you’ve built a website you’re happy with – 
       <pubDate>Thu, 29 Nov 2018 12:30:00 -0300</pubDate>
       
       <guid>https://refreshannapolisvalley.org/post/refreshing-youth-recognized/</guid>
-      <description>Wolfville, NS, (Nov. 29, 2018) — At a recognition event for outstanding community contributors to the Kings South riding, MLA Keith Irving presented a group of Refresh Annapolis Valley youth an award for their efforts and contributions. Recipients Emma He, Gerald Kaulback, Max Caplan, and Alexander Petkov were recognized for placing first place at Start It Up, a rigorous business ideation competition hosted by the Acadia Entrepreneurship Centre.
-“Entrepreneurship is crucial to the future economic success of our province and with amazing young entrepreneurs like these in our communities, I think our future is bright,” said Keith Irving MLA in a statement read in the Nova Scotia House of Assembly.</description>
+      <description>“Entrepreneurship is crucial to the future economic success of our province and with amazing young entrepreneurs like these in our communities, I think our future is bright,” said Keith Irving MLA in a statement read in the Nova Scotia House of Assembly.
+The competition featured several teams of University students working to solve industry or community problems within the time frame of 28 hours. He, Kaulback, Caplan, and Petkov wowed the judges and placed first and took home the $6000 top prize.</description>
     </item>
     
     <item>
@@ -491,7 +487,7 @@ Progeny Genealogy&amp;rsquo;s Charting Companion software displays the relations
       <pubDate>Sat, 17 Mar 2018 14:00:00 -0300</pubDate>
       
       <guid>https://refreshannapolisvalley.org/event/revved-up/</guid>
-      <description>March 23 to 24th is launchbox&amp;rsquo;s Start It Up! - a weekend business ideation competition with 10K in prizes to be won. If you are interested in playing with new business ideas, this event is for you. While an University event, we have had youth teams (and winning youth teams!) at several Start It Up! competitions. This year is no different. If you are interested in learning more about this business ideation event, come to this information session and beef up on your skills to help you compete.</description>
+      <description>March 23 to 24th is launchbox&amp;rsquo;s Start It Up!- a weekend business ideation competition with 10K in prizes to be won. If you are interested in playing with new business ideas, this event is for you. While an University event, we have had youth teams (and winning youth teams!) at several Start It Up! competitions. This year is no different. If you are interested in learning more about this business ideation event, come to this information session and beef up on your skills to help you compete.</description>
     </item>
     
     <item>
@@ -570,7 +566,8 @@ Go is a general purpose programming language with advanced features and a clean 
       
       <guid>https://refreshannapolisvalley.org/event/f5/imagination/</guid>
       <description>f5://imagination is a pop up exhibit focused on digital creativity. This one day temporary exhibit features work from digital artists, makers, scratchers, computer scientists, engineers and pretendgineer, hardware hackers, lego robotics warriors, indy game developers, new media innovators, VR and AR pioneers&amp;hellip; digital builders of all shapes, sizes, and credentials.
-Schedule  10 AM to 12:30 PM Screening &amp; discussion of Hidden Figures: The story of a team of female African-American mathematicians who served a vital role in NASA during the early years of the U.</description>
+Submissions are being accepted until midnight December 13. To submit, fill out the below form (bottom of the page).
+ &amp;lt;p&amp;gt;Payton turned 11 Dec 16th.</description>
     </item>
     
     <item>
@@ -712,7 +709,7 @@ In this fireside chat, come learn what drives Aristides towards the tech startup
       
       <guid>https://refreshannapolisvalley.org/event/project-management-sucks/</guid>
       <description>Project management seems to be one of those areas of necessary evil. Disconnected project managers who don&amp;rsquo;t really understand your work coupled with never ending meetings, charts, spreadsheets, forms, paperwork, complicated management software&amp;hellip; Project management can feel like it is more of a barrier than a help to team productivity.
-  In this talk, Mike Caplan, a reluctant Software Development Manager, will explore a lightweight tool for overseeing the project processes.</description>
+ In this talk, Mike Caplan, a reluctant Software Development Manager, will explore a lightweight tool for overseeing the project processes.</description>
     </item>
     
     <item>
@@ -762,7 +759,7 @@ From the early days of Frostbyte Interactive, Aerhyve Aerial Technologies, and n
       
       <guid>https://refreshannapolisvalley.org/event/understanding-the-world-through-r/</guid>
       <description>The world is bubbling over with data. When analyzed, data can provide the inquiring mind with useful information that can suggest outcomes and support decision-making. Be it the data generated about business practices, human behaviours, the biological world; being able to understand what your data is telling you is incredibly empowering. &amp;ldquo;R&amp;rdquo; is a free, accessible, and powerful programming language that offers a suite of tools for data analysis.
-Our tour guide, Trevor Avery &amp;mdash; biostatistician, faculty member at Acadia University, and coordinator of R-bar  &amp;mdash; will provide us a primer on R.</description>
+Our tour guide, Trevor Avery — biostatistician, faculty member at Acadia University, and coordinator of R-bar  — will provide us a primer on R.</description>
     </item>
     
     <item>
@@ -819,7 +816,6 @@ Tech jobs are growing three times faster than our colleges are producing compute
       
       <guid>https://refreshannapolisvalley.org/project/hoist/</guid>
       <description>&lt;p&gt;Hoist Annapolis Valley is a tech club for teens interested in coding, design and entrepreneurship. If you’re age 12 to 19 and have an interest in startups or coding, then come check it out! Everyone is welcome, and it’s free!&lt;/p&gt;
-
 &lt;p&gt;Meet up with Hoist members once per month at Acadia University&amp;rsquo;s Rural Innovation Centre &amp;ndash; like attending an tech + entrepreneurship class at university.&lt;/p&gt;</description>
     </item>
     
@@ -897,19 +893,9 @@ The Acadia Robotics Program, through the Jodrey School of Computer Science, depe
       <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
       
       <guid>https://refreshannapolisvalley.org/organization/acadia-university/</guid>
-      <description>Far above the dykes of Fundy
-And its basin blue
-Stands our noble alma mater
-Glorious to view
-Lift the chorus
-Speed it onward
-Sing it loud and free
-Hail to thee our alma mater
-Acadia, hail to thee
-Far above the busy highway
-And the sleepy town
-Raised against the arch of heaven
-Looks she proudly down</description>
+      <description>Far above the dykes of FundyAnd its basin blueStands our noble alma materGlorious to view
+Lift the chorusSpeed it onwardSing it loud and freeHail to thee our alma materAcadia, hail to thee
+Far above the busy highwayAnd the sleepy townRaised against the arch of heavenLooks she proudly down</description>
     </item>
     
     <item>
@@ -1047,8 +1033,8 @@ We deliver educational seminars to universities and private venues to give the c
       
       <guid>https://refreshannapolisvalley.org/organization/canadian-intellectual-property-office/</guid>
       <description>The Canadian Intellectual Property Office (CIPO), a Special Operating Agency (SOA) associated with Innovation, Science and Economic Development Canada, is responsible for the administration and processing of the greater part of intellectual property in Canada. CIPO&amp;rsquo;s areas of activity include:
- Patents cover new inventions (process, machine, manufacture, composition of matter), or any new and useful improvement of an existing invention;
- A trademark is a word (or words), a design, or a combination of these, used to identify the goods or services of one person or organization and to distinguish these goods or services from those of others in the marketplace.</description>
+  Patents cover new inventions (process, machine, manufacture, composition of matter), or any new and useful improvement of an existing invention;
+  A trademark is a word (or words), a design, or a combination of these, used to identify the goods or services of one person or organization and to distinguish these goods or services from those of others in the marketplace.</description>
     </item>
     
     <item>
@@ -1096,7 +1082,7 @@ Charlie&amp;rsquo;s profile picture was created by a robot inspired by the work 
       
       <guid>https://refreshannapolisvalley.org/person/chris-jordan/</guid>
       <description>Chris is a software developer with 16+ years experience with Henry Schein. Not to be pigeonholed, he&amp;rsquo;s got his hand in all sorts of things: Top tier support for an installation base spanning 2000+ customers, Brand development, Application planning and development, Database design, Documentation, Testing, Training, Training material development: web, print and video, Customer support, Installer creation, Phone system programming.
-Chris&amp;rsquo; profile pic is a mashup of a picture of his swiped from Facebook and R2D2.</description>
+Chris&#39; profile pic is a mashup of a picture of his swiped from Facebook and R2D2.</description>
     </item>
     
     <item>
@@ -1258,8 +1244,8 @@ Business innovation is essential for us to solve our biggest issues and to succe
       
       <guid>https://refreshannapolisvalley.org/person/geoff-crouse/</guid>
       <description>Geoff has more than 17 years of combined Software Engineering and Information Technology Consulting experience.
- Technical Sales Engineer, specializing in medium to large scale Drupal CMS projects including new development, site audits and analysis, and expert support services.
- Account Management, coordinating customer projects with engineering and support teams from initial conception to final delivery, and continued support.
+  Technical Sales Engineer, specializing in medium to large scale Drupal CMS projects including new development, site audits and analysis, and expert support services.
+  Account Management, coordinating customer projects with engineering and support teams from initial conception to final delivery, and continued support.
   Geoff&amp;rsquo;s profile picture was created by a robot inspired by Peggy&amp;rsquo;s Cove.</description>
     </item>
     
@@ -1270,7 +1256,7 @@ Business innovation is essential for us to solve our biggest issues and to succe
       
       <guid>https://refreshannapolisvalley.org/organization/harvesthand/</guid>
       <description>HarvestHand is a community platform dedicated to strengthening regional food systems. We&amp;rsquo;re passionate about supporting farms with CSA&amp;rsquo;s to become more profitable using HarvestHand CSA Software, helping communities eat better through the HarvestHand Community, creating good jobs in rural communities, and building new media solutions that make sharing the harvest easier.
-Our vision is to create new media solutions that strengthen regional food systems&amp;rsquo; ability to succeed in value oriented approaches to production, distribution, consumption and community.</description>
+Our vision is to create new media solutions that strengthen regional food systems&#39; ability to succeed in value oriented approaches to production, distribution, consumption and community.</description>
     </item>
     
     <item>
@@ -1468,7 +1454,7 @@ International law enforcement and security organizations have worked with her in
       <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
       
       <guid>https://refreshannapolisvalley.org/person/margaret-hopkins/</guid>
-      <description>Margaret Hopkins is a third year math and music major at Acadia University with an interest in promoting mathematics and technology education for youth in the Annapolis Valley. She is a founding member and now coach of the Horton High Robats, an all-girls&amp;rsquo; robotics team; coaches Wolfville School&amp;rsquo;s First Lego League team, Robo Lobo Wired; and volunteers with WISE Acadia and other organizations in the region to promote STEM education for all students.</description>
+      <description>Margaret Hopkins is a third year math and music major at Acadia University with an interest in promoting mathematics and technology education for youth in the Annapolis Valley. She is a founding member and now coach of the Horton High Robats, an all-girls&#39; robotics team; coaches Wolfville School&amp;rsquo;s First Lego League team, Robo Lobo Wired; and volunteers with WISE Acadia and other organizations in the region to promote STEM education for all students.</description>
     </item>
     
     <item>
@@ -1684,9 +1670,9 @@ Philip is also the president of PCTxs Inc., a firm that provides an online marke
       
       <guid>https://refreshannapolisvalley.org/organization/r-bar/</guid>
       <description>R-bar is Acadia University&amp;rsquo;s scientific programming study group. They cover everything R: a programming language and software environment for statistical computing and graphics.
-WHAT WE DO  Skill Sharing: Share your favorite coding skills and tools with your friends and colleagues in friendly, no-pressure work-alongs.
- Co-Working: Get together to work on your coding projects, help each other out and share your work.
- Community Building: Meet new people in your field, organization or community - and find out what we can do when we work together.</description>
+WHAT WE DO   Skill Sharing: Share your favorite coding skills and tools with your friends and colleagues in friendly, no-pressure work-alongs.
+  Co-Working: Get together to work on your coding projects, help each other out and share your work.
+  Community Building: Meet new people in your field, organization or community - and find out what we can do when we work together.</description>
     </item>
     
     <item>
@@ -1881,7 +1867,7 @@ This made her realize that there isn’t one central place to look for informati
       <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
       
       <guid>https://refreshannapolisvalley.org/organization/we-are-ns/</guid>
-      <description>Nova Scotia’s portfolio of the very best people, products, and places. We Are NS&amp;rsquo; mission is to celebrate the very best brands and creative talent Nova Scotia has to offer one story at a time. Our vision is to create a vibrant community of people who build confidence among Nova Scotians by challenging themselves and supporting others to be better every day.
+      <description>Nova Scotia’s portfolio of the very best people, products, and places. We Are NS&#39; mission is to celebrate the very best brands and creative talent Nova Scotia has to offer one story at a time. Our vision is to create a vibrant community of people who build confidence among Nova Scotians by challenging themselves and supporting others to be better every day.
 Join us and use the hashtag #WeAreNS to help us share our story to the world!</description>
     </item>
     
@@ -1982,15 +1968,15 @@ You&amp;rsquo;ll learn how to install WordPress and get it setup using Posts, Pa
       <description>Measure and mix together:
 1 cup of farmers
 ½ pound regional food distributors
-2 tbsp chefs
-1 cup food policy experts
-1 dash of deep concern about making our regional bounty more accessible
-Stir in:
-2 tbsp software developers
-½ cup interactive designers
-4 tbsp marketers
-1 pound new media entrepreneurs
-Stir new media ingredients into agricultural mixture. Mix thoroughly with a group of mentors. Broil for 48 hours. Serve hot to a group of judges.</description>
+  2 tbsp chefs
+  1 cup food policy experts
+  1 dash of deep concern about making our regional bounty more accessible
+  Stir in:
+  2 tbsp software developers
+  ½ cup interactive designers
+  4 tbsp marketers
+  1 pound new media entrepreneurs
+  Stir new media ingredients into agricultural mixture.</description>
     </item>
     
     <item>

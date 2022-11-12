@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Topics on Refresh Annapolis Valley</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Topics on Refresh Annapolis Valley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 09 Dec 2019 17:00:00 -0400</lastBuildDate>
-    
-	<atom:link href="https://refreshannapolisvalley.org/topics/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 09 Dec 2019 17:00:00 -0400</lastBuildDate><atom:link href="https://refreshannapolisvalley.org/topics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hardware Hacking</title>
       <link>https://refreshannapolisvalley.org/topics/hardware-hacking/</link>
@@ -21,7 +17,7 @@
     </item>
     
     <item>
-      <title>Tech-Ed</title>
+      <title>tech-ed</title>
       <link>https://refreshannapolisvalley.org/topics/tech-ed/</link>
       <pubDate>Mon, 09 Dec 2019 17:00:00 -0400</pubDate>
       
@@ -30,7 +26,7 @@
     </item>
     
     <item>
-      <title>Entrepreneurship</title>
+      <title>entrepreneurship</title>
       <link>https://refreshannapolisvalley.org/topics/entrepreneurship/</link>
       <pubDate>Tue, 19 Nov 2019 18:00:00 -0300</pubDate>
       

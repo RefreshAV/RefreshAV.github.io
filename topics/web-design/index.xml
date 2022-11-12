@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web-design on Refresh Annapolis Valley</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Web-design on Refresh Annapolis Valley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 11 Oct 2016 19:00:00 -0300</lastBuildDate>
-    
-	<atom:link href="https://refreshannapolisvalley.org/topics/web-design/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 11 Oct 2016 19:00:00 -0300</lastBuildDate><atom:link href="https://refreshannapolisvalley.org/topics/web-design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>UX Fist Fighting - Designing For Usability</title>
       <link>https://refreshannapolisvalley.org/event/ux-fist-fighting-designing-for-usability/</link>
@@ -38,8 +34,8 @@ We have a special affinity for mapping projects and have send rugged phone apps 
       
       <guid>https://refreshannapolisvalley.org/person/geoff-crouse/</guid>
       <description>Geoff has more than 17 years of combined Software Engineering and Information Technology Consulting experience.
- Technical Sales Engineer, specializing in medium to large scale Drupal CMS projects including new development, site audits and analysis, and expert support services.
- Account Management, coordinating customer projects with engineering and support teams from initial conception to final delivery, and continued support.
+  Technical Sales Engineer, specializing in medium to large scale Drupal CMS projects including new development, site audits and analysis, and expert support services.
+  Account Management, coordinating customer projects with engineering and support teams from initial conception to final delivery, and continued support.
   Geoff&amp;rsquo;s profile picture was created by a robot inspired by Peggy&amp;rsquo;s Cove.</description>
     </item>
     

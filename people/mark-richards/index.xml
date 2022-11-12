@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mark Richards on Refresh Annapolis Valley</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Mark Richards on Refresh Annapolis Valley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 13 Feb 2018 19:00:00 -0300</lastBuildDate>
-    
-	<atom:link href="https://refreshannapolisvalley.org/people/mark-richards/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 13 Feb 2018 19:00:00 -0300</lastBuildDate><atom:link href="https://refreshannapolisvalley.org/people/mark-richards/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>State of Computer Science Education</title>
       <link>https://refreshannapolisvalley.org/event/state-of-computer-science-education/</link>

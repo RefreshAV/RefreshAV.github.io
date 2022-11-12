@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mike Downs on Refresh Annapolis Valley</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Mike Downs on Refresh Annapolis Valley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 11 Oct 2016 19:00:00 -0300</lastBuildDate>
-    
-	<atom:link href="https://refreshannapolisvalley.org/people/mike-downs/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 11 Oct 2016 19:00:00 -0300</lastBuildDate><atom:link href="https://refreshannapolisvalley.org/people/mike-downs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>UX Fist Fighting - Designing For Usability</title>
       <link>https://refreshannapolisvalley.org/event/ux-fist-fighting-designing-for-usability/</link>

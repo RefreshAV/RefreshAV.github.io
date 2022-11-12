@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R-bar on Refresh Annapolis Valley</title>
@@ -6,11 +6,7 @@
     <description>Recent content in R-bar on Refresh Annapolis Valley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 08 Nov 2016 19:00:00 -0300</lastBuildDate>
-    
-	<atom:link href="https://refreshannapolisvalley.org/organizations/r-bar/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 08 Nov 2016 19:00:00 -0300</lastBuildDate><atom:link href="https://refreshannapolisvalley.org/organizations/r-bar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understanding The World Through R</title>
       <link>https://refreshannapolisvalley.org/event/understanding-the-world-through-r/</link>
@@ -18,7 +14,7 @@
       
       <guid>https://refreshannapolisvalley.org/event/understanding-the-world-through-r/</guid>
       <description>The world is bubbling over with data. When analyzed, data can provide the inquiring mind with useful information that can suggest outcomes and support decision-making. Be it the data generated about business practices, human behaviours, the biological world; being able to understand what your data is telling you is incredibly empowering. &amp;ldquo;R&amp;rdquo; is a free, accessible, and powerful programming language that offers a suite of tools for data analysis.
-Our tour guide, Trevor Avery &amp;mdash; biostatistician, faculty member at Acadia University, and coordinator of R-bar  &amp;mdash; will provide us a primer on R.</description>
+Our tour guide, Trevor Avery — biostatistician, faculty member at Acadia University, and coordinator of R-bar  — will provide us a primer on R.</description>
     </item>
     
     <item>

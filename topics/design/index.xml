@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Design on Refresh Annapolis Valley</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Design on Refresh Annapolis Valley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 08 May 2018 19:00:00 -0300</lastBuildDate>
-    
-	<atom:link href="https://refreshannapolisvalley.org/topics/design/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 08 May 2018 19:00:00 -0300</lastBuildDate><atom:link href="https://refreshannapolisvalley.org/topics/design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thinking About Design - Creative Strategies</title>
       <link>https://refreshannapolisvalley.org/event/thinking-about-design-creative-strategies/</link>
@@ -36,7 +32,6 @@
       
       <guid>https://refreshannapolisvalley.org/project/hoist/</guid>
       <description>&lt;p&gt;Hoist Annapolis Valley is a tech club for teens interested in coding, design and entrepreneurship. If you’re age 12 to 19 and have an interest in startups or coding, then come check it out! Everyone is welcome, and it’s free!&lt;/p&gt;
-
 &lt;p&gt;Meet up with Hoist members once per month at Acadia University&amp;rsquo;s Rural Innovation Centre &amp;ndash; like attending an tech + entrepreneurship class at university.&lt;/p&gt;</description>
     </item>
     

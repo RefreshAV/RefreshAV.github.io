@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Agriculture on Refresh Annapolis Valley</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Agriculture on Refresh Annapolis Valley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 09 Oct 2019 19:00:00 -0300</lastBuildDate>
-    
-	<atom:link href="https://refreshannapolisvalley.org/topics/agriculture/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 09 Oct 2019 19:00:00 -0300</lastBuildDate><atom:link href="https://refreshannapolisvalley.org/topics/agriculture/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Startup Life: Meet R2-Weed2</title>
       <link>https://refreshannapolisvalley.org/event/the-startup-life-r2-weed2/</link>
@@ -85,7 +81,7 @@ From the early days of Frostbyte Interactive, Aerhyve Aerial Technologies, and n
       
       <guid>https://refreshannapolisvalley.org/organization/harvesthand/</guid>
       <description>HarvestHand is a community platform dedicated to strengthening regional food systems. We&amp;rsquo;re passionate about supporting farms with CSA&amp;rsquo;s to become more profitable using HarvestHand CSA Software, helping communities eat better through the HarvestHand Community, creating good jobs in rural communities, and building new media solutions that make sharing the harvest easier.
-Our vision is to create new media solutions that strengthen regional food systems&amp;rsquo; ability to succeed in value oriented approaches to production, distribution, consumption and community.</description>
+Our vision is to create new media solutions that strengthen regional food systems&#39; ability to succeed in value oriented approaches to production, distribution, consumption and community.</description>
     </item>
     
     <item>

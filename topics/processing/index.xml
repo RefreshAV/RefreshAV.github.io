@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Processing on Refresh Annapolis Valley</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Processing on Refresh Annapolis Valley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 21 Apr 2018 12:30:00 -0300</lastBuildDate>
-    
-	<atom:link href="https://refreshannapolisvalley.org/topics/processing/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 21 Apr 2018 12:30:00 -0300</lastBuildDate><atom:link href="https://refreshannapolisvalley.org/topics/processing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bring your Visual Art Alive with Computers - Intro to Processing</title>
       <link>https://refreshannapolisvalley.org/event/intro-to-processing/</link>

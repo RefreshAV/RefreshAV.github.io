@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tech-Ed on Refresh Annapolis Valley</title>
+    <title>tech-ed on Refresh Annapolis Valley</title>
     <link>https://refreshannapolisvalley.org/topics/tech-ed/</link>
-    <description>Recent content in Tech-Ed on Refresh Annapolis Valley</description>
+    <description>Recent content in tech-ed on Refresh Annapolis Valley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 09 Dec 2019 17:00:00 -0400</lastBuildDate>
-    
-	<atom:link href="https://refreshannapolisvalley.org/topics/tech-ed/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 09 Dec 2019 17:00:00 -0400</lastBuildDate><atom:link href="https://refreshannapolisvalley.org/topics/tech-ed/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Comp Sci Education Week - Build a micro:bit Mini Crane</title>
       <link>https://refreshannapolisvalley.org/event/creating-mini-crane-with-the-microbit/</link>
@@ -161,7 +157,6 @@ During #ScartchFest, kids will brainstorm an idea, develop their project, and sh
       
       <guid>https://refreshannapolisvalley.org/project/hoist/</guid>
       <description>&lt;p&gt;Hoist Annapolis Valley is a tech club for teens interested in coding, design and entrepreneurship. If you’re age 12 to 19 and have an interest in startups or coding, then come check it out! Everyone is welcome, and it’s free!&lt;/p&gt;
-
 &lt;p&gt;Meet up with Hoist members once per month at Acadia University&amp;rsquo;s Rural Innovation Centre &amp;ndash; like attending an tech + entrepreneurship class at university.&lt;/p&gt;</description>
     </item>
     

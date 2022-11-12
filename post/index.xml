@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Refresh Annapolis Valley</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Posts on Refresh Annapolis Valley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 19 Dec 2018 12:30:00 -0300</lastBuildDate>
-    
-	<atom:link href="https://refreshannapolisvalley.org/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 19 Dec 2018 12:30:00 -0300</lastBuildDate><atom:link href="https://refreshannapolisvalley.org/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Free Computer Science Course For Girls Announced</title>
       <link>https://refreshannapolisvalley.org/post/free-computer-science-course-for-girls-announced/</link>
@@ -27,8 +23,8 @@
       <pubDate>Thu, 29 Nov 2018 12:30:00 -0300</pubDate>
       
       <guid>https://refreshannapolisvalley.org/post/refreshing-youth-recognized/</guid>
-      <description>Wolfville, NS, (Nov. 29, 2018) — At a recognition event for outstanding community contributors to the Kings South riding, MLA Keith Irving presented a group of Refresh Annapolis Valley youth an award for their efforts and contributions. Recipients Emma He, Gerald Kaulback, Max Caplan, and Alexander Petkov were recognized for placing first place at Start It Up, a rigorous business ideation competition hosted by the Acadia Entrepreneurship Centre.
-“Entrepreneurship is crucial to the future economic success of our province and with amazing young entrepreneurs like these in our communities, I think our future is bright,” said Keith Irving MLA in a statement read in the Nova Scotia House of Assembly.</description>
+      <description>“Entrepreneurship is crucial to the future economic success of our province and with amazing young entrepreneurs like these in our communities, I think our future is bright,” said Keith Irving MLA in a statement read in the Nova Scotia House of Assembly.
+The competition featured several teams of University students working to solve industry or community problems within the time frame of 28 hours. He, Kaulback, Caplan, and Petkov wowed the judges and placed first and took home the $6000 top prize.</description>
     </item>
     
   </channel>
