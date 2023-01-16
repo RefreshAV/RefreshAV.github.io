@@ -2,31 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://refreshannapolisvalley.org/event/</loc>
+    <lastmod>2023-02-01T19:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://refreshannapolisvalley.org/people/max-caplan/</loc>
+    <lastmod>2023-02-01T19:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://refreshannapolisvalley.org/people/</loc>
+    <lastmod>2023-02-01T19:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://refreshannapolisvalley.org/</loc>
+    <lastmod>2023-02-01T19:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://refreshannapolisvalley.org/topics/tech-ed/</loc>
+    <lastmod>2023-02-01T19:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://refreshannapolisvalley.org/topics/</loc>
+    <lastmod>2023-02-01T19:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://refreshannapolisvalley.org/event/hoist/video-game-development-with-godot/</loc>
+    <lastmod>2023-02-01T19:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://refreshannapolisvalley.org/event/cc/course-2023/</loc>
+    <lastmod>2023-02-01T14:45:00-04:00</lastmod>
+  </url><url>
+    <loc>https://refreshannapolisvalley.org/people/michael-caplan/</loc>
+    <lastmod>2023-02-01T14:45:00-04:00</lastmod>
+  </url><url>
     <loc>https://refreshannapolisvalley.org/people/alexander-petkov/</loc>
     <lastmod>2019-12-09T17:00:00-04:00</lastmod>
   </url><url>
     <loc>https://refreshannapolisvalley.org/event/creating-mini-crane-with-the-microbit/</loc>
     <lastmod>2019-12-09T17:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://refreshannapolisvalley.org/event/</loc>
-    <lastmod>2019-12-09T17:00:00-04:00</lastmod>
-  </url><url>
     <loc>https://refreshannapolisvalley.org/topics/hardware-hacking/</loc>
-    <lastmod>2019-12-09T17:00:00-04:00</lastmod>
-  </url><url>
-    <loc>https://refreshannapolisvalley.org/people/max-caplan/</loc>
-    <lastmod>2019-12-09T17:00:00-04:00</lastmod>
-  </url><url>
-    <loc>https://refreshannapolisvalley.org/people/</loc>
-    <lastmod>2019-12-09T17:00:00-04:00</lastmod>
-  </url><url>
-    <loc>https://refreshannapolisvalley.org/</loc>
-    <lastmod>2019-12-09T17:00:00-04:00</lastmod>
-  </url><url>
-    <loc>https://refreshannapolisvalley.org/topics/tech-ed/</loc>
-    <lastmod>2019-12-09T17:00:00-04:00</lastmod>
-  </url><url>
-    <loc>https://refreshannapolisvalley.org/topics/</loc>
     <lastmod>2019-12-09T17:00:00-04:00</lastmod>
   </url><url>
     <loc>https://refreshannapolisvalley.org/people/cassie-josephine/</loc>
@@ -108,9 +117,6 @@
     <lastmod>2019-09-21T10:00:00-03:00</lastmod>
   </url><url>
     <loc>https://refreshannapolisvalley.org/event/hoist/camp-2019/</loc>
-    <lastmod>2019-08-12T08:30:00-04:00</lastmod>
-  </url><url>
-    <loc>https://refreshannapolisvalley.org/people/michael-caplan/</loc>
     <lastmod>2019-08-12T08:30:00-04:00</lastmod>
   </url><url>
     <loc>https://refreshannapolisvalley.org/person/avery-schrader/</loc>
