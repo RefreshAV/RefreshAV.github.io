@@ -6,7 +6,34 @@
     <description>Recent content on Refresh Annapolis Valley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 12 Apr 2023 19:00:00 -0400</lastBuildDate><atom:link href="https://refreshannapolisvalley.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Oct 2023 14:45:00 -0400</lastBuildDate><atom:link href="https://refreshannapolisvalley.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creative Computing Fall 2023</title>
+      <link>https://refreshannapolisvalley.org/event/cc/course-fall-2023/</link>
+      <pubDate>Sun, 01 Oct 2023 14:45:00 -0400</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/event/cc/course-fall-2023/</guid>
+      <description>Creative Computing is a course developed by an international network of educators passionate about exposing kids to the computer sciences. This course uses the popular Scratch programming environment to aid young people (grades 4 to 6) in learning the basics of software development. Scratch is used over the world by students to easily create interactive artwork, interactive stories, and video games while acting as a stepping stone to the more advanced world of computer science.</description>
+    </item>
+    
+    <item>
+      <title>Scratch Masters Course 2023</title>
+      <link>https://refreshannapolisvalley.org/event/cc/masters-2023/</link>
+      <pubDate>Sun, 01 Oct 2023 14:45:00 -0400</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/event/cc/masters-2023/</guid>
+      <description>Scratch Masters is the next level course for graduates of the Creative Computing program. Within this course we continue to explore the world of the computer sciences. This course uses the popular Scratch programming environment to aid young people (grades 4 to 6) in learning the more advanced concepts of Scratch software development. Scratch is used over the world by students to easily create interactive artwork, interactive stories, and video games while acting as a stepping stone to the more advanced world of computer science.</description>
+    </item>
+    
+    <item>
+      <title>Creative Computing Summer Bootcamp 2023</title>
+      <link>https://refreshannapolisvalley.org/event/cc/course-summer-2023/</link>
+      <pubDate>Sat, 01 Jul 2023 14:45:00 -0400</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/event/cc/course-summer-2023/</guid>
+      <description>Creative Computing is a course developed by an international network of educators passionate about exposing kids to the computer sciences. This course uses the popular Scratch programming environment to aid young people (grades 4 to 6) in learning the basics of software development. Scratch is used over the world by students to easily create interactive artwork, interactive stories, and video games while acting as a stepping stone to the more advanced world of computer science.</description>
+    </item>
+    
     <item>
       <title>Building Video Games</title>
       <link>https://refreshannapolisvalley.org/event/hoist/building-video-games/</link>
@@ -28,7 +55,7 @@ What is Godot Godot is a free game engine that enables you to create any 2D or 3
     </item>
     
     <item>
-      <title>Creative Computing Course 2023</title>
+      <title>Scratch Masters 2023 - 2024</title>
       <link>https://refreshannapolisvalley.org/event/cc/course-2023/</link>
       <pubDate>Wed, 08 Feb 2023 14:45:00 -0400</pubDate>
       
