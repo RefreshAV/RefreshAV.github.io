@@ -6,7 +6,17 @@
     <description>Recent content in Events on Refresh Annapolis Valley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 01 Oct 2023 14:45:00 -0400</lastBuildDate><atom:link href="https://refreshannapolisvalley.org/event/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Sep 2024 14:45:00 -0400</lastBuildDate><atom:link href="https://refreshannapolisvalley.org/event/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Refresh 2023 - 2024 Youth Cohort</title>
+      <link>https://refreshannapolisvalley.org/event/cc/cohort-2023-2024/</link>
+      <pubDate>Mon, 30 Sep 2024 14:45:00 -0400</pubDate>
+      
+      <guid>https://refreshannapolisvalley.org/event/cc/cohort-2023-2024/</guid>
+      <description>For the past several years, Refresh Annapolis Valley has been offering courses to small cohorts of learners over the academic year. The courses offered include:
+ Creative Computing: An introductory Computer Science course for younger learners using the Scratch programming environment. Scratch Masters: Advanced course for young learners focused on Scratch, physical hardware programming with Microbits, and retro video game development. Build Arcade: An introductory Computer Science course for High School learners using Makecode Arcade to build retro style video games.</description>
+    </item>
+    
     <item>
       <title>Creative Computing Fall 2023</title>
       <link>https://refreshannapolisvalley.org/event/cc/course-fall-2023/</link>
