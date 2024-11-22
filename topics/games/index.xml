@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>games on Refresh Annapolis Valley</title>
+    <title>Games on Refresh Annapolis Valley</title>
     <link>https://refreshannapolisvalley.org/topics/games/</link>
-    <description>Recent content in games on Refresh Annapolis Valley</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Games on Refresh Annapolis Valley</description>
+    <generator>Hugo</generator>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 05 Apr 2019 17:00:00 -0500</lastBuildDate><atom:link href="https://refreshannapolisvalley.org/topics/games/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Apr 2019 17:00:00 -0500</lastBuildDate>
+    <atom:link href="https://refreshannapolisvalley.org/topics/games/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Retro Game Carnival</title>
       <link>https://refreshannapolisvalley.org/event/retro-game-fest/</link>
-      <pubDate>Fri, 05 Apr 2019 17:00:00 -0500</pubDate>
-      
+      <pubDate>Tue, 01 Jan 2019 19:00:00 -0300</pubDate>
       <guid>https://refreshannapolisvalley.org/event/retro-game-fest/</guid>
-      <description>Calling All Classic Gamers! The Retro Game Carnival is a celebration of the video games of yesteryear. From the 1970s to early 2000s, we will explore the arcade, console, and PC games that defined eras gone by. Our game fest will include a pop-up museum, fan-made DIY retro arcade, game tournaments, and workshops.
-Young and inspired? Be sure to join us for #ScratchFest 2019 the following day and put your creativity towards building your own retro influenced games.</description>
+      <description>&lt;h3 id=&#34;calling-all-classic-gamers&#34;&gt;Calling All Classic Gamers!&lt;/h3&gt;&#xA;&lt;p&gt;The Retro Game Carnival is a celebration of the video games of yesteryear.  From the 1970s to early 2000s, we will explore the arcade, console, and PC games that defined eras gone by.  Our game fest will include a pop-up museum, fan-made DIY retro arcade, game tournaments, and workshops.&lt;/p&gt;&#xA;&lt;p&gt;Young and inspired?  Be sure to join us for &lt;a href=&#34;https://refreshannapolisvalley.org/event/scratchfest-2019/&#34;&gt;#ScratchFest 2019&lt;/a&gt; the following day and put your creativity towards building your own retro influenced games.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
