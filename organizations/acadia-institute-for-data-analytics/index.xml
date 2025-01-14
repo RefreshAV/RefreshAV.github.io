@@ -6,45 +6,35 @@
     <description>Recent content in Acadia Institute for Data Analytics on Refresh Annapolis Valley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 12 Feb 2019 19:00:00 -0300</lastBuildDate><atom:link href="https://refreshannapolisvalley.org/organizations/acadia-institute-for-data-analytics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Feb 2019 19:00:00 -0300</lastBuildDate>
+    <atom:link href="https://refreshannapolisvalley.org/organizations/acadia-institute-for-data-analytics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ag &#43; Tech = Innovation</title>
       <link>https://refreshannapolisvalley.org/event/ag-tech-innovation/</link>
       <pubDate>Tue, 12 Feb 2019 19:00:00 -0300</pubDate>
-      
       <guid>https://refreshannapolisvalley.org/event/ag-tech-innovation/</guid>
-      <description>Agriculture globally is a 12 trillion dollar annual industry ripe for technology startups looking to bring new hi-tech innovations to market. Where does digital technology and agriculture meet, and what are the opportunities?
-Gary Morton (Morton Horticultural Associates, Annapolis Valley Chamber of Commerce Agriculture Committee) will discuss this exciting technology space, and the over $160,000 (cash and in-kind services) that the AVCC has awarded locally to spark agriculture innovation. Dr. Danny Silver (Acadia Institute for Data Analytics) will look at the opportunities around ag.</description>
+      <description>Agriculture globally is a 12 trillion dollar annual industry ripe for technology startups looking to bring new hi-tech innovations to market. Where does digital technology and agriculture meet, and what are the opportunities?&#xA;Gary Morton (Morton Horticultural Associates, Annapolis Valley Chamber of Commerce Agriculture Committee) will discuss this exciting technology space, and the over $160,000 (cash and in-kind services) that the AVCC has awarded locally to spark agriculture innovation. Dr. Danny Silver (Acadia Institute for Data Analytics) will look at the opportunities around ag.</description>
     </item>
-    
     <item>
       <title>Seed: Hacking Entrepreneurship in the Annapolis Valley</title>
       <link>https://refreshannapolisvalley.org/event/seed-hacking-entrepreneurship-in-the-annapolis-valley/</link>
       <pubDate>Tue, 21 Nov 2017 18:00:00 -0300</pubDate>
-      
       <guid>https://refreshannapolisvalley.org/event/seed-hacking-entrepreneurship-in-the-annapolis-valley/</guid>
-      <description>Seed is a documentary that follows an international group of programmer entrepreneurs at AngelHack: one of the most competitive global hackathons and digital business ideation competitions. Three minutes to pitch. One shot to fund their proposals.
-Seed is also a gathering of our Annapolis Valley startup community. The event will feature the diversity of associations, businesses, and individuals who comprise our digital tech startup community. An assembly of our entrepreneurial family.</description>
+      <description>Seed is a documentary that follows an international group of programmer entrepreneurs at AngelHack: one of the most competitive global hackathons and digital business ideation competitions. Three minutes to pitch. One shot to fund their proposals.&#xA;Seed is also a gathering of our Annapolis Valley startup community. The event will feature the diversity of associations, businesses, and individuals who comprise our digital tech startup community. An assembly of our entrepreneurial family.</description>
     </item>
-    
     <item>
       <title>Forecasting: Using Machine Learning Techniques in Energy, Environment and Agriculture</title>
       <link>https://refreshannapolisvalley.org/event/forecasting-using-machine-learning-techniques-in-energy-environment-and-agriculture/</link>
       <pubDate>Tue, 10 Jan 2017 19:00:00 -0300</pubDate>
-      
       <guid>https://refreshannapolisvalley.org/event/forecasting-using-machine-learning-techniques-in-energy-environment-and-agriculture/</guid>
-      <description>Dr Daniel Silver will review a series of projects undertaken by the Acadia Institute for Data Analytics  . These amazing projects can estimate crop yield from smart phone images, do solar energy forecasting, manage building energy, determine stream flow rate and aquifer recharge prediction, sales forecasting, and classifying objects in UAV agriculture field images.
-Many of these problems utilize high resolution observed and forecasted weather, high definition and multi-spectral digital images, and 5 minute through 60 minute data flow rates.</description>
+      <description>Dr Daniel Silver will review a series of projects undertaken by the Acadia Institute for Data Analytics . These amazing projects can estimate crop yield from smart phone images, do solar energy forecasting, manage building energy, determine stream flow rate and aquifer recharge prediction, sales forecasting, and classifying objects in UAV agriculture field images.&#xA;Many of these problems utilize high resolution observed and forecasted weather, high definition and multi-spectral digital images, and 5 minute through 60 minute data flow rates.</description>
     </item>
-    
     <item>
       <title>Dr Daniel Silver</title>
       <link>https://refreshannapolisvalley.org/person/dr-daniel-silver/</link>
       <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
-      
       <guid>https://refreshannapolisvalley.org/person/dr-daniel-silver/</guid>
-      <description>Dr. Daniel L. Silver is the Director of the Acadia Institute for Data Analytics  . He is also a Professor in and currently the Acting-Director of the Jodrey School of Computer Science  at Acadia University. His areas of research and application are machine learning, data mining, and data analytics. His expertise is in Lifelong Machine Learning and Transfer Learning. He has published over 65 scientific papers and has co-chaired or been part of program committees for a number of national and international conferences, seminars and workshops on data mining and machine learning.</description>
+      <description>Dr. Daniel L. Silver is the Director of the Acadia Institute for Data Analytics . He is also a Professor in and currently the Acting-Director of the Jodrey School of Computer Science at Acadia University. His areas of research and application are machine learning, data mining, and data analytics. His expertise is in Lifelong Machine Learning and Transfer Learning. He has published over 65 scientific papers and has co-chaired or been part of program committees for a number of national and international conferences, seminars and workshops on data mining and machine learning.</description>
     </item>
-    
   </channel>
 </rss>

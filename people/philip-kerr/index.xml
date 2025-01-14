@@ -6,24 +6,21 @@
     <description>Recent content in Philip Kerr on Refresh Annapolis Valley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 10 Aug 2016 19:00:00 +0000</lastBuildDate><atom:link href="https://refreshannapolisvalley.org/people/philip-kerr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Aug 2016 19:00:00 +0000</lastBuildDate>
+    <atom:link href="https://refreshannapolisvalley.org/people/philip-kerr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kerr &amp; Nadeau</title>
-      <link>https://refreshannapolisvalley.org/organization/kerr-nadeau/</link>
+      <link>https://refreshannapolisvalley.org/organization/kerr--nadeau/</link>
       <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
-      
-      <guid>https://refreshannapolisvalley.org/organization/kerr-nadeau/</guid>
+      <guid>https://refreshannapolisvalley.org/organization/kerr--nadeau/</guid>
       <description>At Kerr &amp;amp; Nadeau our job is to de-mystify and to simplify the rules for you, to offer you sound professional advice and superior legal services that will enable you, whether you are an inventor, an entrepreneur or a corporate executive, to execute your business plan, to protect your legal rights and to realize your strategic objectives while mitigating risk and ensuring compliance. Risk is the bane and Achilles heel of most business enterprises, and the single greatest obstacle to achieving your mission critical goals.</description>
     </item>
-    
     <item>
       <title>IP Matters</title>
       <link>https://refreshannapolisvalley.org/event/ip-matters/</link>
       <pubDate>Tue, 10 May 2016 19:00:00 -0300</pubDate>
-      
       <guid>https://refreshannapolisvalley.org/event/ip-matters/</guid>
       <description>Take an engaging journey into the world of intellectual property (IP) and software. What IP do you have and how can you protect it? Is it better to use a trademark, copyright or a patent? How long does it take and what does it cost? This presentation will introduce you to the types of IP and why they matter.</description>
     </item>
-    
   </channel>
 </rss>

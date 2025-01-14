@@ -6,25 +6,21 @@
     <description>Recent content in Nexus Robotics on Refresh Annapolis Valley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 09 Oct 2019 19:00:00 -0300</lastBuildDate><atom:link href="https://refreshannapolisvalley.org/organizations/nexus-robotics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Oct 2019 19:00:00 -0300</lastBuildDate>
+    <atom:link href="https://refreshannapolisvalley.org/organizations/nexus-robotics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Startup Life: Meet R2-Weed2</title>
       <link>https://refreshannapolisvalley.org/event/the-startup-life-r2-weed2/</link>
       <pubDate>Wed, 09 Oct 2019 19:00:00 -0300</pubDate>
-      
       <guid>https://refreshannapolisvalley.org/event/the-startup-life-r2-weed2/</guid>
-      <description>Technology-driven agricultural experimentation. Iterative product testing. Validated machine learning. Pivot. Pivot. Pivot. Welcome to the ag-tech startup world of Teric Greenan and Nexus Robotics  .
-With Nexus Robotics  , Teric is applying Artificial Intelligence to building a reliable and cost-effective way to produce crops. Their autonomous robot R2-Weed2 is capable of cutting and spraying weeds, fertilizing crops, and collect data about growing conditions. Teric will talk about his team&amp;rsquo;s start up journey, and the amazing technological innovations they are applying to revolutionize agriculture as we know it.</description>
+      <description>Technology-driven agricultural experimentation. Iterative product testing. Validated machine learning. Pivot. Pivot. Pivot. Welcome to the ag-tech startup world of Teric Greenan and Nexus Robotics .&#xA;With Nexus Robotics , Teric is applying Artificial Intelligence to building a reliable and cost-effective way to produce crops. Their autonomous robot R2-Weed2 is capable of cutting and spraying weeds, fertilizing crops, and collect data about growing conditions. Teric will talk about his team&amp;rsquo;s start up journey, and the amazing technological innovations they are applying to revolutionize agriculture as we know it.</description>
     </item>
-    
     <item>
       <title>Teric Greenan</title>
       <link>https://refreshannapolisvalley.org/person/teric-greenan/</link>
       <pubDate>Sat, 10 Aug 2019 19:00:00 +0000</pubDate>
-      
       <guid>https://refreshannapolisvalley.org/person/teric-greenan/</guid>
       <description>Teric grew up in Halifax, Nova Scotia. He ran a small vegetable farm in Lunenburg County, Nova Scotia for three years. He observed there were a lot of repetitive tasks on farms that were consuming farmers’ resources. These repetitive tasks seemed like good candidates to be automated. After talking with other vegetable farmers, it became clear that weeding was a massive problem that could be solved by a robot. In May of 2017, Teric founded Nexus Robotics with his close friend who is a computer engineer, Jad Tawil.</description>
     </item>
-    
   </channel>
 </rss>

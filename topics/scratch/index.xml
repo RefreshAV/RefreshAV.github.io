@@ -6,43 +6,35 @@
     <description>Recent content in Scratch on Refresh Annapolis Valley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 17 Jun 2018 12:00:00 -0300</lastBuildDate><atom:link href="https://refreshannapolisvalley.org/topics/scratch/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Jun 2018 12:00:00 -0300</lastBuildDate>
+    <atom:link href="https://refreshannapolisvalley.org/topics/scratch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Scratch For Educators</title>
       <link>https://refreshannapolisvalley.org/event/cc/scratch-for-educators/</link>
       <pubDate>Sun, 17 Jun 2018 12:00:00 -0300</pubDate>
-      
       <guid>https://refreshannapolisvalley.org/event/cc/scratch-for-educators/</guid>
-      <description>Scratch is being used in thousands of schools around the world to teach kids about the Computer Sciences. Since its launch over 10 years ago, kids from Elementary to High School have created over 6 million projects. In this crash course, adults (parents and educators) will learn about the Scratch programming environment and how it might be used to introduce learners to the Computer Sciences. No coding experience required.
-Please register in advance so we know how much pizza to order.</description>
+      <description>Scratch is being used in thousands of schools around the world to teach kids about the Computer Sciences. Since its launch over 10 years ago, kids from Elementary to High School have created over 6 million projects. In this crash course, adults (parents and educators) will learn about the Scratch programming environment and how it might be used to introduce learners to the Computer Sciences. No coding experience required.&#xA;Please register in advance so we know how much pizza to order.</description>
     </item>
-    
     <item>
       <title>Video Game Making and Circuitry</title>
       <link>https://refreshannapolisvalley.org/event/cc/video-game-making-and-circuitry/</link>
       <pubDate>Tue, 15 May 2018 16:00:00 -0300</pubDate>
-      
       <guid>https://refreshannapolisvalley.org/event/cc/video-game-making-and-circuitry/</guid>
       <description>Building games is a great way to experience game play from the perspective of the creator. In this creative computing workshop, kids will learn how to program a computer to build their own games and build their own game controllers. Kids will learn basic coding and circuitry concepts in a fun beginner friendly environment. Using Scratch, a visual programming environment, kids will be exposed to an international community of coders making a wide range of games.</description>
     </item>
-    
     <item>
       <title>Animating Stories - Interactive Stories with Scratch</title>
       <link>https://refreshannapolisvalley.org/event/cc/animating-stories-interactive-stories-with-scratch/</link>
       <pubDate>Tue, 08 May 2018 16:00:00 -0300</pubDate>
-      
       <guid>https://refreshannapolisvalley.org/event/cc/animating-stories-interactive-stories-with-scratch/</guid>
       <description>Animating is a great way to bring a story to life. In this Creative Computing workshop, kids will learn how to program a computer to create animations for their own stories. Kids will learn basic coding concepts in a fun beginner friendly environment. Using Scratch, a visual programming environment, kids will be exposed to an international community of coders making a wide range of animation based projects. This intro workshop is for kids as young as 8 with no prior experience with Scratch required.</description>
     </item>
-    
     <item>
       <title>Art Making with Your Computer!</title>
       <link>https://refreshannapolisvalley.org/event/cc/art-making-with-your-computer/</link>
       <pubDate>Tue, 01 May 2018 16:00:00 -0300</pubDate>
-      
       <guid>https://refreshannapolisvalley.org/event/cc/art-making-with-your-computer/</guid>
       <description>Art is made with a variety of media - even computers! In this Creative Computing workshop, kids will learn how to program a computer to make interactive artwork. Kids will learn basic coding concepts in a fun beginner friendly environment. Using Scratch, a visual programming environment, kids will be exposed to an international community of coders making a wide range of interactive art projects. This intro workshop is for kids as young as 8 with no prior experience with Scratch required.</description>
     </item>
-    
   </channel>
 </rss>

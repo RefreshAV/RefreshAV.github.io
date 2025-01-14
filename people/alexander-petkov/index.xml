@@ -6,27 +6,21 @@
     <description>Recent content in Alexander Petkov on Refresh Annapolis Valley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 09 Dec 2019 17:00:00 -0400</lastBuildDate><atom:link href="https://refreshannapolisvalley.org/people/alexander-petkov/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Dec 2019 17:00:00 -0400</lastBuildDate>
+    <atom:link href="https://refreshannapolisvalley.org/people/alexander-petkov/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Comp Sci Education Week - Build a micro:bit Mini Crane</title>
       <link>https://refreshannapolisvalley.org/event/creating-mini-crane-with-the-microbit/</link>
       <pubDate>Mon, 09 Dec 2019 17:00:00 -0400</pubDate>
-      
       <guid>https://refreshannapolisvalley.org/event/creating-mini-crane-with-the-microbit/</guid>
-      <description>Are you interested in robotics or do you enjoy messing around with electronics? In this workshop, you&amp;rsquo;ll assemble both the hardware and software needed to create a miniature crane controlled by the micro:bit microcontroller.
-Join us as we kick off Computer Science Education Week with this hands on workshop. We are limited to 10 spots, so act fast!
-What is a micro:bit? The micro:bit is a small, compact computer based on a 43 mm × 52 mm circuit board.</description>
+      <description>Are you interested in robotics or do you enjoy messing around with electronics? In this workshop, you&amp;rsquo;ll assemble both the hardware and software needed to create a miniature crane controlled by the micro:bit microcontroller.&#xA;Join us as we kick off Computer Science Education Week with this hands on workshop. We are limited to 10 spots, so act fast!&#xA;What is a micro:bit? The micro:bit is a small, compact computer based on a 43 mm × 52 mm circuit board.</description>
     </item>
-    
     <item>
       <title>Programming Hardware with Python</title>
       <link>https://refreshannapolisvalley.org/event/programming-hardware-with-python/</link>
       <pubDate>Sat, 04 May 2019 12:30:00 -0400</pubDate>
-      
       <guid>https://refreshannapolisvalley.org/event/programming-hardware-with-python/</guid>
-      <description>Have you ever wanted to know how to make code interact with the real world? In this introductory workshop to Python programming, you’ll learn the vital stepping stones to controlling hardware using the Circuit Playground microcontroller (microcomputer) with one of the most robust, versatile, and popular programming languages.
-What is a Circuit Playground? The Circuit Playground is a microcontroller, or a tiny computer. This computer can easily be programmed to interact with hardware that you connect to it.</description>
+      <description>Have you ever wanted to know how to make code interact with the real world? In this introductory workshop to Python programming, you’ll learn the vital stepping stones to controlling hardware using the Circuit Playground microcontroller (microcomputer) with one of the most robust, versatile, and popular programming languages.&#xA;What is a Circuit Playground? The Circuit Playground is a microcontroller, or a tiny computer. This computer can easily be programmed to interact with hardware that you connect to it.</description>
     </item>
-    
   </channel>
 </rss>

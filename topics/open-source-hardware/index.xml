@@ -6,15 +6,14 @@
     <description>Recent content in Open Source Hardware on Refresh Annapolis Valley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 14 Jun 2016 19:00:00 -0300</lastBuildDate><atom:link href="https://refreshannapolisvalley.org/topics/open-source-hardware/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Jun 2016 19:00:00 -0300</lastBuildDate>
+    <atom:link href="https://refreshannapolisvalley.org/topics/open-source-hardware/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Inspiration. Imitation. Innovation: Transforming The Physical World With Open Source Hardware</title>
       <link>https://refreshannapolisvalley.org/event/inspiration-imitation-innovation-transforming-the-physical-world-with-open-source-hardware/</link>
       <pubDate>Tue, 14 Jun 2016 19:00:00 -0300</pubDate>
-      
       <guid>https://refreshannapolisvalley.org/event/inspiration-imitation-innovation-transforming-the-physical-world-with-open-source-hardware/</guid>
       <description>Powered by open source hardware and software, students, engineers, and garage tinkerers alike are hacking the physical world. Using inexpensive “mini computers” like the Arduino, these makers are building interactive devices that can sense and control other physical objects. In this presentation, we will look at opportunity the Open Source Hardware Movement has created for everyday people to hack our technological world. Ian McKay will introduce us to hacking the Arduino with a newbie how-to.</description>
     </item>
-    
   </channel>
 </rss>

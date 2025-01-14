@@ -6,25 +6,21 @@
     <description>Recent content in John Frost on Refresh Annapolis Valley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 13 Dec 2016 19:00:00 -0300</lastBuildDate><atom:link href="https://refreshannapolisvalley.org/people/john-frost/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Dec 2016 19:00:00 -0300</lastBuildDate>
+    <atom:link href="https://refreshannapolisvalley.org/people/john-frost/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Startup Life: Feel The Frost Byte</title>
       <link>https://refreshannapolisvalley.org/event/the-startup-life-feel-the-frost-byte/</link>
       <pubDate>Tue, 13 Dec 2016 19:00:00 -0300</pubDate>
-      
       <guid>https://refreshannapolisvalley.org/event/the-startup-life-feel-the-frost-byte/</guid>
-      <description>Business-hypothesis-driven experimentation. Iterative product releases. Validated learning. Pivot. Pivot. Pivot. Welcome to the tech startup world of John Frost .
-From the early days of Frostbyte Interactive, Aerhyve Aerial Technologies, and now PrecisionHawk, John&amp;rsquo;s pursuit of innovative products and services in the digital tech space runs years long. Join us for a fireside chat with John where we will explore the inner working of a person committed to the startup life.</description>
+      <description>Business-hypothesis-driven experimentation. Iterative product releases. Validated learning. Pivot. Pivot. Pivot. Welcome to the tech startup world of John Frost .&#xA;From the early days of Frostbyte Interactive, Aerhyve Aerial Technologies, and now PrecisionHawk, John&amp;rsquo;s pursuit of innovative products and services in the digital tech space runs years long. Join us for a fireside chat with John where we will explore the inner working of a person committed to the startup life.</description>
     </item>
-    
     <item>
       <title>PrecisionHawk</title>
       <link>https://refreshannapolisvalley.org/organization/precisionhawk/</link>
       <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
-      
       <guid>https://refreshannapolisvalley.org/organization/precisionhawk/</guid>
       <description>PrecisionHawk is the leading provider of aerial data and safety platforms for drones. The Lancaster is PrecisionHawk’s fixed-wing, autonomous drone built to collect the highest quality terrestrial data using a host of integrated sensors including visual, thermal, LiDAR, multispectral and hyperspectral. PrecisionHawk houses three divisions that support its mission: DataMapper aerial mapping and analysis software, TerraServer satellite imagery and LATAS (Low Altitude Traffic and Airspace Safety).</description>
     </item>
-    
   </channel>
 </rss>
