@@ -4,7 +4,7 @@
     <title>Computer Science on Refresh Annapolis Valley</title>
     <link>https://refreshannapolisvalley.org/topics/computer-science/</link>
     <description>Recent content in Computer Science on Refresh Annapolis Valley</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
     <lastBuildDate>Sat, 10 Aug 2019 19:00:00 +0000</lastBuildDate>
     <atom:link href="https://refreshannapolisvalley.org/topics/computer-science/index.xml" rel="self" type="application/rss+xml" />
@@ -13,70 +13,70 @@
       <link>https://refreshannapolisvalley.org/person/teric-greenan/</link>
       <pubDate>Sat, 10 Aug 2019 19:00:00 +0000</pubDate>
       <guid>https://refreshannapolisvalley.org/person/teric-greenan/</guid>
-      <description>&lt;p&gt;Teric grew up in Halifax, Nova Scotia. He ran a small vegetable farm in Lunenburg County, Nova Scotia for three years. He observed there were a lot of repetitive tasks on farms that were consuming farmers’ resources. These repetitive tasks seemed like good candidates to be automated. After talking with other vegetable farmers, it became clear that weeding was a massive problem that could be solved by a robot. In May of 2017, Teric founded Nexus Robotics with his close friend who is a computer engineer, Jad Tawil. Teric’s experience on the farm has been valuable for guiding product development at Nexus.&lt;/p&gt;</description>
+      <description>Teric grew up in Halifax, Nova Scotia. He ran a small vegetable farm in Lunenburg County, Nova Scotia for three years. He observed there were a lot of repetitive tasks on farms that were consuming farmers’ resources. These repetitive tasks seemed like good candidates to be automated. After talking with other vegetable farmers, it became clear that weeding was a massive problem that could be solved by a robot. In May of 2017, Teric founded Nexus Robotics with his close friend who is a computer engineer, Jad Tawil.</description>
     </item>
     <item>
       <title>Creative Computing</title>
       <link>https://refreshannapolisvalley.org/project/creative-computing/</link>
       <pubDate>Sun, 11 Sep 2016 19:00:00 +0000</pubDate>
       <guid>https://refreshannapolisvalley.org/project/creative-computing/</guid>
-      <description>&lt;p&gt;Creative Computing is a series of programs (courses, workshops, and events) geared towards kids 8 to 13 focused on exposing them to the amazing world of computer science.&lt;/p&gt;</description>
+      <description>Creative Computing is a series of programs (courses, workshops, and events) geared towards kids 8 to 13 focused on exposing them to the amazing world of computer science.</description>
     </item>
     <item>
       <title>Acadia Computer Science Society</title>
       <link>https://refreshannapolisvalley.org/organization/acadia-computer-science-society/</link>
       <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
       <guid>https://refreshannapolisvalley.org/organization/acadia-computer-science-society/</guid>
-      <description>&lt;p&gt;The Acadia Computer Science Society welcomes not only Computer Science students but all students enrolled at Acadia University. We endeavour to be an advocate for students with interests in computer science and technology. We plan events like banquets, CaCHe, LAN parties, and seminars.&lt;/p&gt;</description>
+      <description>The Acadia Computer Science Society welcomes not only Computer Science students but all students enrolled at Acadia University. We endeavour to be an advocate for students with interests in computer science and technology. We plan events like banquets, CaCHe, LAN parties, and seminars.</description>
     </item>
     <item>
       <title>Acadia Institute for Data Analytics</title>
       <link>https://refreshannapolisvalley.org/organization/acadia-institute-for-data-analytics/</link>
       <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
       <guid>https://refreshannapolisvalley.org/organization/acadia-institute-for-data-analytics/</guid>
-      <description>&lt;p&gt;Rural Canada feeds our nation literally, economically, and environmentally.  It provides the food, fiber, minerals, water and other bio-resources and natural resources on which our country depends and the arteries of transportation by which they are delivered.  Digital technologies and data analytics can help us shape how we work with these resources and their impact on our local communities and our planet.&lt;/p&gt;&#xA;&lt;h3 id=&#34;mission&#34;&gt;Mission&lt;/h3&gt;&#xA;&lt;p&gt;To advance knowledge in data analytics through collaborative and interdisciplinary research, education and outreach and to foster the ethical application and commercialization of data analytic solutions to challenges facing industry, government and society in rural Canada. The institute will initially focus on agriculture, food production, the environment, and green energy.&lt;/p&gt;</description>
+      <description>Rural Canada feeds our nation literally, economically, and environmentally. It provides the food, fiber, minerals, water and other bio-resources and natural resources on which our country depends and the arteries of transportation by which they are delivered. Digital technologies and data analytics can help us shape how we work with these resources and their impact on our local communities and our planet.&#xA;Mission To advance knowledge in data analytics through collaborative and interdisciplinary research, education and outreach and to foster the ethical application and commercialization of data analytic solutions to challenges facing industry, government and society in rural Canada.</description>
     </item>
     <item>
       <title>Acadia Women in Technology Society</title>
       <link>https://refreshannapolisvalley.org/organization/acadia-women-in-technology-society/</link>
       <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
       <guid>https://refreshannapolisvalley.org/organization/acadia-women-in-technology-society/</guid>
-      <description>&lt;p&gt;We are a group of driven people dedicated toward the goal of supporting women in achieving success and promoting an inclusive feeling in STEM at Acadia.&lt;/p&gt;&#xA;&lt;p&gt;Pictured above are 2 of the 6 women who where the first and primary programmers of the ENIAC, the world&amp;rsquo;s first digital computer.&lt;/p&gt;</description>
+      <description>We are a group of driven people dedicated toward the goal of supporting women in achieving success and promoting an inclusive feeling in STEM at Acadia.&#xA;Pictured above are 2 of the 6 women who where the first and primary programmers of the ENIAC, the world&amp;rsquo;s first digital computer.</description>
     </item>
     <item>
       <title>ACENET</title>
       <link>https://refreshannapolisvalley.org/organization/acenet/</link>
       <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
       <guid>https://refreshannapolisvalley.org/organization/acenet/</guid>
-      <description>&lt;p&gt;Advanced computing - computing beyond the capabilities of a traditional laptop - can remove years from innovation timelines. Use it to create complex models, develop and test algorithms, run large-scale simulations, and test scalability.  ACENET provides access to advanced computing infrastructure through your desktop, along with ongoing support, expertise and training. If your computing needs are outgrowing your laptop, you&amp;rsquo;re having difficulty using a commercial cloud platform, or you&amp;rsquo;re just not ready to purchase expensive hardware and software, call us!&lt;/p&gt;</description>
+      <description>Advanced computing - computing beyond the capabilities of a traditional laptop - can remove years from innovation timelines. Use it to create complex models, develop and test algorithms, run large-scale simulations, and test scalability. ACENET provides access to advanced computing infrastructure through your desktop, along with ongoing support, expertise and training. If your computing needs are outgrowing your laptop, you&amp;rsquo;re having difficulty using a commercial cloud platform, or you&amp;rsquo;re just not ready to purchase expensive hardware and software, call us!</description>
     </item>
     <item>
       <title>Dr Daniel Silver</title>
       <link>https://refreshannapolisvalley.org/person/dr-daniel-silver/</link>
       <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
       <guid>https://refreshannapolisvalley.org/person/dr-daniel-silver/</guid>
-      <description>&lt;p&gt;Dr. Daniel L. Silver is the Director of the &lt;a href=&#34;https://refreshannapolisvalley.org/organization/acadia-institute-for-data-analytics&#34;&gt;&#xA;    &#xA;        Acadia Institute for Data Analytics&#xA;    &#xA;&lt;/a&gt;&#xA;.  He is also a Professor in and currently the Acting-Director of the &lt;a href=&#34;https://refreshannapolisvalley.org/organization/jodrey-school-of-computer-science&#34;&gt;&#xA;    &#xA;        Jodrey School of Computer Science&#xA;    &#xA;&lt;/a&gt;&#xA; at Acadia University.   His areas of research and application are machine learning, data mining, and data analytics.   His expertise is in Lifelong Machine Learning and Transfer Learning.   He has published over 65 scientific papers and has co-chaired or been part of program committees for a number of national and international conferences, seminars and workshops on data mining and machine learning.   He was the President of the Canadian Artificial Intelligence Association (CAIAC) from 2009-11. In 2011, he received the Science Champion Award from the Nova Scotia Discovery Center for his work on youth robotics and the advancement of STEM education.  In December, 2014, he became an Honorary Colonel in the RCAF attached to 14 Wing Software Engineering Squadron, in Greenwood, NS.  In June of 2016, was awarded Canadian AI’s Distinguished Service Award.  Danny has over 30 years of experience in information technology, project management and business administration.  Since 1993, he has worked on machine learning and data mining projects in the private and public sector providing situation analysis and problem definition, project management and guidance, and data mining services.&lt;/p&gt;</description>
+      <description>Dr. Daniel L. Silver is the Director of the Acadia Institute for Data Analytics . He is also a Professor in and currently the Acting-Director of the Jodrey School of Computer Science at Acadia University. His areas of research and application are machine learning, data mining, and data analytics. His expertise is in Lifelong Machine Learning and Transfer Learning. He has published over 65 scientific papers and has co-chaired or been part of program committees for a number of national and international conferences, seminars and workshops on data mining and machine learning.</description>
     </item>
     <item>
       <title>Dr Darcy Benoit</title>
       <link>https://refreshannapolisvalley.org/person/dr-darcy-benoit/</link>
       <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
       <guid>https://refreshannapolisvalley.org/person/dr-darcy-benoit/</guid>
-      <description>&lt;p&gt;Dr. Darcy Benoit is a Professor in and the Director of the Jodrey School of Computer Science at Acadia University.  His areas of research include mobile application development, database management systems, and computer science education. An avid supporter educational outreach, Darcy oversees the Acadia Robotics program, a province-wide outreach program that sees approximately 400 students from grades 9-18 compete in two international robot programming competitions. His outreach work resulted in him collaborating with the Nova Scotia Department of Education and Early Childhood Development on the implementation of computer programming in the public school system from grades 7-12. Dr. Benoit is also involved in faculty development research, and is an avid promoter of teaching development, particularly as it pertains to teaching computer science.&lt;/p&gt;</description>
+      <description>Dr. Darcy Benoit is a Professor in and the Director of the Jodrey School of Computer Science at Acadia University. His areas of research include mobile application development, database management systems, and computer science education. An avid supporter educational outreach, Darcy oversees the Acadia Robotics program, a province-wide outreach program that sees approximately 400 students from grades 9-18 compete in two international robot programming competitions. His outreach work resulted in him collaborating with the Nova Scotia Department of Education and Early Childhood Development on the implementation of computer programming in the public school system from grades 7-12.</description>
     </item>
     <item>
       <title>Jodrey School of Computer Science</title>
       <link>https://refreshannapolisvalley.org/organization/jodrey-school-of-computer-science-at-acadia-university/</link>
       <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
       <guid>https://refreshannapolisvalley.org/organization/jodrey-school-of-computer-science-at-acadia-university/</guid>
-      <description>&lt;p&gt;The Jodrey School of Computer Science prepares students for today&amp;rsquo;s ever changing world of technology in a unique, fully mobile computing environment. Students develop a thorough understanding of computer systems software, modern software design methods and computer systems software.&lt;/p&gt;&#xA;&lt;p&gt;Students in all degree programs complete a self-directed project during the course of their studies. This provides students with the opportunity to work closely with professors and to apply knowledge acquired through experiment and real-life application. Many students work on projects that end up in the public domain as open-source applications, free for everyone to download. Some students complete research work that becomes an integral part of their supervisor&amp;rsquo;s research, leading to publications in conferences and journals.&lt;/p&gt;</description>
+      <description>The Jodrey School of Computer Science prepares students for today&amp;rsquo;s ever changing world of technology in a unique, fully mobile computing environment. Students develop a thorough understanding of computer systems software, modern software design methods and computer systems software.&#xA;Students in all degree programs complete a self-directed project during the course of their studies. This provides students with the opportunity to work closely with professors and to apply knowledge acquired through experiment and real-life application.</description>
     </item>
     <item>
       <title>Nexus Robotics</title>
       <link>https://refreshannapolisvalley.org/organization/nexus-robotics/</link>
       <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
       <guid>https://refreshannapolisvalley.org/organization/nexus-robotics/</guid>
-      <description>&lt;p&gt;Nexus Robotics is a Nova Scotian technology startup, developing autonomous robotic solutions for Agriculture using machine learning. Nexus provides farmers with a reliable and cost-effective way to produce crops. The Nexus Robotics team created an autonomous machine called R2-Weed2, which uses a camera system to differentiate between weeds and crops. The machine will be capable of cutting and spraying weeds, as well as able to fertilize crops and collect data about the crop and growing conditions.&lt;/p&gt;</description>
+      <description>Nexus Robotics is a Nova Scotian technology startup, developing autonomous robotic solutions for Agriculture using machine learning. Nexus provides farmers with a reliable and cost-effective way to produce crops. The Nexus Robotics team created an autonomous machine called R2-Weed2, which uses a camera system to differentiate between weeds and crops. The machine will be capable of cutting and spraying weeds, as well as able to fertilize crops and collect data about the crop and growing conditions.</description>
     </item>
   </channel>
 </rss>

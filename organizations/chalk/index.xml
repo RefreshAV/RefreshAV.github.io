@@ -4,7 +4,7 @@
     <title>Chalk on Refresh Annapolis Valley</title>
     <link>https://refreshannapolisvalley.org/organizations/chalk/</link>
     <description>Recent content in Chalk on Refresh Annapolis Valley</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
     <lastBuildDate>Wed, 10 Aug 2016 19:00:00 +0000</lastBuildDate>
     <atom:link href="https://refreshannapolisvalley.org/organizations/chalk/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>https://refreshannapolisvalley.org/person/josh-smith/</link>
       <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
       <guid>https://refreshannapolisvalley.org/person/josh-smith/</guid>
-      <description>&lt;p&gt;Front End Engineer at Chalk&lt;/p&gt;</description>
+      <description>Front End Engineer at Chalk</description>
     </item>
   </channel>
 </rss>

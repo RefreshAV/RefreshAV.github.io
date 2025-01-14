@@ -4,247 +4,254 @@
     <title>Michael Caplan on Refresh Annapolis Valley</title>
     <link>https://refreshannapolisvalley.org/people/michael-caplan/</link>
     <description>Recent content in Michael Caplan on Refresh Annapolis Valley</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 30 Sep 2024 14:45:00 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 10 Mar 2025 10:30:00 -0400</lastBuildDate>
     <atom:link href="https://refreshannapolisvalley.org/people/michael-caplan/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Build: Arcade - March Break Intensive</title>
+      <link>https://refreshannapolisvalley.org/event/hoist/break-2025/</link>
+      <pubDate>Mon, 10 Mar 2025 10:30:00 -0400</pubDate>
+      <guid>https://refreshannapolisvalley.org/event/hoist/break-2025/</guid>
+      <description>Build: Arcade is an introductory Computer Science course for Middle and High School learners. Using Makecode Arcade, we will build retro style video games. While exploring the early history of video games, we will learn the fundamentals of the Makecode Arcade game development engine.&#xA;Makecode Arcade is a great first step into the world of video game development, as well as the larger world of Computer Science. No prior coding experience necessary.</description>
+    </item>
+    <item>
       <title>Refresh 2024 - 2025 Youth Cohort</title>
-      <link>https://refreshannapolisvalley.org/event/cc/cohort-2023-2024/</link>
-      <pubDate>Wed, 01 May 2024 19:00:00 -0300</pubDate>
-      <guid>https://refreshannapolisvalley.org/event/cc/cohort-2023-2024/</guid>
-      <description>&lt;p&gt;For the past several years, Refresh Annapolis Valley has been offering courses to small cohorts of learners over the academic year.&#xA;The courses offered include:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Creative Computing&lt;/strong&gt;: An introductory Computer Science course for younger learners using the Scratch programming environment.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Scratch Masters&lt;/strong&gt;: Advanced course for young learners focused on Scratch, physical hardware programming with Microbits, and retro video game development.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Build Arcade&lt;/strong&gt;: An introductory Computer Science course for High School learners using Makecode Arcade to build retro style video games.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Build Web&lt;/strong&gt;: Advanced course for High School learners interested in building websites and web applications.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;format&#34;&gt;Format&lt;/h2&gt;&#xA;&lt;p&gt;Class size is restricted to 6 maximum to facilitate a hands-on learning environment between mentors and learners.&lt;/p&gt;</description>
+      <link>https://refreshannapolisvalley.org/event/cc/cohort-2024-2025/</link>
+      <pubDate>Mon, 30 Sep 2024 14:45:00 -0400</pubDate>
+      <guid>https://refreshannapolisvalley.org/event/cc/cohort-2024-2025/</guid>
+      <description>For the past several years, Refresh Annapolis Valley has been offering courses to small cohorts of learners over the academic year. The courses offered include:&#xA;Creative Computing: An introductory Computer Science course for younger learners using the Scratch programming environment. Scratch Masters: Advanced course for young learners focused on Scratch, physical hardware programming with Microbits, and retro video game development. Build Arcade: An introductory Computer Science course for High School learners using Makecode Arcade to build retro style video games.</description>
     </item>
     <item>
       <title>Creative Computing Fall 2023</title>
       <link>https://refreshannapolisvalley.org/event/cc/course-fall-2023/</link>
-      <pubDate>Sun, 15 Jan 2023 19:00:00 -0300</pubDate>
+      <pubDate>Sun, 01 Oct 2023 14:45:00 -0400</pubDate>
       <guid>https://refreshannapolisvalley.org/event/cc/course-fall-2023/</guid>
-      <description>&lt;p&gt;Creative Computing is a course developed by an international network of educators passionate about exposing kids to&#xA;the computer sciences.  This course uses the popular Scratch programming environment to aid&#xA;young people (grades 4 to 6) in learning the basics of software development.  Scratch is used over the world by&#xA;students to easily create interactive artwork, interactive stories, and video games while acting as a stepping stone&#xA;to the more advanced world of computer science.&lt;/p&gt;</description>
+      <description>Creative Computing is a course developed by an international network of educators passionate about exposing kids to the computer sciences. This course uses the popular Scratch programming environment to aid young people (grades 4 to 6) in learning the basics of software development. Scratch is used over the world by students to easily create interactive artwork, interactive stories, and video games while acting as a stepping stone to the more advanced world of computer science.</description>
     </item>
     <item>
       <title>Scratch Masters Course 2023</title>
       <link>https://refreshannapolisvalley.org/event/cc/masters-2023/</link>
-      <pubDate>Sun, 15 Jan 2023 19:00:00 -0300</pubDate>
+      <pubDate>Sun, 01 Oct 2023 14:45:00 -0400</pubDate>
       <guid>https://refreshannapolisvalley.org/event/cc/masters-2023/</guid>
-      <description>&lt;p&gt;Scratch Masters is the next level course for graduates of the Creative Computing program.  Within this course we continue&#xA;to explore the world of the computer sciences.  This course uses the popular &lt;a href=&#34;https://scratch.mit.edu/&#34;&gt;Scratch&lt;/a&gt; programming environment to aid&#xA;young people (grades 4 to 6) in learning the more advanced concepts of Scratch software development.  Scratch is used over the world by&#xA;students to easily create interactive artwork, interactive stories, and video games while acting as a stepping stone&#xA;to the more advanced world of computer science.&lt;/p&gt;</description>
+      <description>Scratch Masters is the next level course for graduates of the Creative Computing program. Within this course we continue to explore the world of the computer sciences. This course uses the popular Scratch programming environment to aid young people (grades 4 to 6) in learning the more advanced concepts of Scratch software development. Scratch is used over the world by students to easily create interactive artwork, interactive stories, and video games while acting as a stepping stone to the more advanced world of computer science.</description>
     </item>
     <item>
       <title>Creative Computing Summer Bootcamp 2023</title>
       <link>https://refreshannapolisvalley.org/event/cc/course-summer-2023/</link>
-      <pubDate>Sun, 15 Jan 2023 19:00:00 -0300</pubDate>
+      <pubDate>Sat, 01 Jul 2023 14:45:00 -0400</pubDate>
       <guid>https://refreshannapolisvalley.org/event/cc/course-summer-2023/</guid>
-      <description>&lt;p&gt;Creative Computing is a course developed by an international network of educators passionate about exposing kids to&#xA;the computer sciences.  This course uses the popular Scratch programming environment to aid&#xA;young people (grades 4 to 6) in learning the basics of software development.  Scratch is used over the world by&#xA;students to easily create interactive artwork, interactive stories, and video games while acting as a stepping stone&#xA;to the more advanced world of computer science.&lt;/p&gt;</description>
+      <description>Creative Computing is a course developed by an international network of educators passionate about exposing kids to the computer sciences. This course uses the popular Scratch programming environment to aid young people (grades 4 to 6) in learning the basics of software development. Scratch is used over the world by students to easily create interactive artwork, interactive stories, and video games while acting as a stepping stone to the more advanced world of computer science.</description>
     </item>
     <item>
       <title>Scratch Masters 2023 - 2024</title>
       <link>https://refreshannapolisvalley.org/event/cc/course-2023/</link>
-      <pubDate>Sun, 15 Jan 2023 19:00:00 -0300</pubDate>
+      <pubDate>Wed, 08 Feb 2023 14:45:00 -0400</pubDate>
       <guid>https://refreshannapolisvalley.org/event/cc/course-2023/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;We are thrilled to be opening up our Winter 2023 Creative Computing Course for registration for the Wolfville&#xA;School community.  This is our 6th year offering this popular course.  Unlike other years, we will be running 1&#xA;cohort of learners for &lt;em&gt;free&lt;/em&gt; for Wolfville School Students. Registration is open until Jan. 27.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Creative Computing is a course developed by an international network of educators passionate about exposing kids to&#xA;the computer sciences.  This course uses the popular Scratch programming environment to aid&#xA;young people (grades 4 to 6) in learning the basics of software development.  Scratch is used over the world by&#xA;students to easily create interactive artwork, interactive stories, and video games while acting as a stepping stone&#xA;to the more advanced world of computer science.&lt;/p&gt;</description>
+      <description>We are thrilled to be opening up our Winter 2023 Creative Computing Course for registration for the Wolfville School community. This is our 6th year offering this popular course. Unlike other years, we will be running 1 cohort of learners for free for Wolfville School Students. Registration is open until Jan. 27.&#xA;Creative Computing is a course developed by an international network of educators passionate about exposing kids to the computer sciences.</description>
     </item>
     <item>
       <title>BUILD: Computer Science Camp for Girls</title>
       <link>https://refreshannapolisvalley.org/event/hoist/camp-2019/</link>
-      <pubDate>Thu, 01 Dec 2016 19:00:00 -0300</pubDate>
+      <pubDate>Mon, 12 Aug 2019 08:30:00 -0400</pubDate>
       <guid>https://refreshannapolisvalley.org/event/hoist/camp-2019/</guid>
-      <description>&lt;p&gt;BUILD is a week long dive into the world of Computer Science for girls 11 to 14.  We will explore the basics of software development while building interactive artwork and literature, video games, and software that interacts with the physical world.  Through our exploration we will also journey through use of hardware, refine our ideation skills and turn our ideas into software.  Campers will also connect with Computer Scientists in our community who are changing the world one algorithm at a time.&lt;/p&gt;</description>
+      <description>BUILD is a week long dive into the world of Computer Science for girls 11 to 14. We will explore the basics of software development while building interactive artwork and literature, video games, and software that interacts with the physical world. Through our exploration we will also journey through use of hardware, refine our ideation skills and turn our ideas into software. Campers will also connect with Computer Scientists in our community who are changing the world one algorithm at a time.</description>
     </item>
     <item>
       <title>Creative Computing Camp 2019</title>
       <link>https://refreshannapolisvalley.org/event/cc/camp-2019/</link>
-      <pubDate>Thu, 01 Dec 2016 19:00:00 -0300</pubDate>
+      <pubDate>Mon, 22 Jul 2019 08:30:00 -0400</pubDate>
       <guid>https://refreshannapolisvalley.org/event/cc/camp-2019/</guid>
-      <description>&lt;p&gt;Creative Computing Camp is a week long adventure into the world of Computer Science.  Using the popular Scratch programming environment as a starting point, we will build interactive artwork and stories, video games, and software that interacts with the physical world.  Through our exploration of the creativity of software development, we will learn about where ideas come from, and how to turn ideas into action.  We will explore the world beyond Scratch, including 3D design, printing, and virtual reality.&lt;/p&gt;</description>
+      <description>Creative Computing Camp is a week long adventure into the world of Computer Science. Using the popular Scratch programming environment as a starting point, we will build interactive artwork and stories, video games, and software that interacts with the physical world. Through our exploration of the creativity of software development, we will learn about where ideas come from, and how to turn ideas into action. We will explore the world beyond Scratch, including 3D design, printing, and virtual reality.</description>
     </item>
     <item>
       <title>Innovating on The Internet</title>
       <link>https://refreshannapolisvalley.org/event/innovating-on-the-internet/</link>
-      <pubDate>Thu, 01 Jun 2017 19:00:00 -0300</pubDate>
+      <pubDate>Tue, 14 May 2019 19:00:00 -0300</pubDate>
       <guid>https://refreshannapolisvalley.org/event/innovating-on-the-internet/</guid>
-      <description>&lt;p&gt;Have the next (big or small) idea, no budget, or development skills?  No problem &amp;ndash; you shouldn&amp;rsquo;t start with building anyway.&lt;/p&gt;&#xA;&lt;p&gt;In this hands on workshop we will explore pre-product design tools that anyone can pick up to express their app idea.  With these tools you will walk away with a means to engage your user base to test concepts, gather feedback quickly, very inexpensively, and early on in the product cycle.&lt;/p&gt;</description>
+      <description>Have the next (big or small) idea, no budget, or development skills? No problem &amp;ndash; you shouldn&amp;rsquo;t start with building anyway.&#xA;In this hands on workshop we will explore pre-product design tools that anyone can pick up to express their app idea. With these tools you will walk away with a means to engage your user base to test concepts, gather feedback quickly, very inexpensively, and early on in the product cycle.</description>
     </item>
     <item>
       <title>#ScratchFest</title>
       <link>https://refreshannapolisvalley.org/event/scratchfest-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 19:00:00 -0300</pubDate>
+      <pubDate>Sat, 06 Apr 2019 12:00:00 -0400</pubDate>
       <guid>https://refreshannapolisvalley.org/event/scratchfest-2019/</guid>
-      <description>&lt;h1 id=&#34;calling-all-digital-builders&#34;&gt;Calling all Digital Builders&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;#ScratchFest&lt;/em&gt; is a weekend (April 6th and April 7th) Build-a-thon for kids and teens interested in creating amazing original work with digital technologies, such as the Scratch programming environment, Processing, Virtual Reality, and more.&lt;/p&gt;&#xA;&lt;p&gt;During &lt;em&gt;#ScartchFest&lt;/em&gt;, participants will brainstorm an idea, develop their project, and showcase a final prototype.  This weekend warrior event provides an excellent opportunity for coders to invent their own projects and demonstrate their knowledge within a collaborative, creative, and playful environment.&lt;/p&gt;</description>
+      <description>Calling all Digital Builders #ScratchFest is a weekend (April 6th and April 7th) Build-a-thon for kids and teens interested in creating amazing original work with digital technologies, such as the Scratch programming environment, Processing, Virtual Reality, and more.&#xA;During #ScartchFest, participants will brainstorm an idea, develop their project, and showcase a final prototype. This weekend warrior event provides an excellent opportunity for coders to invent their own projects and demonstrate their knowledge within a collaborative, creative, and playful environment.</description>
     </item>
     <item>
       <title>Retro Game Carnival</title>
       <link>https://refreshannapolisvalley.org/event/retro-game-fest/</link>
-      <pubDate>Tue, 01 Jan 2019 19:00:00 -0300</pubDate>
+      <pubDate>Fri, 05 Apr 2019 17:00:00 -0500</pubDate>
       <guid>https://refreshannapolisvalley.org/event/retro-game-fest/</guid>
-      <description>&lt;h3 id=&#34;calling-all-classic-gamers&#34;&gt;Calling All Classic Gamers!&lt;/h3&gt;&#xA;&lt;p&gt;The Retro Game Carnival is a celebration of the video games of yesteryear.  From the 1970s to early 2000s, we will explore the arcade, console, and PC games that defined eras gone by.  Our game fest will include a pop-up museum, fan-made DIY retro arcade, game tournaments, and workshops.&lt;/p&gt;&#xA;&lt;p&gt;Young and inspired?  Be sure to join us for &lt;a href=&#34;https://refreshannapolisvalley.org/event/scratchfest-2019/&#34;&gt;#ScratchFest 2019&lt;/a&gt; the following day and put your creativity towards building your own retro influenced games.&lt;/p&gt;</description>
+      <description>Calling All Classic Gamers! The Retro Game Carnival is a celebration of the video games of yesteryear. From the 1970s to early 2000s, we will explore the arcade, console, and PC games that defined eras gone by. Our game fest will include a pop-up museum, fan-made DIY retro arcade, game tournaments, and workshops.&#xA;Young and inspired? Be sure to join us for #ScratchFest 2019 the following day and put your creativity towards building your own retro influenced games.</description>
     </item>
     <item>
       <title>Creative Computing Course 2019</title>
       <link>https://refreshannapolisvalley.org/event/cc/course-2019/</link>
-      <pubDate>Thu, 01 Dec 2016 19:00:00 -0300</pubDate>
+      <pubDate>Wed, 02 Jan 2019 23:59:59 -0400</pubDate>
       <guid>https://refreshannapolisvalley.org/event/cc/course-2019/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;We are thrilled to be opening up our 2019 Creative Computing Course for registration.  This is our 3rd year offering this popular course.  Unlike other years, we will be running 2 cohorts of learners for &lt;em&gt;free&lt;/em&gt;.  One cohort will be a mixed class of girls and boys.  The second will be for girls.  Registration is open until Jan. 2.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Creative Computing is a course developed by an international network of educators passionate about exposing kids to the computer sciences.  Broken up into 7 units, this course uses the popular Scratch programming environment to aid young people (aged 8 to 12) in learning the basics of software development.  Scratch is used over the world by students to easily create interactive artwork, interactive stories, and video games while acting as a stepping stone to the more advanced world of computer science.&lt;/p&gt;</description>
+      <description>We are thrilled to be opening up our 2019 Creative Computing Course for registration. This is our 3rd year offering this popular course. Unlike other years, we will be running 2 cohorts of learners for free. One cohort will be a mixed class of girls and boys. The second will be for girls. Registration is open until Jan. 2.&#xA;Creative Computing is a course developed by an international network of educators passionate about exposing kids to the computer sciences.</description>
     </item>
     <item>
       <title>From Digital to Physical: 3D Design and Printing</title>
       <link>https://refreshannapolisvalley.org/event/from-digital-to-physical-3d-printing/</link>
-      <pubDate>Tue, 11 Oct 2016 19:00:00 -0300</pubDate>
+      <pubDate>Tue, 11 Dec 2018 19:00:00 -0300</pubDate>
       <guid>https://refreshannapolisvalley.org/event/from-digital-to-physical-3d-printing/</guid>
-      <description>&lt;p&gt;Welcome to the new world of of 3D printing, where you can produce 3D objects almost as easily as you can dream of them.  In this hands on workshop we will:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Learn about how 3D printing is shaking up different industries&lt;/li&gt;&#xA;&lt;li&gt;Types of 3D printing technologies&lt;/li&gt;&#xA;&lt;li&gt;How to design for printing&lt;/li&gt;&#xA;&lt;li&gt;How to print your designs&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Bring a laptop and be prepared to roll up your sleeves.  Space is limited to 20 people.  Sign up quick!&lt;/p&gt;</description>
+      <description>Welcome to the new world of of 3D printing, where you can produce 3D objects almost as easily as you can dream of them. In this hands on workshop we will:&#xA;Learn about how 3D printing is shaking up different industries Types of 3D printing technologies How to design for printing How to print your designs Bring a laptop and be prepared to roll up your sleeves. Space is limited to 20 people.</description>
     </item>
     <item>
       <title>BUILD: Computer Science Camp for Girls</title>
       <link>https://refreshannapolisvalley.org/event/hoist/camp-2018/</link>
-      <pubDate>Thu, 01 Dec 2016 19:00:00 -0300</pubDate>
+      <pubDate>Mon, 13 Aug 2018 08:30:00 -0400</pubDate>
       <guid>https://refreshannapolisvalley.org/event/hoist/camp-2018/</guid>
-      <description>&lt;img class=&#34;thumbnail&#34; src=&#34;https://refreshannapolisvalley.org/images/event/hoist/camp-2018/poster.png&#34; alt=&#34;Format&#34; align=&#34;right&#34;&gt;&#xA;&#xA;&lt;p&gt;BUILD is a week long dive into the world of Computer Science for girls 11 to 13.  We will explore the basics of software development while building interactive artwork and stories, video games, and software that interacts with the physical world.  Through our exploration we will also journey through use of hardware, refine our ideation skills and turn our ideas into software.  Campers will also connect with Computer Scientists in our community who are changing the world one algorithm at a time.&lt;/p&gt;</description>
+      <description>BUILD is a week long dive into the world of Computer Science for girls 11 to 13. We will explore the basics of software development while building interactive artwork and stories, video games, and software that interacts with the physical world. Through our exploration we will also journey through use of hardware, refine our ideation skills and turn our ideas into software. Campers will also connect with Computer Scientists in our community who are changing the world one algorithm at a time.</description>
     </item>
     <item>
       <title>Creative Computing Camp 2018</title>
       <link>https://refreshannapolisvalley.org/event/cc/camp-2018/</link>
-      <pubDate>Thu, 01 Dec 2016 19:00:00 -0300</pubDate>
+      <pubDate>Mon, 30 Jul 2018 08:30:00 -0400</pubDate>
       <guid>https://refreshannapolisvalley.org/event/cc/camp-2018/</guid>
-      <description>&lt;p&gt;Creative Computing Camp is a week long adventure into the world of Computer Science.  Using the popular Scratch programming environment to master the basics of software development, we will build interactive artwork and stories, video games, and software that interacts with the physical world.  Through our exploration of the creativity of software development, we will learn about where ideas come from, and how to turn ideas into action.  Campers will also connect with Computer Scientists in our community who are changing the world one algorithm at a time.&lt;/p&gt;</description>
+      <description>Creative Computing Camp is a week long adventure into the world of Computer Science. Using the popular Scratch programming environment to master the basics of software development, we will build interactive artwork and stories, video games, and software that interacts with the physical world. Through our exploration of the creativity of software development, we will learn about where ideas come from, and how to turn ideas into action. Campers will also connect with Computer Scientists in our community who are changing the world one algorithm at a time.</description>
     </item>
     <item>
       <title>#ScratchFest</title>
       <link>https://refreshannapolisvalley.org/event/scratchfest-2018/</link>
-      <pubDate>Thu, 01 Mar 2018 19:00:00 -0300</pubDate>
+      <pubDate>Sat, 23 Jun 2018 12:00:00 -0400</pubDate>
       <guid>https://refreshannapolisvalley.org/event/scratchfest-2018/</guid>
-      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/0O9qtmW4tSY?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&#xA;      &gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;h1 id=&#34;calling-all-digital-builders&#34;&gt;Calling all Digital Builders&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;#ScratchFest&lt;/em&gt; is a weekend (June 23th and June 24th) Build-a-thon for kids and teens interested in creating amazing original work with digital technologies, such as the Scratch programming environment, Processing, Virtual Reality, and more.&lt;/p&gt;&#xA;&lt;p&gt;During &lt;em&gt;#ScartchFest&lt;/em&gt;, participants will brainstorm an idea, develop their project, and showcase a final prototype.  This weekend warrior event provides an excellent opportunity for coders to invent their own projects and demonstrate their knowledge within a collaborative, creative, and playful environment.&lt;/p&gt;</description>
+      <description>Calling all Digital Builders #ScratchFest is a weekend (June 23th and June 24th) Build-a-thon for kids and teens interested in creating amazing original work with digital technologies, such as the Scratch programming environment, Processing, Virtual Reality, and more.&#xA;During #ScartchFest, participants will brainstorm an idea, develop their project, and showcase a final prototype. This weekend warrior event provides an excellent opportunity for coders to invent their own projects and demonstrate their knowledge within a collaborative, creative, and playful environment.</description>
     </item>
     <item>
       <title>Scratch For Educators</title>
       <link>https://refreshannapolisvalley.org/event/cc/scratch-for-educators/</link>
-      <pubDate>Mon, 01 Jan 2018 19:00:00 -0300</pubDate>
+      <pubDate>Sun, 17 Jun 2018 12:00:00 -0300</pubDate>
       <guid>https://refreshannapolisvalley.org/event/cc/scratch-for-educators/</guid>
-      <description>&lt;p&gt;Scratch is being used in thousands of schools around the world to teach kids about the Computer Sciences.  Since its launch over 10 years ago, kids from Elementary to High School have created over 6 million projects.  In this crash course, adults (parents and educators) will learn about the Scratch programming environment and how it might be used to introduce learners to the Computer Sciences.  No coding experience required.&lt;/p&gt;&#xA;&lt;p&gt;Please register in advance so we know how much pizza to order.  Bring your own laptop.&lt;/p&gt;</description>
+      <description>Scratch is being used in thousands of schools around the world to teach kids about the Computer Sciences. Since its launch over 10 years ago, kids from Elementary to High School have created over 6 million projects. In this crash course, adults (parents and educators) will learn about the Scratch programming environment and how it might be used to introduce learners to the Computer Sciences. No coding experience required.&#xA;Please register in advance so we know how much pizza to order.</description>
     </item>
     <item>
       <title>Teaching a Computer To See</title>
       <link>https://refreshannapolisvalley.org/event/teaching-a-computer-to-see/</link>
-      <pubDate>Mon, 01 Jan 2018 19:00:00 -0300</pubDate>
+      <pubDate>Sat, 16 Jun 2018 12:30:00 -0300</pubDate>
       <guid>https://refreshannapolisvalley.org/event/teaching-a-computer-to-see/</guid>
-      <description>&lt;p&gt;Machine&amp;rsquo;s can learning amazing things when we train them.  In this Hoist workshop, teens will will explore Artificial Intelligence by learning how to build a program that can guess what it sees in a picture.  No coding experience?  No worries.  This fun introductory workshop is meant for the beginner.  Using cutting edge machine learning tools, participants will learn how software is being used to create amazing programs that learn along the way.&lt;/p&gt;</description>
+      <description>Machine&amp;rsquo;s can learning amazing things when we train them. In this Hoist workshop, teens will will explore Artificial Intelligence by learning how to build a program that can guess what it sees in a picture. No coding experience? No worries. This fun introductory workshop is meant for the beginner. Using cutting edge machine learning tools, participants will learn how software is being used to create amazing programs that learn along the way.</description>
     </item>
     <item>
       <title>Hacking Hardware - Programming The Physical World </title>
       <link>https://refreshannapolisvalley.org/event/hacking-hardware-programming-the-physical-world/</link>
-      <pubDate>Mon, 01 Jan 2018 19:00:00 -0300</pubDate>
+      <pubDate>Sat, 19 May 2018 12:30:00 -0300</pubDate>
       <guid>https://refreshannapolisvalley.org/event/hacking-hardware-programming-the-physical-world/</guid>
-      <description>&lt;p&gt;Interactive jewelry, DIY laser tag, robots you design and build.  In this Hoist workshop, teens will explore electronics by learning how to build and program robots .  No coding or electronics experience?  No worries.  This fun introductory workshop is meant for the beginner.  Using the Circuit Playground, participants will learn how coding and circuits are being used to create amazing creations.  This workshop is for teens with no prior experience with programming required.&lt;/p&gt;</description>
+      <description>Interactive jewelry, DIY laser tag, robots you design and build. In this Hoist workshop, teens will explore electronics by learning how to build and program robots . No coding or electronics experience? No worries. This fun introductory workshop is meant for the beginner. Using the Circuit Playground, participants will learn how coding and circuits are being used to create amazing creations. This workshop is for teens with no prior experience with programming required.</description>
     </item>
     <item>
       <title>Video Game Making and Circuitry</title>
       <link>https://refreshannapolisvalley.org/event/cc/video-game-making-and-circuitry/</link>
-      <pubDate>Mon, 01 Jan 2018 19:00:00 -0300</pubDate>
+      <pubDate>Tue, 15 May 2018 16:00:00 -0300</pubDate>
       <guid>https://refreshannapolisvalley.org/event/cc/video-game-making-and-circuitry/</guid>
-      <description>&lt;p&gt;Building games is a great way to experience game play from the perspective of the creator. In this creative computing workshop, kids will learn how to program a computer to build their own games and build their own game controllers. Kids will learn basic coding and circuitry concepts in a fun beginner friendly environment. Using Scratch, a visual programming environment, kids will be exposed to an international community of coders making a wide range of games. This workshop is for kids as young as 8 with no prior experience with Scratch required. Registration is required.&lt;/p&gt;</description>
+      <description>Building games is a great way to experience game play from the perspective of the creator. In this creative computing workshop, kids will learn how to program a computer to build their own games and build their own game controllers. Kids will learn basic coding and circuitry concepts in a fun beginner friendly environment. Using Scratch, a visual programming environment, kids will be exposed to an international community of coders making a wide range of games.</description>
     </item>
     <item>
       <title>Animating Stories - Interactive Stories with Scratch</title>
       <link>https://refreshannapolisvalley.org/event/cc/animating-stories-interactive-stories-with-scratch/</link>
-      <pubDate>Mon, 01 Jan 2018 19:00:00 -0300</pubDate>
+      <pubDate>Tue, 08 May 2018 16:00:00 -0300</pubDate>
       <guid>https://refreshannapolisvalley.org/event/cc/animating-stories-interactive-stories-with-scratch/</guid>
-      <description>&lt;p&gt;Animating is a great way to bring a story to life. In this Creative Computing workshop, kids will learn how to program a computer to create animations for their own stories. Kids will learn basic coding concepts in a fun beginner friendly environment. Using Scratch, a visual programming environment, kids will be exposed to an international community of coders making a wide range of animation based projects. This intro workshop is for kids as young as 8 with no prior experience with Scratch required. Registration is required.&lt;/p&gt;</description>
+      <description>Animating is a great way to bring a story to life. In this Creative Computing workshop, kids will learn how to program a computer to create animations for their own stories. Kids will learn basic coding concepts in a fun beginner friendly environment. Using Scratch, a visual programming environment, kids will be exposed to an international community of coders making a wide range of animation based projects. This intro workshop is for kids as young as 8 with no prior experience with Scratch required.</description>
     </item>
     <item>
       <title>Art Making with Your Computer!</title>
       <link>https://refreshannapolisvalley.org/event/cc/art-making-with-your-computer/</link>
-      <pubDate>Mon, 01 Jan 2018 19:00:00 -0300</pubDate>
+      <pubDate>Tue, 01 May 2018 16:00:00 -0300</pubDate>
       <guid>https://refreshannapolisvalley.org/event/cc/art-making-with-your-computer/</guid>
-      <description>&lt;p&gt;Art is made with a variety of media - even computers! In this Creative Computing workshop, kids will learn how to program a computer to make interactive artwork. Kids will learn basic coding concepts in a fun beginner friendly environment. Using Scratch, a visual programming environment, kids will be exposed to an international community of coders making a wide range of interactive art projects. This intro workshop is for kids as young as 8 with no prior experience with Scratch required. Registration is required.&lt;/p&gt;</description>
+      <description>Art is made with a variety of media - even computers! In this Creative Computing workshop, kids will learn how to program a computer to make interactive artwork. Kids will learn basic coding concepts in a fun beginner friendly environment. Using Scratch, a visual programming environment, kids will be exposed to an international community of coders making a wide range of interactive art projects. This intro workshop is for kids as young as 8 with no prior experience with Scratch required.</description>
     </item>
     <item>
       <title>Bring your Visual Art Alive with Computers - Intro to Processing</title>
       <link>https://refreshannapolisvalley.org/event/intro-to-processing/</link>
-      <pubDate>Mon, 01 Jan 2018 19:00:00 -0300</pubDate>
+      <pubDate>Sat, 21 Apr 2018 12:30:00 -0300</pubDate>
       <guid>https://refreshannapolisvalley.org/event/intro-to-processing/</guid>
-      <description>&lt;p&gt;Do you enjoy painting or drawing?  In this Hoist workshop, teens will learn how to program a computer to build generative art.  We will learn how how simple math equations can be used to create beautiful and engaging outcomes.  No coding experience?  No worries.  This fun introductory workshop is meant for the beginner coder with a visual arts interest.  Using OpenProcessing, participants will be exposed to an international community of coder-artists making a wide range of digital creations.&lt;/p&gt;</description>
+      <description>Do you enjoy painting or drawing? In this Hoist workshop, teens will learn how to program a computer to build generative art. We will learn how how simple math equations can be used to create beautiful and engaging outcomes. No coding experience? No worries. This fun introductory workshop is meant for the beginner coder with a visual arts interest. Using OpenProcessing, participants will be exposed to an international community of coder-artists making a wide range of digital creations.</description>
     </item>
     <item>
       <title>Creative Computing Course 2018</title>
       <link>https://refreshannapolisvalley.org/event/cc/course-2018/</link>
-      <pubDate>Thu, 01 Dec 2016 19:00:00 -0300</pubDate>
+      <pubDate>Thu, 05 Apr 2018 18:00:00 -0400</pubDate>
       <guid>https://refreshannapolisvalley.org/event/cc/course-2018/</guid>
-      <description>&lt;p&gt;Creative Computing is a course developed by an international network of educators passionate about exposing kids to the computer sciences.  Broken up into 7 units, this course uses the popular Scratch programming environment to aid young people (aged 8 to 13) in learning the basics of software development.  Scratch is used over the world by students to easily create interactive artwork, interactive stories, and video games while acting as a stepping stone to the more advanced world of computer science.&lt;/p&gt;</description>
+      <description>Creative Computing is a course developed by an international network of educators passionate about exposing kids to the computer sciences. Broken up into 7 units, this course uses the popular Scratch programming environment to aid young people (aged 8 to 13) in learning the basics of software development. Scratch is used over the world by students to easily create interactive artwork, interactive stories, and video games while acting as a stepping stone to the more advanced world of computer science.</description>
     </item>
     <item>
       <title>Revved Up!</title>
       <link>https://refreshannapolisvalley.org/event/revved-up/</link>
-      <pubDate>Mon, 01 Jan 2018 19:00:00 -0300</pubDate>
+      <pubDate>Sat, 17 Mar 2018 14:00:00 -0300</pubDate>
       <guid>https://refreshannapolisvalley.org/event/revved-up/</guid>
-      <description>&lt;p&gt;March 23 to 24th is launchbox&amp;rsquo;s &lt;a href=&#34;http://acadiaentrepreneurshipcentre.com/launchbox/start-it-up/&#34;&gt;Start It Up!&lt;/a&gt; - a weekend business ideation competition with 10K in prizes to be won.  If you are interested in playing with new business ideas, this event is for you.  While an University event, we have had youth teams (and winning youth teams!) at several Start It Up! competitions.  This year is no different.  &lt;/p&gt;&#xA;&lt;p&gt;If you are interested in learning more about this business ideation event, come to this information session and beef up on your skills to help you compete.  We&amp;rsquo;ll discuss the event format, review tools, and hear from a profesional public speaker on how to nail a presentation.  &lt;/p&gt;</description>
+      <description>March 23 to 24th is launchbox&amp;rsquo;s Start It Up! - a weekend business ideation competition with 10K in prizes to be won. If you are interested in playing with new business ideas, this event is for you. While an University event, we have had youth teams (and winning youth teams!) at several Start It Up! competitions. This year is no different. If you are interested in learning more about this business ideation event, come to this information session and beef up on your skills to help you compete.</description>
     </item>
     <item>
       <title>State of Computer Science Education</title>
       <link>https://refreshannapolisvalley.org/event/state-of-computer-science-education/</link>
-      <pubDate>Mon, 01 Jan 2018 19:00:00 -0300</pubDate>
+      <pubDate>Tue, 13 Feb 2018 19:00:00 -0300</pubDate>
       <guid>https://refreshannapolisvalley.org/event/state-of-computer-science-education/</guid>
-      <description>&lt;p&gt;With an estimated 218,000 new skilled ICT workers needed in Canada by 2020 to meet the short term demands of our digital economy, focus on our educational system to address this challenge is paramount. The profound lack of diversity within the digital tech economy further complicates the response required. With changes in our provincial educational pipeline well under way, we are still early on in deploying a comprehensive response.&lt;/p&gt;&#xA;&lt;p&gt;Join our panel discussion focused on defining challenges and solutions for Computer Science education today.&lt;/p&gt;</description>
+      <description>With an estimated 218,000 new skilled ICT workers needed in Canada by 2020 to meet the short term demands of our digital economy, focus on our educational system to address this challenge is paramount. The profound lack of diversity within the digital tech economy further complicates the response required. With changes in our provincial educational pipeline well under way, we are still early on in deploying a comprehensive response.&#xA;Join our panel discussion focused on defining challenges and solutions for Computer Science education today.</description>
     </item>
     <item>
       <title>f5://imagination</title>
       <link>https://refreshannapolisvalley.org/event/f5/imagination/</link>
-      <pubDate>Thu, 01 Jun 2017 19:00:00 -0300</pubDate>
+      <pubDate>Sun, 17 Dec 2017 10:00:00 -0300</pubDate>
       <guid>https://refreshannapolisvalley.org/event/f5/imagination/</guid>
-      <description>&lt;p&gt;f5://imagination is a pop up exhibit focused on digital creativity.  This one day temporary exhibit features work from digital artists, makers, scratchers, computer scientists, engineers and pretendgineer, hardware hackers, lego robotics warriors, indy game developers, new media innovators, VR and AR pioneers&amp;hellip;  digital builders of all shapes, sizes, and credentials.&lt;/p&gt;&#xA;&lt;h3&gt;Schedule&lt;/h3&gt;&#xA;&lt;dl&gt;&#xA;    &lt;dd&gt;&lt;strong&gt;10 AM to 12:30 PM&lt;/strong&gt;&lt;/dd&gt;&#xA;    &lt;dl&gt;Screening &amp; discussion of &lt;em&gt;Hidden Figures&lt;/em&gt;:  The story of a team of female African-American mathematicians who served a vital role in NASA during the early years of the U.S. space program.  Hosted by Dr. Randy Newman (Professor of Psychology, Acadia University.  &lt;a href=&#34;https://refreshannapolisvalley.org/organization/women-in-science-and-engineering-at-acadia-university&#34;&gt;&#xA;    &#xA;        Women in Science and Engineering at Acadia University&#xA;    &#xA;&lt;/a&gt;&#xA;).  An area of Dr. Newman&#39;s work is in understanding factors responsible for the gender gap that persists in some areas of science, notably computer science and engineering.  &lt;strong&gt;Limited Space: &lt;a href=&#34;https://www.eventbrite.ca/e/f5imagination-hidden-figures-screening-discussion-tickets-40998671129&#34;&gt;get your free ticket to secure your spot&lt;/a&gt;.&lt;/strong&gt;&lt;/dl&gt;&#xA;    &lt;dd&gt;&lt;strong&gt;1 PM to 4:00 PM&lt;/strong&gt;&lt;/dd&gt;&#xA;    &lt;dl&gt;f5://imagination reception. Artists will be in attendance, light refreshments served.&lt;/dl&gt;&#xA;&lt;/dl&gt;&#xA;&lt;p&gt;Submissions are being accepted until midnight December 13.  To submit, fill out the below form (bottom of the page).&lt;/p&gt;</description>
+      <description>f5://imagination is a pop up exhibit focused on digital creativity. This one day temporary exhibit features work from digital artists, makers, scratchers, computer scientists, engineers and pretendgineer, hardware hackers, lego robotics warriors, indy game developers, new media innovators, VR and AR pioneers&amp;hellip; digital builders of all shapes, sizes, and credentials.&#xA;Schedule 10 AM to 12:30 PM Screening &amp; discussion of Hidden Figures: The story of a team of female African-American mathematicians who served a vital role in NASA during the early years of the U.</description>
     </item>
     <item>
       <title>Digitized Reality</title>
       <link>https://refreshannapolisvalley.org/event/digitized-reality/</link>
-      <pubDate>Thu, 01 Jun 2017 19:00:00 -0300</pubDate>
+      <pubDate>Sat, 16 Dec 2017 12:30:00 -0300</pubDate>
       <guid>https://refreshannapolisvalley.org/event/digitized-reality/</guid>
-      <description>&lt;p&gt;Come slap on a headset and enter the world of virtual reality.  In this workshop, we will explore virtual reality by both examining the capabilities of commercial headsets, as well as learn how to build our own VR environments.  If you can, bring a smart phone to test your uniquely constructed VR world.  We can only accommodate a limited number of people for this event, so get your free ticket fast.&lt;/p&gt;</description>
+      <description>Come slap on a headset and enter the world of virtual reality. In this workshop, we will explore virtual reality by both examining the capabilities of commercial headsets, as well as learn how to build our own VR environments. If you can, bring a smart phone to test your uniquely constructed VR world. We can only accommodate a limited number of people for this event, so get your free ticket fast.</description>
     </item>
     <item>
       <title>Founders Meetup: Lets Start a Business</title>
       <link>https://refreshannapolisvalley.org/event/founders-meetup/</link>
-      <pubDate>Thu, 01 Jun 2017 19:00:00 -0300</pubDate>
+      <pubDate>Sat, 28 Oct 2017 13:30:00 -0300</pubDate>
       <guid>https://refreshannapolisvalley.org/event/founders-meetup/</guid>
-      <description>&lt;p&gt;For this Hoist meetup, we will be doing something a little different.  We are looking for a few budding teen entrepreneurs to start a business.  This is the pitch:&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Services supporting the business startup space in Rural Nova Scotia are diverse and not well represented as a whole.  Our business aims to unify the Western Nova business startup ecosystem by building a coherent communication platform.  By doing so, we will encourage entrepreneurship within our community.&lt;/em&gt;&lt;/p&gt;</description>
+      <description>For this Hoist meetup, we will be doing something a little different. We are looking for a few budding teen entrepreneurs to start a business. This is the pitch:&#xA;Services supporting the business startup space in Rural Nova Scotia are diverse and not well represented as a whole. Our business aims to unify the Western Nova business startup ecosystem by building a coherent communication platform. By doing so, we will encourage entrepreneurship within our community.</description>
     </item>
     <item>
       <title>#ScratchFest</title>
       <link>https://refreshannapolisvalley.org/event/scratchfest-2017/</link>
-      <pubDate>Thu, 01 Jun 2017 19:00:00 -0300</pubDate>
+      <pubDate>Sat, 24 Jun 2017 12:00:00 -0400</pubDate>
       <guid>https://refreshannapolisvalley.org/event/scratchfest-2017/</guid>
-      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/rpkvmw65RLI?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&#xA;      &gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;h1 id=&#34;calling-all-scratchers&#34;&gt;Calling all Scratchers&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;#ScratchFest&lt;/em&gt; is a weekend (June 24th and June 25th) Scratch-a-thon for kids interested in creating amazing original work with the Scratch programming environment.&lt;/p&gt;&#xA;&lt;p&gt;During &lt;em&gt;#ScartchFest&lt;/em&gt;, kids will brainstorm an idea, develop their project, and showcase a final prototype.  This weekend warrior event provides an excellent opportunity for Scratch coders to invent their own projects and demonstrate their knowledge in Scratch within a collaborative, creative, and playful environment.&lt;/p&gt;</description>
+      <description>Calling all Scratchers #ScratchFest is a weekend (June 24th and June 25th) Scratch-a-thon for kids interested in creating amazing original work with the Scratch programming environment.&#xA;During #ScartchFest, kids will brainstorm an idea, develop their project, and showcase a final prototype. This weekend warrior event provides an excellent opportunity for Scratch coders to invent their own projects and demonstrate their knowledge in Scratch within a collaborative, creative, and playful environment.</description>
     </item>
     <item>
       <title>Digitizing Your Mouth: 2 Decades of Digital Dentistry in Wolfville</title>
       <link>https://refreshannapolisvalley.org/event/digitizing-your-mouth-2-decades-of-digital-dentistry-in-wolfville/</link>
-      <pubDate>Thu, 01 Jun 2017 19:00:00 -0300</pubDate>
+      <pubDate>Tue, 13 Jun 2017 19:00:00 -0300</pubDate>
       <guid>https://refreshannapolisvalley.org/event/digitizing-your-mouth-2-decades-of-digital-dentistry-in-wolfville/</guid>
-      <description>&lt;p&gt;Henry Schein is a distributor and producer of health care products and services with a presence in 33 countries.  The company is a Fortune World’s Most Admired Company and is ranked number one in its industry for social responsibility.  Its Wolfville operation is at the forefront of digitizing dentistry with its wide range of home grown software solutions.&lt;/p&gt;&#xA;&lt;p&gt;Come help the Henry Schein Woflville team christen its new office.  Product Manager Sandy Macdonald will talk about the state of digital dentistry and how our Wolfville team is working on pushing its edges.  Food and drinks will be served.  BYOB.  Video games will be played.  Get a 3D model of your mouth.&lt;/p&gt;</description>
+      <description>Henry Schein is a distributor and producer of health care products and services with a presence in 33 countries. The company is a Fortune World’s Most Admired Company and is ranked number one in its industry for social responsibility. Its Wolfville operation is at the forefront of digitizing dentistry with its wide range of home grown software solutions.&#xA;Come help the Henry Schein Woflville team christen its new office. Product Manager Sandy Macdonald will talk about the state of digital dentistry and how our Wolfville team is working on pushing its edges.</description>
     </item>
     <item>
       <title>Bootstrapping The Web</title>
       <link>https://refreshannapolisvalley.org/event/bootstrapping-the-web/</link>
-      <pubDate>Fri, 21 Apr 2017 19:00:00 -0300</pubDate>
+      <pubDate>Sat, 13 May 2017 12:30:00 -0300</pubDate>
       <guid>https://refreshannapolisvalley.org/event/bootstrapping-the-web/</guid>
-      <description>&lt;p&gt;For our first Hoist meetup, we&amp;rsquo;ll be learning how to use the Twitter Bootstrap code library to create beautiful front-end websites. Bootstrap is a combination of HTML, CSS, and JavaScript that allow you to write very little but get a whole lot.  We&amp;rsquo;ll start with the basics of HTML and CSS and then dive into using Bootstrap to jump-start your web project.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Pizza + workshop + building&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Bring your own laptop. A small number of laptops will be available to borrow.&lt;/p&gt;</description>
+      <description>For our first Hoist meetup, we&amp;rsquo;ll be learning how to use the Twitter Bootstrap code library to create beautiful front-end websites. Bootstrap is a combination of HTML, CSS, and JavaScript that allow you to write very little but get a whole lot. We&amp;rsquo;ll start with the basics of HTML and CSS and then dive into using Bootstrap to jump-start your web project.&#xA;Pizza + workshop + building&#xA;Bring your own laptop.</description>
     </item>
     <item>
       <title>Project Management Sucks</title>
       <link>https://refreshannapolisvalley.org/event/project-management-sucks/</link>
-      <pubDate>Fri, 24 Feb 2017 19:00:00 -0300</pubDate>
+      <pubDate>Tue, 11 Apr 2017 19:00:00 -0300</pubDate>
       <guid>https://refreshannapolisvalley.org/event/project-management-sucks/</guid>
-      <description>&lt;p&gt;Project management seems to be one of those areas of necessary evil. Disconnected project managers who don&amp;rsquo;t really understand your work coupled with never ending meetings, charts, spreadsheets, forms, paperwork, complicated management software&amp;hellip;  Project management can feel like it is more of a barrier than a help to team productivity.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://refreshannapolisvalley.org/images/event/project-management-sucks/dilbert.gif&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;In this talk, Mike Caplan, a reluctant Software Development Manager, will explore a lightweight tool for overseeing the project processes.  Based on a simple board, this technique helps visualize workflow, expose operational problems, and reduce wasted time from excessive multitasking.  Best of all, it is a team tool that helps decentralize project management to the group.&lt;/p&gt;</description>
+      <description>Project management seems to be one of those areas of necessary evil. Disconnected project managers who don&amp;rsquo;t really understand your work coupled with never ending meetings, charts, spreadsheets, forms, paperwork, complicated management software&amp;hellip; Project management can feel like it is more of a barrier than a help to team productivity.&#xA;In this talk, Mike Caplan, a reluctant Software Development Manager, will explore a lightweight tool for overseeing the project processes. Based on a simple board, this technique helps visualize workflow, expose operational problems, and reduce wasted time from excessive multitasking.</description>
     </item>
     <item>
       <title>Creative Computing Course 2017</title>
       <link>https://refreshannapolisvalley.org/event/cc/course-2017/</link>
-      <pubDate>Thu, 01 Dec 2016 19:00:00 -0300</pubDate>
+      <pubDate>Mon, 09 Jan 2017 18:00:00 -0400</pubDate>
       <guid>https://refreshannapolisvalley.org/event/cc/course-2017/</guid>
-      <description>&lt;p&gt;Creative Computing is a course developed by an international network of educators passionate about exposing kids to the computer sciences.  Broken up into 7 units, this course uses the popular Scratch programming environment to aid young people (aged 8 to 13) in learning the basics of software development.  Scratch is used over the world by students to easily create animations and games while acting as a stepping stone to the more advanced world of computer science.&lt;/p&gt;</description>
+      <description>Creative Computing is a course developed by an international network of educators passionate about exposing kids to the computer sciences. Broken up into 7 units, this course uses the popular Scratch programming environment to aid young people (aged 8 to 13) in learning the basics of software development. Scratch is used over the world by students to easily create animations and games while acting as a stepping stone to the more advanced world of computer science.</description>
     </item>
     <item>
       <title>Creative Computing</title>
       <link>https://refreshannapolisvalley.org/project/creative-computing/</link>
       <pubDate>Sun, 11 Sep 2016 19:00:00 +0000</pubDate>
       <guid>https://refreshannapolisvalley.org/project/creative-computing/</guid>
-      <description>&lt;p&gt;Creative Computing is a series of programs (courses, workshops, and events) geared towards kids 8 to 13 focused on exposing them to the amazing world of computer science.&lt;/p&gt;</description>
+      <description>Creative Computing is a series of programs (courses, workshops, and events) geared towards kids 8 to 13 focused on exposing them to the amazing world of computer science.</description>
     </item>
     <item>
       <title>Hoist Annapolis Valley</title>
@@ -258,49 +265,49 @@
       <link>https://refreshannapolisvalley.org/project/labs/</link>
       <pubDate>Sun, 11 Sep 2016 19:00:00 +0000</pubDate>
       <guid>https://refreshannapolisvalley.org/project/labs/</guid>
-      <description>&lt;p&gt;The Refresh Annapolis Valley Labs is a playground where adventurous builders come to create.  Labs initiatives are community driven digital technology projects that tend to be entrepreneurial in nature.  In the lab, Refreshers work on building and applying their skills all while pursuing the objectives of their projects.&lt;/p&gt;&#xA;&lt;p&gt;Refresh Annapolis Valley Labs is hosted at the Acadia Entrepreneurship Centre Rural Innovation Centre.  We meet on Saturdays from 12:30 to 3:30 starting January 26.  Bring your laptop.  Pizza will be served.&lt;/p&gt;</description>
+      <description>The Refresh Annapolis Valley Labs is a playground where adventurous builders come to create. Labs initiatives are community driven digital technology projects that tend to be entrepreneurial in nature. In the lab, Refreshers work on building and applying their skills all while pursuing the objectives of their projects.&#xA;Refresh Annapolis Valley Labs is hosted at the Acadia Entrepreneurship Centre Rural Innovation Centre. We meet on Saturdays from 12:30 to 3:30 starting January 26.</description>
     </item>
     <item>
       <title>Tech Meetups</title>
       <link>https://refreshannapolisvalley.org/project/meetups/</link>
       <pubDate>Sun, 11 Sep 2016 19:00:00 +0000</pubDate>
       <guid>https://refreshannapolisvalley.org/project/meetups/</guid>
-      <description>&lt;p&gt;Our monthly Refresh meetup is where the Annapolis Valley community of designers, developers and innovators come hang out.  Those interested in the creative, technical, and professional culture of digital technology endeavours in the Annapolis Valley meet and talk about all things design, technology, and entrepreneurship.&lt;/p&gt;&#xA;&lt;p&gt;Refresh meets the second Tuesday evening of each month in the Wolfville area. These are casual affairs with short, member-interest talks followed by an opportunity to mingle.&lt;/p&gt;</description>
+      <description>Our monthly Refresh meetup is where the Annapolis Valley community of designers, developers and innovators come hang out. Those interested in the creative, technical, and professional culture of digital technology endeavours in the Annapolis Valley meet and talk about all things design, technology, and entrepreneurship.&#xA;Refresh meets the second Tuesday evening of each month in the Wolfville area. These are casual affairs with short, member-interest talks followed by an opportunity to mingle.</description>
     </item>
     <item>
       <title>HarvestHand</title>
       <link>https://refreshannapolisvalley.org/organization/harvesthand/</link>
       <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
       <guid>https://refreshannapolisvalley.org/organization/harvesthand/</guid>
-      <description>&lt;p&gt;HarvestHand is a community platform dedicated to strengthening regional food systems. We&amp;rsquo;re passionate about supporting farms with CSA&amp;rsquo;s to become more profitable using HarvestHand CSA Software, helping communities eat better through the HarvestHand Community, creating good jobs in rural communities, and building new media solutions that make sharing the harvest easier.&lt;/p&gt;&#xA;&lt;p&gt;Our vision is to create new media solutions that strengthen regional food systems&amp;rsquo; ability to succeed in value oriented approaches to production, distribution, consumption and community.&lt;/p&gt;</description>
+      <description>HarvestHand is a community platform dedicated to strengthening regional food systems. We&amp;rsquo;re passionate about supporting farms with CSA&amp;rsquo;s to become more profitable using HarvestHand CSA Software, helping communities eat better through the HarvestHand Community, creating good jobs in rural communities, and building new media solutions that make sharing the harvest easier.&#xA;Our vision is to create new media solutions that strengthen regional food systems&amp;rsquo; ability to succeed in value oriented approaches to production, distribution, consumption and community.</description>
     </item>
     <item>
       <title>Labnet Dental Lab Systems</title>
       <link>https://refreshannapolisvalley.org/organization/labnet-dental-lab-systems/</link>
       <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
       <guid>https://refreshannapolisvalley.org/organization/labnet-dental-lab-systems/</guid>
-      <description>&lt;p&gt;Labnet Dental Lab Systems offers the Dental Lab industry&amp;rsquo;s most comprehensive and powerful management systems with solutions suited for labs of all sizes and budgets. Whether your lab is a thriving multi-site corporation or a one-technician miracle lab, we have a perfect fit for you.&lt;/p&gt;&#xA;&lt;p&gt;As a Henry Schein company, you can depend on Labnet Dental Lab Systems for stability and providing your dentists with the latest technological advancements. When you are operating within tight deadlines, the last thing you should worry about is your software. Stability in your software means consistency and piece of mind in your lab.&lt;/p&gt;</description>
+      <description>Labnet Dental Lab Systems offers the Dental Lab industry&amp;rsquo;s most comprehensive and powerful management systems with solutions suited for labs of all sizes and budgets. Whether your lab is a thriving multi-site corporation or a one-technician miracle lab, we have a perfect fit for you.&#xA;As a Henry Schein company, you can depend on Labnet Dental Lab Systems for stability and providing your dentists with the latest technological advancements. When you are operating within tight deadlines, the last thing you should worry about is your software.</description>
     </item>
     <item>
       <title>F5://Food</title>
       <link>https://refreshannapolisvalley.org/project/f5-food/</link>
       <pubDate>Fri, 21 Feb 2014 19:00:00 +0000</pubDate>
       <guid>https://refreshannapolisvalley.org/project/f5-food/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Measure and mix together:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;1 cup of farmers&lt;/p&gt;&#xA;&lt;p&gt;½ pound regional food distributors&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;2 tbsp chefs&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;1 cup food policy experts&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;1 dash of deep concern about making our regional bounty more accessible&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Stir in:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;2 tbsp software developers&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;½ cup interactive designers&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;4 tbsp marketers&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;1 pound new media entrepreneurs&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Stir new media ingredients into agricultural mixture. Mix thoroughly with a group of mentors. Broil for 48 hours. Serve hot to a group of judges.&lt;/p&gt;</description>
+      <description>Measure and mix together:&#xA;1 cup of farmers&#xA;½ pound regional food distributors&#xA;2 tbsp chefs&#xA;1 cup food policy experts&#xA;1 dash of deep concern about making our regional bounty more accessible&#xA;Stir in:&#xA;2 tbsp software developers&#xA;½ cup interactive designers&#xA;4 tbsp marketers&#xA;1 pound new media entrepreneurs&#xA;Stir new media ingredients into agricultural mixture. Mix thoroughly with a group of mentors. Broil for 48 hours. Serve hot to a group of judges.</description>
     </item>
     <item>
       <title>HTML5 and Semantic Markup</title>
       <link>https://refreshannapolisvalley.org/event/html5-and-semantic-markup/</link>
       <pubDate>Mon, 14 Jan 2013 19:00:00 -0300</pubDate>
       <guid>https://refreshannapolisvalley.org/event/html5-and-semantic-markup/</guid>
-      <description>&lt;p&gt;Come join us for &amp;ldquo;HTML5 and Semantic Markup,&amp;rdquo; a discussion about HTML5, markup, and HTML5 websites that rock.&lt;/p&gt;&#xA;&lt;h4 id=&#34;open-web-platform-html5-and-semantic-markup&#34;&gt;Open Web Platform: HTML5 and Semantic Markup&lt;/h4&gt;&#xA;&lt;p&gt;Mike Caplan will give a talk about HTML5&amp;rsquo;s new elements and attributes that allow us to define semantically meaningful HTML. Semantics you say? What is the meaning of this? Come find out.&lt;/p&gt;&#xA;&lt;h4 id=&#34;html5-websites-show-and-tell&#34;&gt;HTML5 Websites Show and Tell&lt;/h4&gt;&#xA;&lt;p&gt;Dust off your favorite website that uses anything under the HTML5 sun – offline storage, connectivity, file access, semantics, audio/video, 3D/graphics, presentation, performance, big features, or small. We&amp;rsquo;ll put it on the screen and you can give a brief tour. Stickers for all those who participate.&lt;/p&gt;</description>
+      <description>Come join us for &amp;ldquo;HTML5 and Semantic Markup,&amp;rdquo; a discussion about HTML5, markup, and HTML5 websites that rock.&#xA;Open Web Platform: HTML5 and Semantic Markup Mike Caplan will give a talk about HTML5&amp;rsquo;s new elements and attributes that allow us to define semantically meaningful HTML. Semantics you say? What is the meaning of this? Come find out.&#xA;HTML5 Websites Show and Tell Dust off your favorite website that uses anything under the HTML5 sun – offline storage, connectivity, file access, semantics, audio/video, 3D/graphics, presentation, performance, big features, or small.</description>
     </item>
     <item>
       <title>Local Projects Roundup: Round One</title>
       <link>https://refreshannapolisvalley.org/event/local-projects-roundup-round-one/</link>
       <pubDate>Mon, 12 Nov 2012 19:30:00 -0300</pubDate>
       <guid>https://refreshannapolisvalley.org/event/local-projects-roundup-round-one/</guid>
-      <description>&lt;p&gt;Come join us for &lt;strong&gt;Local Projects Roundup - Round One&lt;/strong&gt;, a discussion about interesting local web projects, and initiatives supporting startups.&lt;/p&gt;&#xA;&lt;div class=&#34;media-object&#34;&gt;&#xA;    &lt;div class=&#34;media-object-section&#34;&gt;&#xA;        &lt;div class=&#34;thumbnail&#34;&gt;&#xA;            &lt;img style=&#34;max-width: 100px&#34; src= &#34;https://refreshannapolisvalley.org/images/organization/hub-kentville/icon.jpg&#34;&gt;&#xA;        &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;media-object-section&#34;&gt;&#xA;        &lt;h4&gt;&lt;strong&gt;HUB Kentville&lt;/strong&gt; with Frances Schagen&lt;/h4&gt;&#xA;        &lt;p&gt;&#xA;    Calling all forward-thinking entrepreneurs, start ups, creatives, artists, freelancers, coders and non-profits. &lt;a href=&#34;https://refreshannapolisvalley.org/organization/hub-kentville&#34;&gt;&#xA;    &#xA;        HUB Kentville&#xA;    &#xA;&lt;/a&gt;&#xA; is a membership-based coworking spaces where people share an address, resources, equipment and community.&#xA;&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;media-object&#34;&gt;&#xA;    &lt;div class=&#34;media-object-section&#34;&gt;&#xA;        &lt;div class=&#34;thumbnail&#34;&gt;&#xA;            &lt;img style=&#34;max-width: 100px&#34; src= &#34;https://refreshannapolisvalley.org/images/organization/harvesthand/icon.png&#34;&gt;&#xA;        &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;media-object-section&#34;&gt;&#xA;        &lt;h4&gt;&lt;strong&gt;HarvestHand&lt;/strong&gt; with Michael Caplan&lt;/h4&gt;&#xA;        &lt;p&gt;&#xA;    Community Supported Agriculture (CSA) is a member based model for food production and distribution that unites local communities with local farms. &lt;a href=&#34;https://refreshannapolisvalley.org/organization/harvesthand&#34;&gt;&#xA;    &#xA;        HarvestHand&#xA;    &#xA;&lt;/a&gt;&#xA; is an Internet platform for CSA farms to communicate with and manage their community of members.&#xA;&lt;/p&gt;</description>
+      <description>Come join us for Local Projects Roundup - Round One, a discussion about interesting local web projects, and initiatives supporting startups.&#xA;HUB Kentville with Frances Schagen Calling all forward-thinking entrepreneurs, start ups, creatives, artists, freelancers, coders and non-profits. HUB Kentville is a membership-based coworking spaces where people share an address, resources, equipment and community. HarvestHand with Michael Caplan Community Supported Agriculture (CSA) is a member based model for food production and distribution that unites local communities with local farms.</description>
     </item>
   </channel>
 </rss>

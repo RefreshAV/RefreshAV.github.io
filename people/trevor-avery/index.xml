@@ -4,23 +4,23 @@
     <title>Trevor Avery on Refresh Annapolis Valley</title>
     <link>https://refreshannapolisvalley.org/people/trevor-avery/</link>
     <description>Recent content in Trevor Avery on Refresh Annapolis Valley</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
     <lastBuildDate>Tue, 08 Nov 2016 19:00:00 -0300</lastBuildDate>
     <atom:link href="https://refreshannapolisvalley.org/people/trevor-avery/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understanding The World Through R</title>
       <link>https://refreshannapolisvalley.org/event/understanding-the-world-through-r/</link>
-      <pubDate>Sun, 30 Oct 2016 19:00:00 -0300</pubDate>
+      <pubDate>Tue, 08 Nov 2016 19:00:00 -0300</pubDate>
       <guid>https://refreshannapolisvalley.org/event/understanding-the-world-through-r/</guid>
-      <description>&lt;p&gt;The world is bubbling over with data.   When analyzed, data can provide the inquiring mind with useful information that can suggest outcomes and support decision-making.  Be it the data generated about business practices, human behaviours, the biological world; being able to understand what your data is telling you is incredibly empowering.  &amp;ldquo;R&amp;rdquo; is a free, accessible, and powerful programming language that offers a suite of tools for data analysis.&lt;/p&gt;&#xA;&lt;p&gt;Our tour guide, &lt;a href=&#34;https://refreshannapolisvalley.org/person/trevor-avery&#34;&gt;Trevor Avery&lt;/a&gt;&#xA; — biostatistician, faculty member at Acadia University, and coordinator of &lt;a href=&#34;https://refreshannapolisvalley.org/organization/r-bar&#34;&gt;&#xA;    &#xA;        R-bar&#xA;    &#xA;&lt;/a&gt;&#xA; — will provide us a primer on R. Through a series of examples, he will demonstrate the various strength of R in data analysis and data visualization.  No experience with programming is required to learn about what R can do for you. Just bring your inquiring mind.&lt;/p&gt;</description>
+      <description>The world is bubbling over with data. When analyzed, data can provide the inquiring mind with useful information that can suggest outcomes and support decision-making. Be it the data generated about business practices, human behaviours, the biological world; being able to understand what your data is telling you is incredibly empowering. &amp;ldquo;R&amp;rdquo; is a free, accessible, and powerful programming language that offers a suite of tools for data analysis.&#xA;Our tour guide, Trevor Avery — biostatistician, faculty member at Acadia University, and coordinator of R-bar — will provide us a primer on R.</description>
     </item>
     <item>
       <title>R-bar</title>
       <link>https://refreshannapolisvalley.org/organization/r-bar/</link>
       <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
       <guid>https://refreshannapolisvalley.org/organization/r-bar/</guid>
-      <description>&lt;p&gt;R-bar is Acadia University&amp;rsquo;s scientific programming study group.  They cover everything R: a programming language and software environment for statistical computing and graphics.&lt;/p&gt;&#xA;&lt;h4 id=&#34;what-we-do&#34;&gt;WHAT WE DO&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Skill Sharing: Share your favorite coding skills and tools with your friends and colleagues in friendly, no-pressure work-alongs.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Co-Working: Get together to work on your coding projects, help each other out and share your work.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Community Building: Meet new people in your field, organization or community - and find out what we can do when we work together.&lt;/p&gt;</description>
+      <description>R-bar is Acadia University&amp;rsquo;s scientific programming study group. They cover everything R: a programming language and software environment for statistical computing and graphics.&#xA;WHAT WE DO Skill Sharing: Share your favorite coding skills and tools with your friends and colleagues in friendly, no-pressure work-alongs.&#xA;Co-Working: Get together to work on your coding projects, help each other out and share your work.&#xA;Community Building: Meet new people in your field, organization or community - and find out what we can do when we work together.</description>
     </item>
   </channel>
 </rss>

@@ -4,23 +4,23 @@
     <title>Alexander Petkov on Refresh Annapolis Valley</title>
     <link>https://refreshannapolisvalley.org/people/alexander-petkov/</link>
     <description>Recent content in Alexander Petkov on Refresh Annapolis Valley</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
     <lastBuildDate>Mon, 09 Dec 2019 17:00:00 -0400</lastBuildDate>
     <atom:link href="https://refreshannapolisvalley.org/people/alexander-petkov/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Comp Sci Education Week - Build a micro:bit Mini Crane</title>
       <link>https://refreshannapolisvalley.org/event/creating-mini-crane-with-the-microbit/</link>
-      <pubDate>Wed, 21 Aug 2019 19:00:00 -0300</pubDate>
+      <pubDate>Mon, 09 Dec 2019 17:00:00 -0400</pubDate>
       <guid>https://refreshannapolisvalley.org/event/creating-mini-crane-with-the-microbit/</guid>
-      <description>&lt;p&gt;Are you interested in robotics or do you enjoy messing around with electronics? In this workshop, you&amp;rsquo;ll assemble both the hardware and software needed to create a miniature crane controlled by the micro:bit microcontroller.&lt;/p&gt;&#xA;&lt;p&gt;Join us as we kick off Computer Science Education Week with this hands on workshop.  We are limited to 10 spots, so act fast!&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-a-microbit&#34;&gt;What is a micro:bit?&lt;/h2&gt;&#xA;&lt;p&gt;The micro:bit is a small, compact computer based on a 43 mm × 52 mm circuit board. The board is easy to program and has several cool hardware features such as a processor, radio and Bluetooth antenna, 25 LED lights, two buttons, a compass, an accelerometer, and, the best feature, an edge connector used to power a wide variety of external hardware.&lt;/p&gt;</description>
+      <description>Are you interested in robotics or do you enjoy messing around with electronics? In this workshop, you&amp;rsquo;ll assemble both the hardware and software needed to create a miniature crane controlled by the micro:bit microcontroller.&#xA;Join us as we kick off Computer Science Education Week with this hands on workshop. We are limited to 10 spots, so act fast!&#xA;What is a micro:bit? The micro:bit is a small, compact computer based on a 43 mm × 52 mm circuit board.</description>
     </item>
     <item>
       <title>Programming Hardware with Python</title>
       <link>https://refreshannapolisvalley.org/event/programming-hardware-with-python/</link>
-      <pubDate>Mon, 01 Apr 2019 19:00:00 -0300</pubDate>
+      <pubDate>Sat, 04 May 2019 12:30:00 -0400</pubDate>
       <guid>https://refreshannapolisvalley.org/event/programming-hardware-with-python/</guid>
-      <description>&lt;p&gt;Have you ever wanted to know how to make code interact with the real world? In this introductory workshop to Python programming, you’ll learn the vital stepping stones to controlling hardware using the Circuit Playground microcontroller (microcomputer) with one of the most robust, versatile, and popular programming languages.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-a-circuit-playground&#34;&gt;What is a Circuit Playground?&lt;/h2&gt;&#xA;&lt;p&gt;The Circuit Playground is a microcontroller, or a tiny computer. This computer can easily be programmed to interact with hardware that you connect to it. Not only that, but the Circuit Playground comes equipped with various electronics and other hardware already built into it. It has multiple sensors (motion sensors, temperature sensors, sound sensors, etc), an infrared receiver/transmitter, push buttons, a speaker, input/output pins (by which you would attach external hardware to), a micro USB port, and several LEDs all on a 5 cm in diameter circuit board!&lt;/p&gt;</description>
+      <description>Have you ever wanted to know how to make code interact with the real world? In this introductory workshop to Python programming, you’ll learn the vital stepping stones to controlling hardware using the Circuit Playground microcontroller (microcomputer) with one of the most robust, versatile, and popular programming languages.&#xA;What is a Circuit Playground? The Circuit Playground is a microcontroller, or a tiny computer. This computer can easily be programmed to interact with hardware that you connect to it.</description>
     </item>
   </channel>
 </rss>

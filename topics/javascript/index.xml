@@ -4,7 +4,7 @@
     <title>Javascript on Refresh Annapolis Valley</title>
     <link>https://refreshannapolisvalley.org/topics/javascript/</link>
     <description>Recent content in Javascript on Refresh Annapolis Valley</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
     <lastBuildDate>Tue, 11 Oct 2016 19:00:00 -0300</lastBuildDate>
     <atom:link href="https://refreshannapolisvalley.org/topics/javascript/index.xml" rel="self" type="application/rss+xml" />
@@ -13,14 +13,14 @@
       <link>https://refreshannapolisvalley.org/event/the-realtime-web-intro-to-node-js/</link>
       <pubDate>Tue, 11 Oct 2016 19:00:00 -0300</pubDate>
       <guid>https://refreshannapolisvalley.org/event/the-realtime-web-intro-to-node-js/</guid>
-      <description>&lt;p&gt;Node.js is a rapidly growing technology that has been making big waves in the world of web development. Node lets you easily build fast and scalable network applications perfect for the realtime web. In this workshop you’ll learn how to get started using Node, its background and history, and the problems it seeks to address. We’ll get our hands dirty building a realtime chat server to get a feel for the amazing power of Node.&lt;/p&gt;</description>
+      <description>Node.js is a rapidly growing technology that has been making big waves in the world of web development. Node lets you easily build fast and scalable network applications perfect for the realtime web. In this workshop you’ll learn how to get started using Node, its background and history, and the problems it seeks to address. We’ll get our hands dirty building a realtime chat server to get a feel for the amazing power of Node.</description>
     </item>
     <item>
       <title>Josh Smith</title>
       <link>https://refreshannapolisvalley.org/person/josh-smith/</link>
       <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
       <guid>https://refreshannapolisvalley.org/person/josh-smith/</guid>
-      <description>&lt;p&gt;Front End Engineer at Chalk&lt;/p&gt;</description>
+      <description>Front End Engineer at Chalk</description>
     </item>
   </channel>
 </rss>

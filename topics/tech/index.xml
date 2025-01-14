@@ -4,7 +4,7 @@
     <title>Tech on Refresh Annapolis Valley</title>
     <link>https://refreshannapolisvalley.org/topics/tech/</link>
     <description>Recent content in Tech on Refresh Annapolis Valley</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
     <lastBuildDate>Sun, 11 Sep 2016 19:00:00 +0000</lastBuildDate>
     <atom:link href="https://refreshannapolisvalley.org/topics/tech/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>https://refreshannapolisvalley.org/project/meetups/</link>
       <pubDate>Sun, 11 Sep 2016 19:00:00 +0000</pubDate>
       <guid>https://refreshannapolisvalley.org/project/meetups/</guid>
-      <description>&lt;p&gt;Our monthly Refresh meetup is where the Annapolis Valley community of designers, developers and innovators come hang out.  Those interested in the creative, technical, and professional culture of digital technology endeavours in the Annapolis Valley meet and talk about all things design, technology, and entrepreneurship.&lt;/p&gt;&#xA;&lt;p&gt;Refresh meets the second Tuesday evening of each month in the Wolfville area. These are casual affairs with short, member-interest talks followed by an opportunity to mingle.&lt;/p&gt;</description>
+      <description>Our monthly Refresh meetup is where the Annapolis Valley community of designers, developers and innovators come hang out. Those interested in the creative, technical, and professional culture of digital technology endeavours in the Annapolis Valley meet and talk about all things design, technology, and entrepreneurship.&#xA;Refresh meets the second Tuesday evening of each month in the Wolfville area. These are casual affairs with short, member-interest talks followed by an opportunity to mingle.</description>
     </item>
   </channel>
 </rss>

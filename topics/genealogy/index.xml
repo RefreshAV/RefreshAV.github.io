@@ -4,30 +4,30 @@
     <title>Genealogy on Refresh Annapolis Valley</title>
     <link>https://refreshannapolisvalley.org/topics/genealogy/</link>
     <description>Recent content in Genealogy on Refresh Annapolis Valley</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
     <lastBuildDate>Tue, 12 Jun 2018 19:00:00 -0300</lastBuildDate>
     <atom:link href="https://refreshannapolisvalley.org/topics/genealogy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Using DNA to Reverse-Engineer Your Family Tree</title>
       <link>https://refreshannapolisvalley.org/event/using-dna-to-reverse-enginee--your-family-tree/</link>
-      <pubDate>Mon, 01 Jan 2018 19:00:00 -0300</pubDate>
+      <pubDate>Tue, 12 Jun 2018 19:00:00 -0300</pubDate>
       <guid>https://refreshannapolisvalley.org/event/using-dna-to-reverse-enginee--your-family-tree/</guid>
-      <description>&lt;p&gt;Recent advances in consumer genetics have enabled genealogists to solve mysteries in their family tree. Adoptees are finding their biological families by sharing the results of DNA tests with Websites that match millions of individuals.&lt;/p&gt;&#xA;&lt;p&gt;Progeny Genealogy&amp;rsquo;s Charting Companion software displays the relationship distance of family members, as a number in an easy to understand chart. CC can also empirically find an adoptee&amp;rsquo;s family with an algorithm that simulates placement and compares theoretical to laboratory DNA results. Pierre will discuss how CC quickly runs through thousands of simulations, adds hypothetical mates,  and tests unexpected configurations to explore all possible connections.&lt;/p&gt;</description>
+      <description>Recent advances in consumer genetics have enabled genealogists to solve mysteries in their family tree. Adoptees are finding their biological families by sharing the results of DNA tests with Websites that match millions of individuals.&#xA;Progeny Genealogy&amp;rsquo;s Charting Companion software displays the relationship distance of family members, as a number in an easy to understand chart. CC can also empirically find an adoptee&amp;rsquo;s family with an algorithm that simulates placement and compares theoretical to laboratory DNA results.</description>
     </item>
     <item>
       <title>Pierre Clouthier</title>
       <link>https://refreshannapolisvalley.org/person/pierre-clouthier/</link>
       <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
       <guid>https://refreshannapolisvalley.org/person/pierre-clouthier/</guid>
-      <description>&lt;p&gt;Co-founder, President, Progeny Genealogy Inc., specialising in computer graphics software for genealogy.&lt;/p&gt;</description>
+      <description>Co-founder, President, Progeny Genealogy Inc., specialising in computer graphics software for genealogy.</description>
     </item>
     <item>
       <title>Progeny Genealogy</title>
       <link>https://refreshannapolisvalley.org/organization/progeny-genealogy/</link>
       <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
       <guid>https://refreshannapolisvalley.org/organization/progeny-genealogy/</guid>
-      <description>&lt;p&gt;Progeny Genealogy is the leading developer of family tree software and other useful, easy-to-use genealogy research resources, including &lt;a href=&#34;http://progenygenealogy.com/Products/FamilyTreeCharts.aspx&#34;&gt;Charting Companion&lt;/a&gt;™, &lt;a href=&#34;http://progenygenealogy.com/Products/TimelineCharts.aspx&#34;&gt;Genelines&lt;/a&gt;™ and &lt;a href=&#34;http://progenygenealogy.com/Products/FamilyMaps.aspx&#34;&gt;Map My Family Tree&lt;/a&gt;™. More than pretty charts, our genealogy software programs are also powerful research tools.&lt;/p&gt;</description>
+      <description>Progeny Genealogy is the leading developer of family tree software and other useful, easy-to-use genealogy research resources, including Charting Companion™, Genelines™ and Map My Family Tree™. More than pretty charts, our genealogy software programs are also powerful research tools.</description>
     </item>
   </channel>
 </rss>

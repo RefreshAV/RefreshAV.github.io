@@ -4,7 +4,7 @@
     <title>GIS on Refresh Annapolis Valley</title>
     <link>https://refreshannapolisvalley.org/topics/gis/</link>
     <description>Recent content in GIS on Refresh Annapolis Valley</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
     <lastBuildDate>Wed, 10 Aug 2016 19:00:00 +0000</lastBuildDate>
     <atom:link href="https://refreshannapolisvalley.org/topics/gis/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>https://refreshannapolisvalley.org/organization/precisionhawk/</link>
       <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
       <guid>https://refreshannapolisvalley.org/organization/precisionhawk/</guid>
-      <description>&lt;p&gt;PrecisionHawk is the leading provider of aerial data and safety platforms for drones. The Lancaster  is PrecisionHawk’s fixed-wing, autonomous drone built to collect the highest quality terrestrial data using a host of integrated sensors including visual, thermal, LiDAR, multispectral and hyperspectral. PrecisionHawk houses three divisions that support its mission: DataMapper aerial mapping and analysis software, TerraServer satellite imagery and LATAS (Low Altitude Traffic and Airspace Safety).&lt;/p&gt;</description>
+      <description>PrecisionHawk is the leading provider of aerial data and safety platforms for drones. The Lancaster is PrecisionHawk’s fixed-wing, autonomous drone built to collect the highest quality terrestrial data using a host of integrated sensors including visual, thermal, LiDAR, multispectral and hyperspectral. PrecisionHawk houses three divisions that support its mission: DataMapper aerial mapping and analysis software, TerraServer satellite imagery and LATAS (Low Altitude Traffic and Airspace Safety).</description>
     </item>
   </channel>
 </rss>
